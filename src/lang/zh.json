@@ -1,0 +1,988 @@
+{
+  "+8S2CR": [
+    {
+      "type": 0,
+      "value": "导入密钥"
+    }
+  ],
+  "+HZbUZ": [
+    {
+      "type": 0,
+      "value": "当设备锁定时自动锁定钥匙标志。"
+    }
+  ],
+  "+S3qBX": [
+    {
+      "type": 0,
+      "value": "验证失败"
+    }
+  ],
+  "+pD6+Y": [
+    {
+      "type": 0,
+      "value": "备忘录（可选）"
+    }
+  ],
+  "/0TOL5": [
+    {
+      "type": 0,
+      "value": "数量"
+    }
+  ],
+  "/HSJor": [
+    {
+      "type": 0,
+      "value": "MrSky"
+    }
+  ],
+  "/X8qTz": [
+    {
+      "type": 0,
+      "value": "TNBCROW 是一个 P2P 交易社区。"
+    }
+  ],
+  "/Yb8GH": [
+    {
+      "type": 0,
+      "value": "Keysign 不拥有 TNBCROW"
+    }
+  ],
+  "/uNyiO": [
+    {
+      "type": 0,
+      "value": "自动锁定"
+    }
+  ],
+  "0D+jgY": [
+    {
+      "type": 0,
+      "value": "管理 TNB 资产，并连接到 TNB 应用程序。"
+    }
+  ],
+  "0l3ebm": [
+    {
+      "type": 0,
+      "value": "必须至少包含3个字符！"
+    }
+  ],
+  "37OpDn": [
+    {
+      "type": 0,
+      "value": "选择银行节点"
+    }
+  ],
+  "3mvL2Q": [
+    {
+      "type": 0,
+      "value": "和"
+    }
+  ],
+  "3yk8fB": [
+    {
+      "type": 0,
+      "value": "钱包"
+    }
+  ],
+  "47FYwb": [
+    {
+      "type": 0,
+      "value": "取消"
+    }
+  ],
+  "4vjdwA": [
+    {
+      "type": 0,
+      "value": "同步成功"
+    }
+  ],
+  "5TH8l7": [
+    {
+      "type": 0,
+      "value": "转到设置 > 同步/导入/导出"
+    }
+  ],
+  "5sg7KC": [
+    {
+      "type": 0,
+      "value": "密码"
+    }
+  ],
+  "62nsdy": [
+    {
+      "type": 0,
+      "value": "重试"
+    }
+  ],
+  "6ERahF": [
+    {
+      "type": 0,
+      "value": "来自 "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "7cGKSL": [
+    {
+      "type": 0,
+      "value": "锁定代币"
+    }
+  ],
+  "8ysmEn": [
+    {
+      "type": 0,
+      "value": "打开您的浏览器钱包"
+    }
+  ],
+  "90axO4": [
+    {
+      "type": 0,
+      "value": "交易"
+    }
+  ],
+  "9QV9HO": [
+    {
+      "type": 0,
+      "value": "TNB管理"
+    }
+  ],
+  "9WRlF4": [
+    {
+      "type": 0,
+      "value": "发送"
+    }
+  ],
+  "9XUYQt": [
+    {
+      "type": 0,
+      "value": "导入"
+    }
+  ],
+  "9vkJzM": [
+    {
+      "type": 0,
+      "value": "Keysign 0.0.2"
+    }
+  ],
+  "A4nR/Y": [
+    {
+      "type": 0,
+      "value": "Keysign 对此项服务不承担任何责任。"
+    }
+  ],
+  "AYrXQt": [
+    {
+      "type": 0,
+      "value": "传输成功"
+    }
+  ],
+  "AaKEvg": [
+    {
+      "type": 0,
+      "value": "不得超过 64 个字符！"
+    }
+  ],
+  "AyGauy": [
+    {
+      "type": 0,
+      "value": "登录"
+    }
+  ],
+  "B97E6J": [
+    {
+      "type": 0,
+      "value": "点击“同步手机”按钮"
+    }
+  ],
+  "Bbkxom": [
+    {
+      "type": 0,
+      "value": "空闲锁"
+    }
+  ],
+  "CRxUr0": [
+    {
+      "type": 0,
+      "value": "导入时，只会添加实例上尚不存在的帐户。"
+    }
+  ],
+  "CdmEya": [
+    {
+      "type": 0,
+      "value": "握手验证"
+    }
+  ],
+  "CpHRw1": [
+    {
+      "type": 0,
+      "value": "传输失败"
+    }
+  ],
+  "D3idYv": [
+    {
+      "type": 0,
+      "value": "设置"
+    }
+  ],
+  "D3rOMr": [
+    {
+      "type": 0,
+      "value": "没有数据"
+    }
+  ],
+  "D5NqQO": [
+    {
+      "type": 0,
+      "value": "备忘录"
+    }
+  ],
+  "DMFF/H": [
+    {
+      "type": 0,
+      "value": "同步失败"
+    }
+  ],
+  "DtYelJ": [
+    {
+      "type": 0,
+      "value": "传输"
+    }
+  ],
+  "Duy+4J": [
+    {
+      "type": 0,
+      "value": "验证器费用："
+    },
+    {
+      "style": null,
+      "type": 2,
+      "value": "amount"
+    }
+  ],
+  "Ev6SEF": [
+    {
+      "type": 0,
+      "value": "新密码"
+    }
+  ],
+  "G8KMIa": [
+    {
+      "type": 0,
+      "value": "始终使用托管服务，目前它们是免费的。"
+    }
+  ],
+  "GAWz1j": [
+    {
+      "type": 0,
+      "value": "设备锁"
+    }
+  ],
+  "GZ/ORp": [
+    {
+      "type": 0,
+      "value": "不得超过 100 个字符！"
+    }
+  ],
+  "GretYf": [
+    {
+      "type": 0,
+      "value": "当前密码"
+    }
+  ],
+  "GseaGh": [
+    {
+      "type": 0,
+      "value": "手动或在应用程序关闭时锁定 Keysign。"
+    }
+  ],
+  "H4lIvd": [
+    {
+      "type": 0,
+      "value": "默认银行是通过keysign设置的。"
+    }
+  ],
+  "IPTyRk": [
+    {
+      "type": 0,
+      "value": "导出"
+    }
+  ],
+  "Icxxne": [
+    {
+      "type": 0,
+      "value": "您可以导出文件中所有加密的密钥。 这将允许您将它们导入到另一台设备上的keysign或只是保管它们。"
+    }
+  ],
+  "IglYTF": [
+    {
+      "type": 0,
+      "value": "必须至少8个字符！"
+    }
+  ],
+  "IkSnjI": [
+    {
+      "type": 0,
+      "value": "生成钱包"
+    }
+  ],
+  "J4N5HW": [
+    {
+      "type": 0,
+      "value": "继续"
+    }
+  ],
+  "Jex29j": [
+    {
+      "type": 0,
+      "value": "在应用程序窗口闲置了指定分钟数以后将自动锁定 Keysign。"
+    }
+  ],
+  "KH/2zQ": [
+    {
+      "type": 0,
+      "value": "转换资金"
+    }
+  ],
+  "KN7zKn": [
+    {
+      "type": 0,
+      "value": "错误"
+    }
+  ],
+  "KqpQmG": [
+    {
+      "type": 0,
+      "value": "选择朋友"
+    }
+  ],
+  "LQhIrI": [
+    {
+      "type": 0,
+      "value": "只允许数字和字母"
+    }
+  ],
+  "LiHQih": [
+    {
+      "type": 0,
+      "value": "即将推出"
+    }
+  ],
+  "LwzY+Y": [
+    {
+      "type": 0,
+      "value": "清除所有数据"
+    }
+  ],
+  "MEVZgX": [
+    {
+      "type": 0,
+      "value": "扫描二维码开始同步"
+    }
+  ],
+  "MODFAR": [
+    {
+      "type": 0,
+      "value": "导入密钥"
+    }
+  ],
+  "NmZvub": [
+    {
+      "type": 0,
+      "value": "不能为空"
+    }
+  ],
+  "O8gaYk": [
+    {
+      "type": 0,
+      "value": "发送扫描"
+    }
+  ],
+  "OTl3nO": [
+    {
+      "type": 0,
+      "value": "同步/导入/导出"
+    }
+  ],
+  "OZSO9W": [
+    {
+      "type": 0,
+      "value": "必须至少 64 个字符！"
+    }
+  ],
+  "Olyz0E": [
+    {
+      "type": 0,
+      "value": "该账号的好友已经存在！"
+    }
+  ],
+  "Oua4RH": [
+    {
+      "type": 0,
+      "value": "从......收到："
+    }
+  ],
+  "P5ynDZ": [
+    {
+      "type": 0,
+      "value": "同步扫描"
+    }
+  ],
+  "PCSt5T": [
+    {
+      "type": 0,
+      "value": "偏好设置"
+    }
+  ],
+  "PJE8pF": [
+    {
+      "type": 0,
+      "value": "展示费用"
+    }
+  ],
+  "Pswssl": [
+    {
+      "type": 0,
+      "value": "确认"
+    }
+  ],
+  "QbCyGW": [
+    {
+      "type": 0,
+      "value": "简单、轻便又安全。 开始连接或创建您的 TNB 钱包吧。"
+    }
+  ],
+  "QiKKFz": [
+    {
+      "type": 0,
+      "value": "更改密码"
+    }
+  ],
+  "QrSVSd": [
+    {
+      "type": 0,
+      "value": "握手传输"
+    }
+  ],
+  "R/WihK": [
+    {
+      "type": 0,
+      "value": "提交"
+    }
+  ],
+  "ROlscS": [
+    {
+      "type": 0,
+      "value": "在此处添加您的银行节点："
+    }
+  ],
+  "S8ZlY6": [
+    {
+      "type": 0,
+      "value": "节省"
+    }
+  ],
+  "SVVSmw": [
+    {
+      "type": 0,
+      "value": "扫描错误"
+    }
+  ],
+  "SYy/Mr": [
+    {
+      "type": 0,
+      "value": "提供的密码不正确"
+    }
+  ],
+  "Sw5Z2S": [
+    {
+      "type": 0,
+      "value": "添加银行"
+    }
+  ],
+  "TO4Vzt": [
+    {
+      "type": 0,
+      "value": "新波士顿区块链"
+    }
+  ],
+  "UeNAXN": [
+    {
+      "type": 0,
+      "value": "选择语言"
+    }
+  ],
+  "VLTmsF": [
+    {
+      "type": 0,
+      "value": "暂时还没有好友"
+    }
+  ],
+  "W47yNx": [
+    {
+      "type": 0,
+      "value": "代币总数"
+    }
+  ],
+  "WLBY1S": [
+    {
+      "type": 0,
+      "value": "好友管理"
+    }
+  ],
+  "WXRfPz": [
+    {
+      "type": 0,
+      "value": "同步钱包的步骤"
+    }
+  ],
+  "XCnG27": [
+    {
+      "type": 0,
+      "value": "Keysign 移动应用程序的创建是为了与......协同"
+    }
+  ],
+  "XMYlZD": [
+    {
+      "type": 0,
+      "value": "我的钱包"
+    }
+  ],
+  "XYtt8J": [
+    {
+      "type": 0,
+      "value": "钱包名称"
+    }
+  ],
+  "XcCIUg": [
+    {
+      "type": 0,
+      "value": "Keysign"
+    }
+  ],
+  "Y3rADe": [
+    {
+      "type": 0,
+      "value": "确保在周围没有其它人的情况下输入您的密码。"
+    }
+  ],
+  "YTIVDO": [
+    {
+      "type": 0,
+      "value": "银行节点"
+    }
+  ],
+  "YpQLBX": [
+    {
+      "type": 0,
+      "value": "钱包已成功导出"
+    }
+  ],
+  "Yuklh3": [
+    {
+      "type": 0,
+      "value": "生成钱包"
+    }
+  ],
+  "Z7oS9I": [
+    {
+      "type": 0,
+      "value": "没有钱包"
+    }
+  ],
+  "ZHM9r2": [
+    {
+      "type": 0,
+      "value": "添加好友"
+    }
+  ],
+  "Ze/AG8": [
+    {
+      "type": 0,
+      "value": "生成"
+    }
+  ],
+  "ZhHaEw": [
+    {
+      "type": 0,
+      "value": "到帐号"
+    }
+  ],
+  "a5msuh": [
+    {
+      "type": 0,
+      "value": "是"
+    }
+  ],
+  "aCVoQT": [
+    {
+      "type": 0,
+      "value": "银行费用： "
+    },
+    {
+      "style": null,
+      "type": 2,
+      "value": "amount"
+    }
+  ],
+  "b7SVXM": [
+    {
+      "type": 0,
+      "value": "钱包管理"
+    }
+  ],
+  "c0vVbD": [
+    {
+      "type": 0,
+      "value": "登录"
+    }
+  ],
+  "c2hHXM": [
+    {
+      "type": 0,
+      "value": "钱包导入成功"
+    }
+  ],
+  "c5g9Rt": [
+    {
+      "type": 0,
+      "value": "删除好友"
+    }
+  ],
+  "ceW3ER": [
+    {
+      "type": 0,
+      "value": "确认"
+    }
+  ],
+  "clx9/J": [
+    {
+      "type": 0,
+      "value": "默认"
+    }
+  ],
+  "dChb0Y": [
+    {
+      "type": 0,
+      "value": "扫描二维码"
+    }
+  ],
+  "djJp6c": [
+    {
+      "type": 0,
+      "value": "历史"
+    }
+  ],
+  "e2W5iK": [
+    {
+      "type": 0,
+      "value": "发送至:"
+    }
+  ],
+  "ejEGdx": [
+    {
+      "type": 0,
+      "value": "主页"
+    }
+  ],
+  "fG1IZC": [
+    {
+      "type": 0,
+      "value": "您将被发送到不和谐社区。"
+    }
+  ],
+  "fMaoRo": [
+    {
+      "type": 0,
+      "value": "您确定要删除这个好友吗？"
+    }
+  ],
+  "fS+jdZ": [
+    {
+      "type": 0,
+      "value": "您确定要删除这个钱包吗？"
+    }
+  ],
+  "gBnpR/": [
+    {
+      "type": 0,
+      "value": "应用介绍"
+    }
+  ],
+  "gjBiyj": [
+    {
+      "type": 0,
+      "value": "加载中..."
+    }
+  ],
+  "gvr0wo": [
+    {
+      "type": 0,
+      "value": "同步钱包"
+    }
+  ],
+  "h/ftND": [
+    {
+      "type": 0,
+      "value": "选择一个文件"
+    }
+  ],
+  "h2vipu": [
+    {
+      "type": 0,
+      "value": "代码"
+    }
+  ],
+  "hHk8xH": [
+    {
+      "type": 0,
+      "value": "在 TNBCROW 上交易"
+    }
+  ],
+  "hqv+qJ": [
+    {
+      "type": 0,
+      "value": "如要添加新的银行，请单击下拉菜单中的添加银行。"
+    }
+  ],
+  "iC997S": [
+    {
+      "type": 0,
+      "value": "Add Back"
+    }
+  ],
+  "iIX2t1": [
+    {
+      "type": 0,
+      "value": "无法选择文件"
+    }
+  ],
+  "iKDTfl": [
+    {
+      "type": 0,
+      "value": "好友名称"
+    }
+  ],
+  "iKt39A": [
+    {
+      "type": 0,
+      "value": "您确定要删除此银行吗？"
+    }
+  ],
+  "iUzlyp": [
+    {
+      "type": 0,
+      "value": "删除钱包"
+    }
+  ],
+  "iotsqr": [
+    {
+      "type": 0,
+      "value": "验证成功"
+    }
+  ],
+  "jsy7pk": [
+    {
+      "type": 0,
+      "value": "请重试"
+    }
+  ],
+  "kQAf2d": [
+    {
+      "type": 0,
+      "value": "选择"
+    }
+  ],
+  "l0jKdB": [
+    {
+      "type": 0,
+      "value": "添加好友"
+    }
+  ],
+  "lr13V0": [
+    {
+      "type": 0,
+      "value": "返回主页"
+    }
+  ],
+  "m99RHg": [
+    {
+      "type": 0,
+      "value": "KEYSIGN"
+    }
+  ],
+  "nuWwea": [
+    {
+      "type": 0,
+      "value": "登录失败"
+    }
+  ],
+  "oEli2v": [
+    {
+      "type": 0,
+      "value": "它是由......双方开发和设计的"
+    }
+  ],
+  "oUWADl": [
+    {
+      "type": 0,
+      "value": "否"
+    }
+  ],
+  "orLknm": [
+    {
+      "type": 0,
+      "value": "扫描"
+    }
+  ],
+  "p556q3": [
+    {
+      "type": 0,
+      "value": "已复制"
+    }
+  ],
+  "pb93i7": [
+    {
+      "type": 0,
+      "value": "NB; 这不能被撤消。"
+    }
+  ],
+  "pvIJw6": [
+    {
+      "type": 0,
+      "value": "两个密码必须一致！"
+    }
+  ],
+  "q4RWBX": [
+    {
+      "type": 0,
+      "value": "开始"
+    }
+  ],
+  "qZbedW": [
+    {
+      "type": 0,
+      "value": "费用"
+    }
+  ],
+  "qp2cDY": [
+    {
+      "type": 0,
+      "value": "钱包管理"
+    }
+  ],
+  "qzy/q1": [
+    {
+      "type": 0,
+      "value": "忘记密码 ？"
+    }
+  ],
+  "rV/x4O": [
+    {
+      "type": 0,
+      "value": "如果您忘记了密码，您可以清除数据，但必须重新输入所有的密钥。"
+    }
+  ],
+  "ruJlSX": [
+    {
+      "type": 0,
+      "value": "下一步"
+    }
+  ],
+  "t401lQ": [
+    {
+      "type": 0,
+      "value": "导入"
+    }
+  ],
+  "umg69G": [
+    {
+      "type": 0,
+      "value": "添加钱包"
+    }
+  ],
+  "v3gr+l": [
+    {
+      "type": 0,
+      "value": "使用AACN/登录"
+    }
+  ],
+  "vV2G6z": [
+    {
+      "type": 0,
+      "value": "账号"
+    }
+  ],
+  "vfG+nh": [
+    {
+      "type": 0,
+      "value": "确认密码"
+    }
+  ],
+  "vrMPql": [
+    {
+      "type": 0,
+      "value": "TNB钱包"
+    }
+  ],
+  "wdOQAC": [
+    {
+      "type": 0,
+      "value": "关于Keysign"
+    }
+  ],
+  "xQ6aNc": [
+    {
+      "type": 0,
+      "value": "创建密码"
+    }
+  ],
+  "xedgjh": [
+    {
+      "type": 0,
+      "value": "不得超过 12 个字符!"
+    }
+  ],
+  "xrKHS6": [
+    {
+      "type": 0,
+      "value": "成功"
+    }
+  ],
+  "xuxczX": [
+    {
+      "type": 0,
+      "value": "设备扫描失败"
+    }
+  ],
+  "y9dbbX": [
+    {
+      "type": 0,
+      "value": "创建密码"
+    }
+  ],
+  "yJgJcp": [
+    {
+      "type": 0,
+      "value": "Keysign 是在链上访问您的 TNB 钱包的最佳方式。"
+    }
+  ],
+  "yc5XUr": [
+    {
+      "type": 0,
+      "value": "使用Acc/Signkey"
+    }
+  ],
+  "yd1dFh": [
+    {
+      "type": 0,
+      "value": "签名密钥"
+    }
+  ],
+  "z7Siok": [
+    {
+      "type": 0,
+      "value": "Abhay."
+    }
+  ]
+}

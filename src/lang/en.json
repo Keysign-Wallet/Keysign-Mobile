@@ -1,0 +1,988 @@
+{
+  "+8S2CR": [
+    {
+      "type": 0,
+      "value": "IMPORT KEYS"
+    }
+  ],
+  "+HZbUZ": [
+    {
+      "type": 0,
+      "value": "Auto-lock the Keysign when the device locks."
+    }
+  ],
+  "+S3qBX": [
+    {
+      "type": 0,
+      "value": "Verify Failed"
+    }
+  ],
+  "+pD6+Y": [
+    {
+      "type": 0,
+      "value": "Memo (optional)"
+    }
+  ],
+  "/0TOL5": [
+    {
+      "type": 0,
+      "value": "Amount"
+    }
+  ],
+  "/HSJor": [
+    {
+      "type": 0,
+      "value": "MrSky"
+    }
+  ],
+  "/X8qTz": [
+    {
+      "type": 0,
+      "value": "TNBCROW is a P2P trading community."
+    }
+  ],
+  "/Yb8GH": [
+    {
+      "type": 0,
+      "value": "Keysign does not own TNBCROW"
+    }
+  ],
+  "/uNyiO": [
+    {
+      "type": 0,
+      "value": "Auto Lock"
+    }
+  ],
+  "0D+jgY": [
+    {
+      "type": 0,
+      "value": "Manage TNB assets, and connect to TNB applications."
+    }
+  ],
+  "0l3ebm": [
+    {
+      "type": 0,
+      "value": "Must be at least 3 characters!"
+    }
+  ],
+  "37OpDn": [
+    {
+      "type": 0,
+      "value": "Select a Bank node"
+    }
+  ],
+  "3mvL2Q": [
+    {
+      "type": 0,
+      "value": "and"
+    }
+  ],
+  "3yk8fB": [
+    {
+      "type": 0,
+      "value": "Wallet"
+    }
+  ],
+  "47FYwb": [
+    {
+      "type": 0,
+      "value": "Cancel"
+    }
+  ],
+  "4vjdwA": [
+    {
+      "type": 0,
+      "value": "Sync Successful"
+    }
+  ],
+  "5TH8l7": [
+    {
+      "type": 0,
+      "value": "Go to settings > Sync/Import/Export"
+    }
+  ],
+  "5sg7KC": [
+    {
+      "type": 0,
+      "value": "Password"
+    }
+  ],
+  "62nsdy": [
+    {
+      "type": 0,
+      "value": "Retry"
+    }
+  ],
+  "6ERahF": [
+    {
+      "type": 0,
+      "value": "From "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "7cGKSL": [
+    {
+      "type": 0,
+      "value": "Locked coins"
+    }
+  ],
+  "8ysmEn": [
+    {
+      "type": 0,
+      "value": "Open your Browser wallet"
+    }
+  ],
+  "90axO4": [
+    {
+      "type": 0,
+      "value": "Trade"
+    }
+  ],
+  "9QV9HO": [
+    {
+      "type": 0,
+      "value": "MANAGE TNB"
+    }
+  ],
+  "9WRlF4": [
+    {
+      "type": 0,
+      "value": "Send"
+    }
+  ],
+  "9XUYQt": [
+    {
+      "type": 0,
+      "value": "Import"
+    }
+  ],
+  "9vkJzM": [
+    {
+      "type": 0,
+      "value": "Keysign 0.0.2"
+    }
+  ],
+  "A4nR/Y": [
+    {
+      "type": 0,
+      "value": "Keysign is not liable for this service."
+    }
+  ],
+  "AYrXQt": [
+    {
+      "type": 0,
+      "value": "Transfer Successful"
+    }
+  ],
+  "AaKEvg": [
+    {
+      "type": 0,
+      "value": "Must not exceed 64 characters!"
+    }
+  ],
+  "AyGauy": [
+    {
+      "type": 0,
+      "value": "Login"
+    }
+  ],
+  "B97E6J": [
+    {
+      "type": 0,
+      "value": "Click the “Sync Mobile” button"
+    }
+  ],
+  "Bbkxom": [
+    {
+      "type": 0,
+      "value": "IDLE LOCK"
+    }
+  ],
+  "CRxUr0": [
+    {
+      "type": 0,
+      "value": "When importing, only accounts that are not already present on the instance will be added."
+    }
+  ],
+  "CdmEya": [
+    {
+      "type": 0,
+      "value": "Handshake Verify"
+    }
+  ],
+  "CpHRw1": [
+    {
+      "type": 0,
+      "value": "Transfer Failed"
+    }
+  ],
+  "D3idYv": [
+    {
+      "type": 0,
+      "value": "Settings"
+    }
+  ],
+  "D3rOMr": [
+    {
+      "type": 0,
+      "value": "No Data"
+    }
+  ],
+  "D5NqQO": [
+    {
+      "type": 0,
+      "value": "Memo"
+    }
+  ],
+  "DMFF/H": [
+    {
+      "type": 0,
+      "value": "Sync Failed"
+    }
+  ],
+  "DtYelJ": [
+    {
+      "type": 0,
+      "value": "Transfer"
+    }
+  ],
+  "Duy+4J": [
+    {
+      "type": 0,
+      "value": "Validator Fee: "
+    },
+    {
+      "style": null,
+      "type": 2,
+      "value": "amount"
+    }
+  ],
+  "Ev6SEF": [
+    {
+      "type": 0,
+      "value": "New Password"
+    }
+  ],
+  "G8KMIa": [
+    {
+      "type": 0,
+      "value": "Always use an escrow, they are currently free."
+    }
+  ],
+  "GAWz1j": [
+    {
+      "type": 0,
+      "value": "DEVICE LOCK"
+    }
+  ],
+  "GZ/ORp": [
+    {
+      "type": 0,
+      "value": "Must not exceed 100 characters!"
+    }
+  ],
+  "GretYf": [
+    {
+      "type": 0,
+      "value": "Current Password"
+    }
+  ],
+  "GseaGh": [
+    {
+      "type": 0,
+      "value": "Lock the Keysign manually or when the app is closed."
+    }
+  ],
+  "H4lIvd": [
+    {
+      "type": 0,
+      "value": "The default bank is set by keysign."
+    }
+  ],
+  "IPTyRk": [
+    {
+      "type": 0,
+      "value": "EXPORT"
+    }
+  ],
+  "Icxxne": [
+    {
+      "type": 0,
+      "value": "You can export all your keys encrypted in a file. This will allow you to import them to keysign on another device or simply safeguard them."
+    }
+  ],
+  "IglYTF": [
+    {
+      "type": 0,
+      "value": "Must be at least 8 characters!"
+    }
+  ],
+  "IkSnjI": [
+    {
+      "type": 0,
+      "value": "Generate Wallet"
+    }
+  ],
+  "J4N5HW": [
+    {
+      "type": 0,
+      "value": "CONTINUE"
+    }
+  ],
+  "Jex29j": [
+    {
+      "type": 0,
+      "value": "Auto-lock the Keysign after the app window is idle for the specified number of minutes."
+    }
+  ],
+  "KH/2zQ": [
+    {
+      "type": 0,
+      "value": "Transfer Fund"
+    }
+  ],
+  "KN7zKn": [
+    {
+      "type": 0,
+      "value": "Error"
+    }
+  ],
+  "KqpQmG": [
+    {
+      "type": 0,
+      "value": "Select Friend"
+    }
+  ],
+  "LQhIrI": [
+    {
+      "type": 0,
+      "value": "Only numbers and letters allowed"
+    }
+  ],
+  "LiHQih": [
+    {
+      "type": 0,
+      "value": "Coming Soon"
+    }
+  ],
+  "LwzY+Y": [
+    {
+      "type": 0,
+      "value": "Clear All Data"
+    }
+  ],
+  "MEVZgX": [
+    {
+      "type": 0,
+      "value": "Scan the QR code To begin the SYNC"
+    }
+  ],
+  "MODFAR": [
+    {
+      "type": 0,
+      "value": "Import Keys"
+    }
+  ],
+  "NmZvub": [
+    {
+      "type": 0,
+      "value": "Must not be empty"
+    }
+  ],
+  "O8gaYk": [
+    {
+      "type": 0,
+      "value": "Send Scan"
+    }
+  ],
+  "OTl3nO": [
+    {
+      "type": 0,
+      "value": "Sync/Import/Export"
+    }
+  ],
+  "OZSO9W": [
+    {
+      "type": 0,
+      "value": "Must be at least 64 characters!"
+    }
+  ],
+  "Olyz0E": [
+    {
+      "type": 0,
+      "value": "Friend with this account number already exists!"
+    }
+  ],
+  "Oua4RH": [
+    {
+      "type": 0,
+      "value": "Received from:"
+    }
+  ],
+  "P5ynDZ": [
+    {
+      "type": 0,
+      "value": "Sync Scan"
+    }
+  ],
+  "PCSt5T": [
+    {
+      "type": 0,
+      "value": "Preferences"
+    }
+  ],
+  "PJE8pF": [
+    {
+      "type": 0,
+      "value": "Show Fee"
+    }
+  ],
+  "Pswssl": [
+    {
+      "type": 0,
+      "value": "Confirmation"
+    }
+  ],
+  "QbCyGW": [
+    {
+      "type": 0,
+      "value": "Simple, lightweight, and secure. Get started to connect or create your TNB wallet."
+    }
+  ],
+  "QiKKFz": [
+    {
+      "type": 0,
+      "value": "Change Password"
+    }
+  ],
+  "QrSVSd": [
+    {
+      "type": 0,
+      "value": "Handshake Transfer"
+    }
+  ],
+  "R/WihK": [
+    {
+      "type": 0,
+      "value": "SUBMIT"
+    }
+  ],
+  "ROlscS": [
+    {
+      "type": 0,
+      "value": "Add your BANK node here:"
+    }
+  ],
+  "S8ZlY6": [
+    {
+      "type": 0,
+      "value": "SAVE"
+    }
+  ],
+  "SVVSmw": [
+    {
+      "type": 0,
+      "value": "Scan Error"
+    }
+  ],
+  "SYy/Mr": [
+    {
+      "type": 0,
+      "value": "Incorrect password provided"
+    }
+  ],
+  "Sw5Z2S": [
+    {
+      "type": 0,
+      "value": "ADD BANK"
+    }
+  ],
+  "TO4Vzt": [
+    {
+      "type": 0,
+      "value": "TheNewBoston Blockchain"
+    }
+  ],
+  "UeNAXN": [
+    {
+      "type": 0,
+      "value": "Choose Language"
+    }
+  ],
+  "VLTmsF": [
+    {
+      "type": 0,
+      "value": "No Friends Yet"
+    }
+  ],
+  "W47yNx": [
+    {
+      "type": 0,
+      "value": "Total coins"
+    }
+  ],
+  "WLBY1S": [
+    {
+      "type": 0,
+      "value": "Manage Friends"
+    }
+  ],
+  "WXRfPz": [
+    {
+      "type": 0,
+      "value": "Steps to sync your wallets"
+    }
+  ],
+  "XCnG27": [
+    {
+      "type": 0,
+      "value": "Keysign mobile application was created to work with"
+    }
+  ],
+  "XMYlZD": [
+    {
+      "type": 0,
+      "value": "My Wallet"
+    }
+  ],
+  "XYtt8J": [
+    {
+      "type": 0,
+      "value": "Wallet Name"
+    }
+  ],
+  "XcCIUg": [
+    {
+      "type": 0,
+      "value": "Keysign"
+    }
+  ],
+  "Y3rADe": [
+    {
+      "type": 0,
+      "value": "Enter your password with no one around."
+    }
+  ],
+  "YTIVDO": [
+    {
+      "type": 0,
+      "value": "Bank Node"
+    }
+  ],
+  "YpQLBX": [
+    {
+      "type": 0,
+      "value": "Wallets has been exported successfully"
+    }
+  ],
+  "Yuklh3": [
+    {
+      "type": 0,
+      "value": "GENERATE WALLET"
+    }
+  ],
+  "Z7oS9I": [
+    {
+      "type": 0,
+      "value": "No Wallet"
+    }
+  ],
+  "ZHM9r2": [
+    {
+      "type": 0,
+      "value": "ADD FRIEND"
+    }
+  ],
+  "Ze/AG8": [
+    {
+      "type": 0,
+      "value": "GENERATE"
+    }
+  ],
+  "ZhHaEw": [
+    {
+      "type": 0,
+      "value": "To Account Number"
+    }
+  ],
+  "a5msuh": [
+    {
+      "type": 0,
+      "value": "Yes"
+    }
+  ],
+  "aCVoQT": [
+    {
+      "type": 0,
+      "value": "Bank Fee: "
+    },
+    {
+      "style": null,
+      "type": 2,
+      "value": "amount"
+    }
+  ],
+  "b7SVXM": [
+    {
+      "type": 0,
+      "value": "Manage Wallet"
+    }
+  ],
+  "c0vVbD": [
+    {
+      "type": 0,
+      "value": "SIGN IN"
+    }
+  ],
+  "c2hHXM": [
+    {
+      "type": 0,
+      "value": "Wallets has been imported successfully"
+    }
+  ],
+  "c5g9Rt": [
+    {
+      "type": 0,
+      "value": "DELETE FRIEND"
+    }
+  ],
+  "ceW3ER": [
+    {
+      "type": 0,
+      "value": "CONFIRM"
+    }
+  ],
+  "clx9/J": [
+    {
+      "type": 0,
+      "value": "DEFAULT"
+    }
+  ],
+  "dChb0Y": [
+    {
+      "type": 0,
+      "value": "Scan the QR code"
+    }
+  ],
+  "djJp6c": [
+    {
+      "type": 0,
+      "value": "History"
+    }
+  ],
+  "e2W5iK": [
+    {
+      "type": 0,
+      "value": "Send to:"
+    }
+  ],
+  "ejEGdx": [
+    {
+      "type": 0,
+      "value": "Home"
+    }
+  ],
+  "fG1IZC": [
+    {
+      "type": 0,
+      "value": "You will be sent to a discord community."
+    }
+  ],
+  "fMaoRo": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to delete this friend?"
+    }
+  ],
+  "fS+jdZ": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to delete this wallet?"
+    }
+  ],
+  "gBnpR/": [
+    {
+      "type": 0,
+      "value": "AppIntro"
+    }
+  ],
+  "gjBiyj": [
+    {
+      "type": 0,
+      "value": "Loading..."
+    }
+  ],
+  "gvr0wo": [
+    {
+      "type": 0,
+      "value": "SYNC WALLET"
+    }
+  ],
+  "h/ftND": [
+    {
+      "type": 0,
+      "value": "Choose a file"
+    }
+  ],
+  "h2vipu": [
+    {
+      "type": 0,
+      "value": "Code"
+    }
+  ],
+  "hHk8xH": [
+    {
+      "type": 0,
+      "value": "Trade on TNBCROW"
+    }
+  ],
+  "hqv+qJ": [
+    {
+      "type": 0,
+      "value": "To add a new bank, click ADD BANK in dropdown."
+    }
+  ],
+  "iC997S": [
+    {
+      "type": 0,
+      "value": "Add Back"
+    }
+  ],
+  "iIX2t1": [
+    {
+      "type": 0,
+      "value": "Unable to select file"
+    }
+  ],
+  "iKDTfl": [
+    {
+      "type": 0,
+      "value": "Friend Name"
+    }
+  ],
+  "iKt39A": [
+    {
+      "type": 0,
+      "value": "Are you sure you want to remove this bank?"
+    }
+  ],
+  "iUzlyp": [
+    {
+      "type": 0,
+      "value": "DELETE WALLET"
+    }
+  ],
+  "iotsqr": [
+    {
+      "type": 0,
+      "value": "Verify Successful"
+    }
+  ],
+  "jsy7pk": [
+    {
+      "type": 0,
+      "value": "Try Again"
+    }
+  ],
+  "kQAf2d": [
+    {
+      "type": 0,
+      "value": "Select"
+    }
+  ],
+  "l0jKdB": [
+    {
+      "type": 0,
+      "value": "Add Friend"
+    }
+  ],
+  "lr13V0": [
+    {
+      "type": 0,
+      "value": "Go Home"
+    }
+  ],
+  "m99RHg": [
+    {
+      "type": 0,
+      "value": "KEYSIGN"
+    }
+  ],
+  "nuWwea": [
+    {
+      "type": 0,
+      "value": "Login failed"
+    }
+  ],
+  "oEli2v": [
+    {
+      "type": 0,
+      "value": "It was developed and designed by both"
+    }
+  ],
+  "oUWADl": [
+    {
+      "type": 0,
+      "value": "No"
+    }
+  ],
+  "orLknm": [
+    {
+      "type": 0,
+      "value": "Scan"
+    }
+  ],
+  "p556q3": [
+    {
+      "type": 0,
+      "value": "Copied"
+    }
+  ],
+  "pb93i7": [
+    {
+      "type": 0,
+      "value": "NB; This cannot be undone."
+    }
+  ],
+  "pvIJw6": [
+    {
+      "type": 0,
+      "value": "Both passwords must match!"
+    }
+  ],
+  "q4RWBX": [
+    {
+      "type": 0,
+      "value": "GET STARTED"
+    }
+  ],
+  "qZbedW": [
+    {
+      "type": 0,
+      "value": "Fees"
+    }
+  ],
+  "qp2cDY": [
+    {
+      "type": 0,
+      "value": "Manage Wallets"
+    }
+  ],
+  "qzy/q1": [
+    {
+      "type": 0,
+      "value": "Forgot Password ?"
+    }
+  ],
+  "rV/x4O": [
+    {
+      "type": 0,
+      "value": "If you forgot your password, you can clear your data but will have to enter all your keys again."
+    }
+  ],
+  "ruJlSX": [
+    {
+      "type": 0,
+      "value": "NEXT"
+    }
+  ],
+  "t401lQ": [
+    {
+      "type": 0,
+      "value": "IMPORT"
+    }
+  ],
+  "umg69G": [
+    {
+      "type": 0,
+      "value": "Add Wallet"
+    }
+  ],
+  "v3gr+l": [
+    {
+      "type": 0,
+      "value": "USE ACCN/SIGNIN"
+    }
+  ],
+  "vV2G6z": [
+    {
+      "type": 0,
+      "value": "Account Number"
+    }
+  ],
+  "vfG+nh": [
+    {
+      "type": 0,
+      "value": "Confirm Password"
+    }
+  ],
+  "vrMPql": [
+    {
+      "type": 0,
+      "value": "TNB WALLET"
+    }
+  ],
+  "wdOQAC": [
+    {
+      "type": 0,
+      "value": "About Keysign"
+    }
+  ],
+  "xQ6aNc": [
+    {
+      "type": 0,
+      "value": "Create Password"
+    }
+  ],
+  "xedgjh": [
+    {
+      "type": 0,
+      "value": "Must not exceed 12 characters!"
+    }
+  ],
+  "xrKHS6": [
+    {
+      "type": 0,
+      "value": "Success"
+    }
+  ],
+  "xuxczX": [
+    {
+      "type": 0,
+      "value": "Device failed to scan"
+    }
+  ],
+  "y9dbbX": [
+    {
+      "type": 0,
+      "value": "CreatePassword"
+    }
+  ],
+  "yJgJcp": [
+    {
+      "type": 0,
+      "value": "Keysign is the best way to access your TNB wallet on the chain."
+    }
+  ],
+  "yc5XUr": [
+    {
+      "type": 0,
+      "value": "Use Acc/Signkey"
+    }
+  ],
+  "yd1dFh": [
+    {
+      "type": 0,
+      "value": "Signing Key"
+    }
+  ],
+  "z7Siok": [
+    {
+      "type": 0,
+      "value": "Abhay."
+    }
+  ]
+}

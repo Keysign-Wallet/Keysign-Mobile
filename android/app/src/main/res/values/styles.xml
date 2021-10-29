@@ -1,0 +1,17 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/text</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:datePickerDialogTheme">@style/Dialog.Theme</item>
+    </style>
+    <style name="SplashScreenTheme" parent="SplashScreen_SplashTheme">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorPrimaryDark">@color/background</item>
+        <item name="android:navigationBarColor">@color/primary</item>
+    </style>
+    <style name="Dialog.Theme" parent="Theme.AppCompat.Light.Dialog">
+	    <item name="colorAccent">@color/primary</item>
+ 	</style>
+</resources>

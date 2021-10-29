@@ -1,0 +1,488 @@
+{
+  "+8S2CR": {
+    "defaultMessage": "导入密钥"
+  },
+  "+HZbUZ": {
+    "defaultMessage": "当设备锁定时自动锁定钥匙标志。"
+  },
+  "+S3qBX": {
+    "defaultMessage": "验证失败"
+  },
+  "+pD6+Y": {
+    "defaultMessage": "备忘录（可选）"
+  },
+  "/0TOL5": {
+    "defaultMessage": "数量"
+  },
+  "/HSJor": {
+    "defaultMessage": "MrSky"
+  },
+  "/X8qTz": {
+    "defaultMessage": "TNBCROW 是一个 P2P 交易社区。"
+  },
+  "/Yb8GH": {
+    "defaultMessage": "Keysign 不拥有 TNBCROW"
+  },
+  "/uNyiO": {
+    "defaultMessage": "自动锁定"
+  },
+  "0D+jgY": {
+    "defaultMessage": "管理 TNB 资产，并连接到 TNB 应用程序。"
+  },
+  "0l3ebm": {
+    "defaultMessage": "必须至少包含3个字符！"
+  },
+  "37OpDn": {
+    "defaultMessage": "选择银行节点"
+  },
+  "3mvL2Q": {
+    "defaultMessage": "和"
+  },
+  "3yk8fB": {
+    "defaultMessage": "钱包"
+  },
+  "47FYwb": {
+    "defaultMessage": "取消"
+  },
+  "4vjdwA": {
+    "defaultMessage": "同步成功"
+  },
+  "5TH8l7": {
+    "defaultMessage": "转到设置 > 同步/导入/导出"
+  },
+  "5sg7KC": {
+    "defaultMessage": "密码"
+  },
+  "62nsdy": {
+    "defaultMessage": "重试"
+  },
+  "6ERahF": {
+    "defaultMessage": "来自 {name}"
+  },
+  "7cGKSL": {
+    "defaultMessage": "锁定代币"
+  },
+  "8ysmEn": {
+    "defaultMessage": "打开您的浏览器钱包"
+  },
+  "90axO4": {
+    "defaultMessage": "交易"
+  },
+  "9QV9HO": {
+    "defaultMessage": "TNB管理"
+  },
+  "9WRlF4": {
+    "defaultMessage": "发送"
+  },
+  "9XUYQt": {
+    "defaultMessage": "导入"
+  },
+  "9vkJzM": {
+    "defaultMessage": "Keysign 0.0.2"
+  },
+  "A4nR/Y": {
+    "defaultMessage": "Keysign 对此项服务不承担任何责任。"
+  },
+  "AYrXQt": {
+    "defaultMessage": "传输成功"
+  },
+  "AaKEvg": {
+    "defaultMessage": "不得超过 64 个字符！"
+  },
+  "AyGauy": {
+    "defaultMessage": "登录"
+  },
+  "B97E6J": {
+    "defaultMessage": "点击“同步手机”按钮"
+  },
+  "Bbkxom": {
+    "defaultMessage": "空闲锁"
+  },
+  "CRxUr0": {
+    "defaultMessage": "导入时，只会添加实例上尚不存在的帐户。"
+  },
+  "CdmEya": {
+    "defaultMessage": "握手验证"
+  },
+  "CpHRw1": {
+    "defaultMessage": "传输失败"
+  },
+  "D3idYv": {
+    "defaultMessage": "设置"
+  },
+  "D3rOMr": {
+    "defaultMessage": "没有数据"
+  },
+  "D5NqQO": {
+    "defaultMessage": "备忘录"
+  },
+  "DMFF/H": {
+    "defaultMessage": "同步失败"
+  },
+  "DtYelJ": {
+    "defaultMessage": "传输"
+  },
+  "Duy+4J": {
+    "defaultMessage": "验证器费用：{amount, number}"
+  },
+  "Ev6SEF": {
+    "defaultMessage": "新密码"
+  },
+  "G8KMIa": {
+    "defaultMessage": "始终使用托管服务，目前它们是免费的。"
+  },
+  "GAWz1j": {
+    "defaultMessage": "设备锁"
+  },
+  "GZ/ORp": {
+    "defaultMessage": "不得超过 100 个字符！"
+  },
+  "GretYf": {
+    "defaultMessage": "当前密码"
+  },
+  "GseaGh": {
+    "defaultMessage": "手动或在应用程序关闭时锁定 Keysign。"
+  },
+  "H4lIvd": {
+    "defaultMessage": "默认银行是通过keysign设置的。"
+  },
+  "IPTyRk": {
+    "defaultMessage": "导出"
+  },
+  "Icxxne": {
+    "defaultMessage": "您可以导出文件中所有加密的密钥。 这将允许您将它们导入到另一台设备上的keysign或只是保管它们。"
+  },
+  "IglYTF": {
+    "defaultMessage": "必须至少8个字符！"
+  },
+  "IkSnjI": {
+    "defaultMessage": "生成钱包"
+  },
+  "J4N5HW": {
+    "defaultMessage": "继续"
+  },
+  "Jex29j": {
+    "defaultMessage": "在应用程序窗口闲置了指定分钟数以后将自动锁定 Keysign。"
+  },
+  "KH/2zQ": {
+    "defaultMessage": "转换资金"
+  },
+  "KN7zKn": {
+    "defaultMessage": "错误"
+  },
+  "KqpQmG": {
+    "defaultMessage": "选择朋友"
+  },
+  "LQhIrI": {
+    "defaultMessage": "只允许数字和字母"
+  },
+  "LiHQih": {
+    "defaultMessage": "即将推出"
+  },
+  "LwzY+Y": {
+    "defaultMessage": "清除所有数据"
+  },
+  "MEVZgX": {
+    "defaultMessage": "扫描二维码开始同步"
+  },
+  "MODFAR": {
+    "defaultMessage": "导入密钥"
+  },
+  "NmZvub": {
+    "defaultMessage": "不能为空"
+  },
+  "O8gaYk": {
+    "defaultMessage": "发送扫描"
+  },
+  "OTl3nO": {
+    "defaultMessage": "同步/导入/导出"
+  },
+  "OZSO9W": {
+    "defaultMessage": "必须至少 64 个字符！"
+  },
+  "Olyz0E": {
+    "defaultMessage": "该账号的好友已经存在！"
+  },
+  "Oua4RH": {
+    "defaultMessage": "从......收到："
+  },
+  "P5ynDZ": {
+    "defaultMessage": "同步扫描"
+  },
+  "PCSt5T": {
+    "defaultMessage": "偏好设置"
+  },
+  "PJE8pF": {
+    "defaultMessage": "展示费用"
+  },
+  "Pswssl": {
+    "defaultMessage": "确认"
+  },
+  "QbCyGW": {
+    "defaultMessage": "简单、轻便又安全。 开始连接或创建您的 TNB 钱包吧。"
+  },
+  "QiKKFz": {
+    "defaultMessage": "更改密码"
+  },
+  "QrSVSd": {
+    "defaultMessage": "握手传输"
+  },
+  "R/WihK": {
+    "defaultMessage": "提交"
+  },
+  "ROlscS": {
+    "defaultMessage": "在此处添加您的银行节点："
+  },
+  "S8ZlY6": {
+    "defaultMessage": "节省"
+  },
+  "SVVSmw": {
+    "defaultMessage": "扫描错误"
+  },
+  "SYy/Mr": {
+    "defaultMessage": "提供的密码不正确"
+  },
+  "Sw5Z2S": {
+    "defaultMessage": "添加银行"
+  },
+  "TO4Vzt": {
+    "defaultMessage": "新波士顿区块链"
+  },
+  "UeNAXN": {
+    "defaultMessage": "选择语言"
+  },
+  "VLTmsF": {
+    "defaultMessage": "暂时还没有好友"
+  },
+  "W47yNx": {
+    "defaultMessage": "代币总数"
+  },
+  "WLBY1S": {
+    "defaultMessage": "好友管理"
+  },
+  "WXRfPz": {
+    "defaultMessage": "同步钱包的步骤"
+  },
+  "XCnG27": {
+    "defaultMessage": "Keysign 移动应用程序的创建是为了与......协同"
+  },
+  "XMYlZD": {
+    "defaultMessage": "我的钱包"
+  },
+  "XYtt8J": {
+    "defaultMessage": "钱包名称"
+  },
+  "XcCIUg": {
+    "defaultMessage": "Keysign"
+  },
+  "Y3rADe": {
+    "defaultMessage": "确保在周围没有其它人的情况下输入您的密码。"
+  },
+  "YTIVDO": {
+    "defaultMessage": "银行节点"
+  },
+  "YpQLBX": {
+    "defaultMessage": "钱包已成功导出"
+  },
+  "Yuklh3": {
+    "defaultMessage": "生成钱包"
+  },
+  "Z7oS9I": {
+    "defaultMessage": "没有钱包"
+  },
+  "ZHM9r2": {
+    "defaultMessage": "添加好友"
+  },
+  "Ze/AG8": {
+    "defaultMessage": "生成"
+  },
+  "ZhHaEw": {
+    "defaultMessage": "到帐号"
+  },
+  "a5msuh": {
+    "defaultMessage": "是"
+  },
+  "aCVoQT": {
+    "defaultMessage": "银行费用： {amount, number}"
+  },
+  "b7SVXM": {
+    "defaultMessage": "钱包管理"
+  },
+  "c0vVbD": {
+    "defaultMessage": "登录"
+  },
+  "c2hHXM": {
+    "defaultMessage": "钱包导入成功"
+  },
+  "c5g9Rt": {
+    "defaultMessage": "删除好友"
+  },
+  "ceW3ER": {
+    "defaultMessage": "确认"
+  },
+  "clx9/J": {
+    "defaultMessage": "默认"
+  },
+  "dChb0Y": {
+    "defaultMessage": "扫描二维码"
+  },
+  "djJp6c": {
+    "defaultMessage": "历史"
+  },
+  "e2W5iK": {
+    "defaultMessage": "发送至:"
+  },
+  "ejEGdx": {
+    "defaultMessage": "主页"
+  },
+  "fG1IZC": {
+    "defaultMessage": "您将被发送到不和谐社区。"
+  },
+  "fMaoRo": {
+    "defaultMessage": "您确定要删除这个好友吗？"
+  },
+  "fS+jdZ": {
+    "defaultMessage": "您确定要删除这个钱包吗？"
+  },
+  "gBnpR/": {
+    "defaultMessage": "应用介绍"
+  },
+  "gjBiyj": {
+    "defaultMessage": "加载中..."
+  },
+  "gvr0wo": {
+    "defaultMessage": "同步钱包"
+  },
+  "h/ftND": {
+    "defaultMessage": "选择一个文件"
+  },
+  "h2vipu": {
+    "defaultMessage": "代码"
+  },
+  "hHk8xH": {
+    "defaultMessage": "在 TNBCROW 上交易"
+  },
+  "hqv+qJ": {
+    "defaultMessage": "如要添加新的银行，请单击下拉菜单中的添加银行。"
+  },
+  "iC997S": {
+    "defaultMessage": "Add Back"
+  },
+  "iIX2t1": {
+    "defaultMessage": "无法选择文件"
+  },
+  "iKDTfl": {
+    "defaultMessage": "好友名称"
+  },
+  "iKt39A": {
+    "defaultMessage": "您确定要删除此银行吗？"
+  },
+  "iUzlyp": {
+    "defaultMessage": "删除钱包"
+  },
+  "iotsqr": {
+    "defaultMessage": "验证成功"
+  },
+  "jsy7pk": {
+    "defaultMessage": "请重试"
+  },
+  "kQAf2d": {
+    "defaultMessage": "选择"
+  },
+  "l0jKdB": {
+    "defaultMessage": "添加好友"
+  },
+  "lr13V0": {
+    "defaultMessage": "返回主页"
+  },
+  "m99RHg": {
+    "defaultMessage": "KEYSIGN"
+  },
+  "nuWwea": {
+    "defaultMessage": "登录失败"
+  },
+  "oEli2v": {
+    "defaultMessage": "它是由......双方开发和设计的"
+  },
+  "oUWADl": {
+    "defaultMessage": "否"
+  },
+  "orLknm": {
+    "defaultMessage": "扫描"
+  },
+  "p556q3": {
+    "defaultMessage": "已复制"
+  },
+  "pb93i7": {
+    "defaultMessage": "NB; 这不能被撤消。"
+  },
+  "pvIJw6": {
+    "defaultMessage": "两个密码必须一致！"
+  },
+  "q4RWBX": {
+    "defaultMessage": "开始"
+  },
+  "qZbedW": {
+    "defaultMessage": "费用"
+  },
+  "qp2cDY": {
+    "defaultMessage": "钱包管理"
+  },
+  "qzy/q1": {
+    "defaultMessage": "忘记密码 ？"
+  },
+  "rV/x4O": {
+    "defaultMessage": "如果您忘记了密码，您可以清除数据，但必须重新输入所有的密钥。"
+  },
+  "ruJlSX": {
+    "defaultMessage": "下一步"
+  },
+  "t401lQ": {
+    "defaultMessage": "导入"
+  },
+  "umg69G": {
+    "defaultMessage": "添加钱包"
+  },
+  "v3gr+l": {
+    "defaultMessage": "使用AACN/登录"
+  },
+  "vV2G6z": {
+    "defaultMessage": "账号"
+  },
+  "vfG+nh": {
+    "defaultMessage": "确认密码"
+  },
+  "vrMPql": {
+    "defaultMessage": "TNB钱包"
+  },
+  "wdOQAC": {
+    "defaultMessage": "关于Keysign"
+  },
+  "xQ6aNc": {
+    "defaultMessage": "创建密码"
+  },
+  "xedgjh": {
+    "defaultMessage": "不得超过 12 个字符!"
+  },
+  "xrKHS6": {
+    "defaultMessage": "成功"
+  },
+  "xuxczX": {
+    "defaultMessage": "设备扫描失败"
+  },
+  "y9dbbX": {
+    "defaultMessage": "创建密码"
+  },
+  "yJgJcp": {
+    "defaultMessage": "Keysign 是在链上访问您的 TNB 钱包的最佳方式。"
+  },
+  "yc5XUr": {
+    "defaultMessage": "使用Acc/Signkey"
+  },
+  "yd1dFh": {
+    "defaultMessage": "签名密钥"
+  },
+  "z7Siok": {
+    "defaultMessage": "Abhay."
+  }
+}

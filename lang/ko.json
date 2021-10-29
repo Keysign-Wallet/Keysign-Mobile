@@ -1,0 +1,488 @@
+{
+  "+8S2CR": {
+    "defaultMessage": "키 가져오기"
+  },
+  "+HZbUZ": {
+    "defaultMessage": "장치가 잠길 경우 Keysign을 자동으로 잠급니다."
+  },
+  "+S3qBX": {
+    "defaultMessage": "인증실패"
+  },
+  "+pD6+Y": {
+    "defaultMessage": "메모 (선택)"
+  },
+  "/0TOL5": {
+    "defaultMessage": "수량"
+  },
+  "/HSJor": {
+    "defaultMessage": "MrSky"
+  },
+  "/X8qTz": {
+    "defaultMessage": "TNBCROW는 P2P 거래 커뮤니티입니다.."
+  },
+  "/Yb8GH": {
+    "defaultMessage": "TNBCROW는 Keysign의 소유가 아닙니다."
+  },
+  "/uNyiO": {
+    "defaultMessage": "자동 잠금"
+  },
+  "0D+jgY": {
+    "defaultMessage": "TNB 자산을 관리하고 TNB 애플리케이션으로 연결됩니다."
+  },
+  "0l3ebm": {
+    "defaultMessage": "최소로 3자 이상 되어야 합니다!"
+  },
+  "37OpDn": {
+    "defaultMessage": "은행 노드 선택"
+  },
+  "3mvL2Q": {
+    "defaultMessage": "과(와)"
+  },
+  "3yk8fB": {
+    "defaultMessage": "지갑"
+  },
+  "47FYwb": {
+    "defaultMessage": "취소"
+  },
+  "4vjdwA": {
+    "defaultMessage": "동기화 성공"
+  },
+  "5TH8l7": {
+    "defaultMessage": "설정으로 이동하여 > 동기화/가져오기/내보내기로"
+  },
+  "5sg7KC": {
+    "defaultMessage": "비밀번호"
+  },
+  "62nsdy": {
+    "defaultMessage": "다시 시오"
+  },
+  "6ERahF": {
+    "defaultMessage": "에서 {name}"
+  },
+  "7cGKSL": {
+    "defaultMessage": "잠긴 코인"
+  },
+  "8ysmEn": {
+    "defaultMessage": "브라우저 지갑 열기"
+  },
+  "90axO4": {
+    "defaultMessage": "거래"
+  },
+  "9QV9HO": {
+    "defaultMessage": "TNB관리"
+  },
+  "9WRlF4": {
+    "defaultMessage": "보내기"
+  },
+  "9XUYQt": {
+    "defaultMessage": "가져오기"
+  },
+  "9vkJzM": {
+    "defaultMessage": "Keysign 0.0.2"
+  },
+  "A4nR/Y": {
+    "defaultMessage": "Keysign은 본 서비스에 대해 책임을 지지 않습니다."
+  },
+  "AYrXQt": {
+    "defaultMessage": "전송 성공"
+  },
+  "AaKEvg": {
+    "defaultMessage": "64 자를 초과할 수 없습니다!"
+  },
+  "AyGauy": {
+    "defaultMessage": "로그인"
+  },
+  "B97E6J": {
+    "defaultMessage": "'모바일 동기화' 버튼을 클릭하세요."
+  },
+  "Bbkxom": {
+    "defaultMessage": "유휴 잠금"
+  },
+  "CRxUr0": {
+    "defaultMessage": "가져오기 인스턴스에는 아직 없는 계정들만 추가됩니다."
+  },
+  "CdmEya": {
+    "defaultMessage": "핸드셰이크 인증"
+  },
+  "CpHRw1": {
+    "defaultMessage": "전송 실패"
+  },
+  "D3idYv": {
+    "defaultMessage": "설정"
+  },
+  "D3rOMr": {
+    "defaultMessage": "데이터 없음"
+  },
+  "D5NqQO": {
+    "defaultMessage": "메모"
+  },
+  "DMFF/H": {
+    "defaultMessage": "동기화 실패"
+  },
+  "DtYelJ": {
+    "defaultMessage": "전송"
+  },
+  "Duy+4J": {
+    "defaultMessage": "인증기 비용: {amount, number}"
+  },
+  "Ev6SEF": {
+    "defaultMessage": "새로운 비밀번호"
+  },
+  "G8KMIa": {
+    "defaultMessage": "항상 에스크로를 사용할 수 있습니다. 현재는 무료입니다."
+  },
+  "GAWz1j": {
+    "defaultMessage": "장치 잠금"
+  },
+  "GZ/ORp": {
+    "defaultMessage": "100 자를 초과할 수 없습니다!"
+  },
+  "GretYf": {
+    "defaultMessage": "현재 비밀번호"
+  },
+  "GseaGh": {
+    "defaultMessage": "수동으로 잠그거나 앱을 닫을 때 Keysign을 잠급니다."
+  },
+  "H4lIvd": {
+    "defaultMessage": "기본 은행은 keysign으로 설정됩니다."
+  },
+  "IPTyRk": {
+    "defaultMessage": "내보내기"
+  },
+  "Icxxne": {
+    "defaultMessage": "파일에 있는 암호화된 모든 키를 내보내기 할 수 있습니다. 이렇게 하여 다른 장치의 keysign으로 가져오거나 단순히 보관할 수 있습니다."
+  },
+  "IglYTF": {
+    "defaultMessage": "최소 8자 이상이어야 합니다!"
+  },
+  "IkSnjI": {
+    "defaultMessage": "지갑 생성"
+  },
+  "J4N5HW": {
+    "defaultMessage": "계속하기"
+  },
+  "Jex29j": {
+    "defaultMessage": "앱 창이 지정된 시간 이상 유휴 상태에 처하면 Keysign을 자동으로 잠급니다."
+  },
+  "KH/2zQ": {
+    "defaultMessage": "펀드 이체"
+  },
+  "KN7zKn": {
+    "defaultMessage": "오류"
+  },
+  "KqpQmG": {
+    "defaultMessage": "친구 선택"
+  },
+  "LQhIrI": {
+    "defaultMessage": "숫자와 문자만 허용합니다"
+  },
+  "LiHQih": {
+    "defaultMessage": "곧 출시"
+  },
+  "LwzY+Y": {
+    "defaultMessage": "모든 데이터 지우기"
+  },
+  "MEVZgX": {
+    "defaultMessage": "QR 코드를 스캔하여 동기화를 시작세요"
+  },
+  "MODFAR": {
+    "defaultMessage": "키 가져오기"
+  },
+  "NmZvub": {
+    "defaultMessage": "비워둘 수 없습니다."
+  },
+  "O8gaYk": {
+    "defaultMessage": "스캔 보내기"
+  },
+  "OTl3nO": {
+    "defaultMessage": "동기화/가져오기/내보내기"
+  },
+  "OZSO9W": {
+    "defaultMessage": "64자 이상이어야 합니다!"
+  },
+  "Olyz0E": {
+    "defaultMessage": "이 계정 번호에 해당되는 친구가 이미 존재합니다!"
+  },
+  "Oua4RH": {
+    "defaultMessage": "받는 사람:"
+  },
+  "P5ynDZ": {
+    "defaultMessage": "동기화 스캔"
+  },
+  "PCSt5T": {
+    "defaultMessage": "환경설정"
+  },
+  "PJE8pF": {
+    "defaultMessage": "전시비용"
+  },
+  "Pswssl": {
+    "defaultMessage": "확인"
+  },
+  "QbCyGW": {
+    "defaultMessage": "간단하고 가볍고 안전합니다. 연결을 시도하거나 TNB 지갑을 만드세요."
+  },
+  "QiKKFz": {
+    "defaultMessage": "비밀번호 변경"
+  },
+  "QrSVSd": {
+    "defaultMessage": "핸드셰이크 전송"
+  },
+  "R/WihK": {
+    "defaultMessage": "제출"
+  },
+  "ROlscS": {
+    "defaultMessage": "여기에 은행 노드를 추가하세요.:"
+  },
+  "S8ZlY6": {
+    "defaultMessage": "저장"
+  },
+  "SVVSmw": {
+    "defaultMessage": "스캔 오류"
+  },
+  "SYy/Mr": {
+    "defaultMessage": "잘못된 비밀번호를 제공하셨습니다"
+  },
+  "Sw5Z2S": {
+    "defaultMessage": "은행 추가"
+  },
+  "TO4Vzt": {
+    "defaultMessage": "새로운 보스턴 블록체인"
+  },
+  "UeNAXN": {
+    "defaultMessage": "언어 선택"
+  },
+  "VLTmsF": {
+    "defaultMessage": "아직 친구가 없습니다"
+  },
+  "W47yNx": {
+    "defaultMessage": "총 코인"
+  },
+  "WLBY1S": {
+    "defaultMessage": "친구 관리"
+  },
+  "WXRfPz": {
+    "defaultMessage": "지갑 동기화 절차"
+  },
+  "XCnG27": {
+    "defaultMessage": "Keysign 모바일 애플리케이션은 ......과의 협력을 위하여 만들어졌습니다."
+  },
+  "XMYlZD": {
+    "defaultMessage": "나의 지갑"
+  },
+  "XYtt8J": {
+    "defaultMessage": "지갑 이름"
+  },
+  "XcCIUg": {
+    "defaultMessage": "Keysign"
+  },
+  "Y3rADe": {
+    "defaultMessage": "주변 환경을 확인하신후 비밀번호를 입력하세요."
+  },
+  "YTIVDO": {
+    "defaultMessage": "은행 노드"
+  },
+  "YpQLBX": {
+    "defaultMessage": "지갑이 성공적으로 내보내기 되었습니다."
+  },
+  "Yuklh3": {
+    "defaultMessage": "지갑 생성"
+  },
+  "Z7oS9I": {
+    "defaultMessage": "지갑이 없음"
+  },
+  "ZHM9r2": {
+    "defaultMessage": "친구 추가"
+  },
+  "Ze/AG8": {
+    "defaultMessage": "생성"
+  },
+  "ZhHaEw": {
+    "defaultMessage": "받는 계정"
+  },
+  "a5msuh": {
+    "defaultMessage": "예"
+  },
+  "aCVoQT": {
+    "defaultMessage": "은행 비용: {amount, number}"
+  },
+  "b7SVXM": {
+    "defaultMessage": "지갑 관리"
+  },
+  "c0vVbD": {
+    "defaultMessage": "로그인"
+  },
+  "c2hHXM": {
+    "defaultMessage": "지갑을 성공적으로 가져왔습니다."
+  },
+  "c5g9Rt": {
+    "defaultMessage": "친구 삭제하기"
+  },
+  "ceW3ER": {
+    "defaultMessage": "확인"
+  },
+  "clx9/J": {
+    "defaultMessage": "기본값"
+  },
+  "dChb0Y": {
+    "defaultMessage": "QR 코드 스캔"
+  },
+  "djJp6c": {
+    "defaultMessage": "히스토리"
+  },
+  "e2W5iK": {
+    "defaultMessage": "...에게 보내기:"
+  },
+  "ejEGdx": {
+    "defaultMessage": "홈"
+  },
+  "fG1IZC": {
+    "defaultMessage": "디스코드 커뮤니티로 보내질 것입니다."
+  },
+  "fMaoRo": {
+    "defaultMessage": "이 친구를 삭제하시겠습니까?"
+  },
+  "fS+jdZ": {
+    "defaultMessage": "이 지갑을 삭제하시겠습니까?"
+  },
+  "gBnpR/": {
+    "defaultMessage": "App소개"
+  },
+  "gjBiyj": {
+    "defaultMessage": "로딩 중..."
+  },
+  "gvr0wo": {
+    "defaultMessage": "지갑 동기화"
+  },
+  "h/ftND": {
+    "defaultMessage": "파일 선택"
+  },
+  "h2vipu": {
+    "defaultMessage": "코드"
+  },
+  "hHk8xH": {
+    "defaultMessage": "TNBCROW에서 거래하기"
+  },
+  "hqv+qJ": {
+    "defaultMessage": "새 은행을 추가하려면 드롭 다운 목록에서 은행 추가를 클릭하세요."
+  },
+  "iC997S": {
+    "defaultMessage": "Add Back"
+  },
+  "iIX2t1": {
+    "defaultMessage": "파일을 선택할 수 없습니다"
+  },
+  "iKDTfl": {
+    "defaultMessage": "친구 이름"
+  },
+  "iKt39A": {
+    "defaultMessage": "이 은행을 삭제하시겠습니까?"
+  },
+  "iUzlyp": {
+    "defaultMessage": "지갑 삭제"
+  },
+  "iotsqr": {
+    "defaultMessage": "인증 성공"
+  },
+  "jsy7pk": {
+    "defaultMessage": "다시 시도하기"
+  },
+  "kQAf2d": {
+    "defaultMessage": "선택"
+  },
+  "l0jKdB": {
+    "defaultMessage": "친구 추가"
+  },
+  "lr13V0": {
+    "defaultMessage": "홈으로 돌아가기"
+  },
+  "m99RHg": {
+    "defaultMessage": "KEYSIGN"
+  },
+  "nuWwea": {
+    "defaultMessage": "로그인 실패"
+  },
+  "oEli2v": {
+    "defaultMessage": "이것은 ......둘이서 함께 개발하고 설계하였습니다."
+  },
+  "oUWADl": {
+    "defaultMessage": "아니요"
+  },
+  "orLknm": {
+    "defaultMessage": "스캔"
+  },
+  "p556q3": {
+    "defaultMessage": "복사된"
+  },
+  "pb93i7": {
+    "defaultMessage": "NB; 이것은 취소할 수 없습니다."
+  },
+  "pvIJw6": {
+    "defaultMessage": "두 비밀번호는 일치해야 합니다."
+  },
+  "q4RWBX": {
+    "defaultMessage": "시작하기"
+  },
+  "qZbedW": {
+    "defaultMessage": "비용"
+  },
+  "qp2cDY": {
+    "defaultMessage": "지갑 관리"
+  },
+  "qzy/q1": {
+    "defaultMessage": "비밀번호를 잊으셨습니까 ?"
+  },
+  "rV/x4O": {
+    "defaultMessage": "비밀번호를 잊어버린 경우 데이터를 지울 수 있지만 모든 키를 다시 입력해야 합니다."
+  },
+  "ruJlSX": {
+    "defaultMessage": "다음"
+  },
+  "t401lQ": {
+    "defaultMessage": "가져오기"
+  },
+  "umg69G": {
+    "defaultMessage": "지갑 추가"
+  },
+  "v3gr+l": {
+    "defaultMessage": "ACCN/SIGNIN 사용"
+  },
+  "vV2G6z": {
+    "defaultMessage": "계정 번호"
+  },
+  "vfG+nh": {
+    "defaultMessage": "비밀번호 확인"
+  },
+  "vrMPql": {
+    "defaultMessage": "TNB 지갑"
+  },
+  "wdOQAC": {
+    "defaultMessage": "Keysign에 관하여"
+  },
+  "xQ6aNc": {
+    "defaultMessage": "비밀번호 생성"
+  },
+  "xedgjh": {
+    "defaultMessage": "12자를 초과할 수 없습니다!"
+  },
+  "xrKHS6": {
+    "defaultMessage": "성공"
+  },
+  "xuxczX": {
+    "defaultMessage": "장치가 스캔에 실패하였습니다."
+  },
+  "y9dbbX": {
+    "defaultMessage": "비밀번호 생성"
+  },
+  "yJgJcp": {
+    "defaultMessage": "Keysign은 체인에서 TNB 지갑에 액세스하는 가장 좋은 방식입니다."
+  },
+  "yc5XUr": {
+    "defaultMessage": "Acc/Signkey 사용"
+  },
+  "yd1dFh": {
+    "defaultMessage": "키 서명"
+  },
+  "z7Siok": {
+    "defaultMessage": "Abhay."
+  }
+}
