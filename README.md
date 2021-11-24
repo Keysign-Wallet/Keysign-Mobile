@@ -16,6 +16,9 @@ You can download and install the latest published version for the following brow
 -   Playstore: [Find It here](https://play.google.com/store/apps/details?id=com.keysign)
 -   AppStore: [Find It here](https://apps.apple.com/us/app/keysign/id1591330775 )
 
+## Integration with Keysign mobile app
+https://github.com/Keysign-Wallet/Keysign-Mobile/wiki/Documentation
+
 # Licensing:
 
 Copyright Keysign LLC. 2021. All rights reserved.
