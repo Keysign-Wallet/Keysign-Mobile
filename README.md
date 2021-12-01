@@ -1,6 +1,23 @@
+![Untitled design](https://i.imgur.com/HWHU2Pt.png)
+
 # Keysign-Mobile
 Decentralized mobile app
 
+Putting Wallet keys directly into websites is not safe or secure.
+
+On some blockchains, you never have to enter your wallet keys into apps or websites at all, you can just use an app, which websites/apps can interface with to securely store your keys and broadcast transactions to the blockchain.
+
+Keysign aims to bring security and ease-of-use to thenewboston platform.
+
+## Installation
+
+You can download and install the latest published version for the following browsers:
+
+-   Playstore: [Find It here](https://play.google.com/store/apps/details?id=com.keysign)
+-   AppStore: [Find It here](https://apps.apple.com/us/app/keysign/id1591330775 )
+
+## Integration with Keysign mobile app
+https://github.com/Keysign-Wallet/Keysign-Mobile/wiki/Documentation
 
 # Licensing:
 
