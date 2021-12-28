@@ -1,0 +1,488 @@
+{
+  "+8S2CR": {
+    "defaultMessage": "MASUKKAN KUNCI"
+  },
+  "+HZbUZ": {
+    "defaultMessage": "Mengunci Keysign secara otomatis saat mengunci perangkat."
+  },
+  "+S3qBX": {
+    "defaultMessage": "Verifikasi Gagal"
+  },
+  "+pD6+Y": {
+    "defaultMessage": "Memo (opsional)"
+  },
+  "/0TOL5": {
+    "defaultMessage": "Jumlah"
+  },
+  "/HSJor": {
+    "defaultMessage": "MrSky"
+  },
+  "/X8qTz": {
+    "defaultMessage": "TNBCROW adalah komunitas trading P2P."
+  },
+  "/Yb8GH": {
+    "defaultMessage": "Keysign tidak memiliki/membawahi TNBCROW"
+  },
+  "/uNyiO": {
+    "defaultMessage": "Kunci Otomatis"
+  },
+  "0D+jgY": {
+    "defaultMessage": "Atur aset TNB, dan menghubungkan ke aplikasi TNB."
+  },
+  "0l3ebm": {
+    "defaultMessage": "Setidaknya paling sedikit 3 karakter!"
+  },
+  "37OpDn": {
+    "defaultMessage": "Pilih node Bank"
+  },
+  "3mvL2Q": {
+    "defaultMessage": "dan"
+  },
+  "3yk8fB": {
+    "defaultMessage": "Wallet"
+  },
+  "47FYwb": {
+    "defaultMessage": "Batalkan"
+  },
+  "4vjdwA": {
+    "defaultMessage": "Sinkronisasi Berhasil"
+  },
+  "5TH8l7": {
+    "defaultMessage": "Pergi ke Pengaturan > Sinkronisasi/Impor/Ekspor"
+  },
+  "5sg7KC": {
+    "defaultMessage": "Sandi"
+  },
+  "62nsdy": {
+    "defaultMessage": "Coba Lagi"
+  },
+  "6ERahF": {
+    "defaultMessage": "Dari {name}"
+  },
+  "7cGKSL": {
+    "defaultMessage": "Koin terkunci"
+  },
+  "8ysmEn": {
+    "defaultMessage": "Buka Browser wallet anda"
+  },
+  "90axO4": {
+    "defaultMessage": "Trade"
+  },
+  "9QV9HO": {
+    "defaultMessage": "ATUR TNB"
+  },
+  "9WRlF4": {
+    "defaultMessage": "Kirim"
+  },
+  "9XUYQt": {
+    "defaultMessage": "Impor"
+  },
+  "9vkJzM": {
+    "defaultMessage": "Keysign 0.0.2"
+  },
+  "A4nR/Y": {
+    "defaultMessage": "Keysign tidak bertanggung jawab atas layanan ini."
+  },
+  "AYrXQt": {
+    "defaultMessage": "Transfer Berhasil"
+  },
+  "AaKEvg": {
+    "defaultMessage": "Tidak boleh lebih dari 64 karakter!"
+  },
+  "AyGauy": {
+    "defaultMessage": "Masuk"
+  },
+  "B97E6J": {
+    "defaultMessage": "Klik tombol “Sinkronisasi Perangkat Mobile”"
+  },
+  "Bbkxom": {
+    "defaultMessage": "IDLE LOCK"
+  },
+  "CRxUr0": {
+    "defaultMessage": "Saat mengimpor, hanya akun yang belum ada di instans yang akan di tambah."
+  },
+  "CdmEya": {
+    "defaultMessage": "Verifikasi Jabat Tangan"
+  },
+  "CpHRw1": {
+    "defaultMessage": "Transfer Gagal"
+  },
+  "D3idYv": {
+    "defaultMessage": "Pengaturan"
+  },
+  "D3rOMr": {
+    "defaultMessage": "Tidak ada Data"
+  },
+  "D5NqQO": {
+    "defaultMessage": "Memo"
+  },
+  "DMFF/H": {
+    "defaultMessage": "Sinkronisasi Gagal"
+  },
+  "DtYelJ": {
+    "defaultMessage": "Transfer"
+  },
+  "Duy+4J": {
+    "defaultMessage": "Biaya Validator: {amount, number}"
+  },
+  "Ev6SEF": {
+    "defaultMessage": "Sandi Baru"
+  },
+  "G8KMIa": {
+    "defaultMessage": "Selalu gunakan escrow, saat ini masih gratis."
+  },
+  "GAWz1j": {
+    "defaultMessage": "KUNCI PERANGKAT"
+  },
+  "GZ/ORp": {
+    "defaultMessage": "Tidak boleh lebih dari 100 karakter!"
+  },
+  "GretYf": {
+    "defaultMessage": "Sandi saat ini"
+  },
+  "GseaGh": {
+    "defaultMessage": "Kunci Keysign secara manual atau saat aplikasi ditutup."
+  },
+  "H4lIvd": {
+    "defaultMessage": "Bank default diatur oleh keysign."
+  },
+  "IPTyRk": {
+    "defaultMessage": "EKSPOR"
+  },
+  "Icxxne": {
+    "defaultMessage": "Anda bisa mengekspor semua kunci dengan enkripsi dalam satu file. Dengan ini anda bisa mengimpor kunci ke perangkat lain atau cukup menjaga kunci Anda."
+  },
+  "IglYTF": {
+    "defaultMessage": "Paling sedikit 8 karakter!"
+  },
+  "IkSnjI": {
+    "defaultMessage": "Buat Wallet baru"
+  },
+  "J4N5HW": {
+    "defaultMessage": "LANJUT"
+  },
+  "Jex29j": {
+    "defaultMessage": "Mengunci Keysign secara ototmatis setelah jendela aplikasi diam setelah beberapa menit."
+  },
+  "KH/2zQ": {
+    "defaultMessage": "Transfer Dana"
+  },
+  "KN7zKn": {
+    "defaultMessage": "Error"
+  },
+  "KqpQmG": {
+    "defaultMessage": "Pilih Teman"
+  },
+  "LQhIrI": {
+    "defaultMessage": "Hanya angka dan huruf yang diperbolehkan"
+  },
+  "LiHQih": {
+    "defaultMessage": "Segera Hadir"
+  },
+  "LwzY+Y": {
+    "defaultMessage": "Hapus Semua Data"
+  },
+  "MEVZgX": {
+    "defaultMessage": "Scan QR code untuk memulai SINKRONISASI"
+  },
+  "MODFAR": {
+    "defaultMessage": "Impor Kunci"
+  },
+  "NmZvub": {
+    "defaultMessage": "Tidak boleh kosong"
+  },
+  "O8gaYk": {
+    "defaultMessage": "Kirim Scan"
+  },
+  "OTl3nO": {
+    "defaultMessage": "Sinkronisasi/Impor/Ekspor"
+  },
+  "OZSO9W": {
+    "defaultMessage": "Paling sedikit 64 karakter!"
+  },
+  "Olyz0E": {
+    "defaultMessage": "Sudah ada Teman dengan nomer akun ini!"
+  },
+  "Oua4RH": {
+    "defaultMessage": "Diterima dari:"
+  },
+  "P5ynDZ": {
+    "defaultMessage": "Sinkronisasi Scan"
+  },
+  "PCSt5T": {
+    "defaultMessage": "Preferensi"
+  },
+  "PJE8pF": {
+    "defaultMessage": "Tunjukkan Biaya"
+  },
+  "Pswssl": {
+    "defaultMessage": "Konfirmasi"
+  },
+  "QbCyGW": {
+    "defaultMessage": "Simpel, ringan, dan terjamin. Mulai berkoneksi atau buat TNB Wallet Anda."
+  },
+  "QiKKFz": {
+    "defaultMessage": "Ubah Sandi"
+  },
+  "QrSVSd": {
+    "defaultMessage": "Handshake Transfer"
+  },
+  "R/WihK": {
+    "defaultMessage": "KIRIM"
+  },
+  "ROlscS": {
+    "defaultMessage": "Tambahkan BANK node Anda di sini:"
+  },
+  "S8ZlY6": {
+    "defaultMessage": "SIMPAN"
+  },
+  "SVVSmw": {
+    "defaultMessage": "Scan Error"
+  },
+  "SYy/Mr": {
+    "defaultMessage": "Kata Sandi yang diberikan salah"
+  },
+  "Sw5Z2S": {
+    "defaultMessage": "TAMBAH BANK"
+  },
+  "TO4Vzt": {
+    "defaultMessage": "TheNewBoston Blockchain"
+  },
+  "UeNAXN": {
+    "defaultMessage": "Pilih Bahasa"
+  },
+  "VLTmsF": {
+    "defaultMessage": "Anda belum memiliki Teman"
+  },
+  "W47yNx": {
+    "defaultMessage": "Total koin"
+  },
+  "WLBY1S": {
+    "defaultMessage": "Atur Teman"
+  },
+  "WXRfPz": {
+    "defaultMessage": "Langkah untuk sinkronisasi wallet anda"
+  },
+  "XCnG27": {
+    "defaultMessage": "Aplikasi Keysign mobile dibuat untuk bekerja dengan"
+  },
+  "XMYlZD": {
+    "defaultMessage": "Wallet Saya"
+  },
+  "XYtt8J": {
+    "defaultMessage": "Nama Wallet"
+  },
+  "XcCIUg": {
+    "defaultMessage": "Keysign"
+  },
+  "Y3rADe": {
+    "defaultMessage": "Masukkan Sandi Anda."
+  },
+  "YTIVDO": {
+    "defaultMessage": "Bank Node"
+  },
+  "YpQLBX": {
+    "defaultMessage": "Wallets berhasil diekspor"
+  },
+  "Yuklh3": {
+    "defaultMessage": "BUAT WALLET BARU"
+  },
+  "Z7oS9I": {
+    "defaultMessage": "Tidak ada Wallet"
+  },
+  "ZHM9r2": {
+    "defaultMessage": "TAMBAHKAN TEMAN"
+  },
+  "Ze/AG8": {
+    "defaultMessage": "BUAT BARU"
+  },
+  "ZhHaEw": {
+    "defaultMessage": "Ke Nomer Akun"
+  },
+  "a5msuh": {
+    "defaultMessage": "Ya"
+  },
+  "aCVoQT": {
+    "defaultMessage": "Biaya Bank: {amount, number}"
+  },
+  "b7SVXM": {
+    "defaultMessage": "Atur Wallet"
+  },
+  "c0vVbD": {
+    "defaultMessage": "MASUK"
+  },
+  "c2hHXM": {
+    "defaultMessage": "Wallets berhasil diimpor"
+  },
+  "c5g9Rt": {
+    "defaultMessage": "HAPUS TEMAN"
+  },
+  "ceW3ER": {
+    "defaultMessage": "KONFIRMASI"
+  },
+  "clx9/J": {
+    "defaultMessage": "DEFAULT"
+  },
+  "dChb0Y": {
+    "defaultMessage": "Scan QR code"
+  },
+  "djJp6c": {
+    "defaultMessage": "History"
+  },
+  "e2W5iK": {
+    "defaultMessage": "Kirim ke:"
+  },
+  "ejEGdx": {
+    "defaultMessage": "Home"
+  },
+  "fG1IZC": {
+    "defaultMessage": "Anda akan dibawa ke komunitas discord."
+  },
+  "fMaoRo": {
+    "defaultMessage": "Anda yakin ingin menghapus Teman ini?"
+  },
+  "fS+jdZ": {
+    "defaultMessage": "Anda yakin ingin menghapus wallet ini?"
+  },
+  "gBnpR/": {
+    "defaultMessage": "Pengenalan App"
+  },
+  "gjBiyj": {
+    "defaultMessage": "Sedang Memuat..."
+  },
+  "gvr0wo": {
+    "defaultMessage": "SINKRONISASI WALLET"
+  },
+  "h/ftND": {
+    "defaultMessage": "Pilih file"
+  },
+  "h2vipu": {
+    "defaultMessage": "Code"
+  },
+  "hHk8xH": {
+    "defaultMessage": "Trade di TNBCROW"
+  },
+  "hqv+qJ": {
+    "defaultMessage": "Untuk menambah bank baru, klik TAMBAH BANK di menu dropdown."
+  },
+  "iC997S": {
+    "defaultMessage": "Tambah Bank"
+  },
+  "iIX2t1": {
+    "defaultMessage": "Tidak dapat memilih file"
+  },
+  "iKDTfl": {
+    "defaultMessage": "Nama Teman"
+  },
+  "iKt39A": {
+    "defaultMessage": "Anda yakin ingin menghapus bank ini?"
+  },
+  "iUzlyp": {
+    "defaultMessage": "HAPUS WALLET"
+  },
+  "iotsqr": {
+    "defaultMessage": "Verifikasi Berhasil"
+  },
+  "jsy7pk": {
+    "defaultMessage": "Coba Lagi"
+  },
+  "kQAf2d": {
+    "defaultMessage": "Pilih"
+  },
+  "l0jKdB": {
+    "defaultMessage": "Tambah Teman"
+  },
+  "lr13V0": {
+    "defaultMessage": "Ke Laman Utama"
+  },
+  "m99RHg": {
+    "defaultMessage": "KEYSIGN"
+  },
+  "nuWwea": {
+    "defaultMessage": "Login gagal"
+  },
+  "oEli2v": {
+    "defaultMessage": "Dikembangkan dan Didesain oleh keduanya"
+  },
+  "oUWADl": {
+    "defaultMessage": "Tidak"
+  },
+  "orLknm": {
+    "defaultMessage": "Scan"
+  },
+  "p556q3": {
+    "defaultMessage": "Sudah dikopi"
+  },
+  "pb93i7": {
+    "defaultMessage": "NB; Proses ini tidak dapat dibatalkan."
+  },
+  "pvIJw6": {
+    "defaultMessage": "Kedua Sandi harus sama!"
+  },
+  "q4RWBX": {
+    "defaultMessage": "MULAI"
+  },
+  "qZbedW": {
+    "defaultMessage": "Biaya"
+  },
+  "qp2cDY": {
+    "defaultMessage": "Atur Wallet"
+  },
+  "qzy/q1": {
+    "defaultMessage": "Lupa Sandi ?"
+  },
+  "rV/x4O": {
+    "defaultMessage": "Jika Anda lupa Sandi anda, Anda bisa menghapus data anda, namun Anda harus memasukkan lagi semua kunci anda."
+  },
+  "ruJlSX": {
+    "defaultMessage": "LANJUT"
+  },
+  "t401lQ": {
+    "defaultMessage": "IMPOR"
+  },
+  "umg69G": {
+    "defaultMessage": "Tambahkan Wallet"
+  },
+  "v3gr+l": {
+    "defaultMessage": "GUNAKAN ACCN/SIGNIN"
+  },
+  "vV2G6z": {
+    "defaultMessage": "Nomor Akun"
+  },
+  "vfG+nh": {
+    "defaultMessage": "Konfirmasi Sandi"
+  },
+  "vrMPql": {
+    "defaultMessage": "TNB WALLET"
+  },
+  "wdOQAC": {
+    "defaultMessage": "Tentang Keysign"
+  },
+  "xQ6aNc": {
+    "defaultMessage": "Buat Sandi"
+  },
+  "xedgjh": {
+    "defaultMessage": "Tidak boleh lebih dari 12 karakter!"
+  },
+  "xrKHS6": {
+    "defaultMessage": "Berhasil"
+  },
+  "xuxczX": {
+    "defaultMessage": "Perangkat gagal untuk scan"
+  },
+  "y9dbbX": {
+    "defaultMessage": "Buat Sandi"
+  },
+  "yJgJcp": {
+    "defaultMessage": "Keysign adalah platform terbaik untuk mengakses TNB wallet anda di blockchain."
+  },
+  "yc5XUr": {
+    "defaultMessage": "Gunakan Acc/Signkey"
+  },
+  "yd1dFh": {
+    "defaultMessage": "Signing Key"
+  },
+  "z7Siok": {
+    "defaultMessage": "Abhay."
+  }
+}

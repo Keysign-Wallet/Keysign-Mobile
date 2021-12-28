@@ -1,0 +1,488 @@
+{
+  "+8S2CR": {
+    "defaultMessage": "استيراد المفاتيح"
+  },
+  "+HZbUZ": {
+    "defaultMessage": "اقفل Keysign تلقائيا عند قفل الجهاز."
+  },
+  "+S3qBX": {
+    "defaultMessage": "فشل التحقق"
+  },
+  "+pD6+Y": {
+    "defaultMessage": "مذكرة (اختياري)"
+  },
+  "/0TOL5": {
+    "defaultMessage": "المبلغ"
+  },
+  "/HSJor": {
+    "defaultMessage": "MrSky"
+  },
+  "/X8qTz": {
+    "defaultMessage": "TNBCROW هو مجتمع تداول يعمل بصيغة P2P نظير لنظير."
+  },
+  "/Yb8GH": {
+    "defaultMessage": "Keysign لا يمتلك TNBCROW"
+  },
+  "/uNyiO": {
+    "defaultMessage": "قفل تلقائي"
+  },
+  "0D+jgY": {
+    "defaultMessage": "تحكم بممتلكاتك من ال TNB، وارتبط بتطبيقات ال TNB."
+  },
+  "0l3ebm": {
+    "defaultMessage": "يجب أن يتكون من 3 أحرف على الأقل!"
+  },
+  "37OpDn": {
+    "defaultMessage": "اختر عقدة المصرف"
+  },
+  "3mvL2Q": {
+    "defaultMessage": "و"
+  },
+  "3yk8fB": {
+    "defaultMessage": "محفظة"
+  },
+  "47FYwb": {
+    "defaultMessage": "إلغاء"
+  },
+  "4vjdwA": {
+    "defaultMessage": "تمت المزامنة بنجاح"
+  },
+  "5TH8l7": {
+    "defaultMessage": "اذهب إلى الخيارات > مزامنة/استيراد/تصدير"
+  },
+  "5sg7KC": {
+    "defaultMessage": "كلمة المرور"
+  },
+  "62nsdy": {
+    "defaultMessage": "إعادة المحاولة"
+  },
+  "6ERahF": {
+    "defaultMessage": "من {name}"
+  },
+  "7cGKSL": {
+    "defaultMessage": "العملات المقفلة"
+  },
+  "8ysmEn": {
+    "defaultMessage": "افتح محفظتك في المتصفح"
+  },
+  "90axO4": {
+    "defaultMessage": "شراء/بيع"
+  },
+  "9QV9HO": {
+    "defaultMessage": "إدارة TNB"
+  },
+  "9WRlF4": {
+    "defaultMessage": "إرسال"
+  },
+  "9XUYQt": {
+    "defaultMessage": "استيراد"
+  },
+  "9vkJzM": {
+    "defaultMessage": "Keysign 0.0.2"
+  },
+  "A4nR/Y": {
+    "defaultMessage": "Keysign ليس مسؤولا عن هذه الخدمة"
+  },
+  "AYrXQt": {
+    "defaultMessage": "نجح التحويل"
+  },
+  "AaKEvg": {
+    "defaultMessage": "يحب أن لا يتجاوز 64 حرفا"
+  },
+  "AyGauy": {
+    "defaultMessage": "تسجيل دخول"
+  },
+  "B97E6J": {
+    "defaultMessage": "اضغط على زر “مزامنة الهاتف”"
+  },
+  "Bbkxom": {
+    "defaultMessage": "قفل خامل"
+  },
+  "CRxUr0": {
+    "defaultMessage": "عند الاستيراد، ستضاف الحسابات الغير موجودة على الجهاز فقط."
+  },
+  "CdmEya": {
+    "defaultMessage": "تحقق المصافحة"
+  },
+  "CpHRw1": {
+    "defaultMessage": "فشل التحويل"
+  },
+  "D3idYv": {
+    "defaultMessage": "الخيارات"
+  },
+  "D3rOMr": {
+    "defaultMessage": "لا بيانات"
+  },
+  "D5NqQO": {
+    "defaultMessage": "مذكرة"
+  },
+  "DMFF/H": {
+    "defaultMessage": "فشل المزامنة"
+  },
+  "DtYelJ": {
+    "defaultMessage": "تحويل"
+  },
+  "Duy+4J": {
+    "defaultMessage": "أجور التصديق: {amount, number}"
+  },
+  "Ev6SEF": {
+    "defaultMessage": "كلمة مرور جديدة"
+  },
+  "G8KMIa": {
+    "defaultMessage": "استخدم escrow دائما، هو مجاني حاليا."
+  },
+  "GAWz1j": {
+    "defaultMessage": "قفل الجهاز"
+  },
+  "GZ/ORp": {
+    "defaultMessage": "يجب أن لا يتجاوز 100 حرفا!"
+  },
+  "GretYf": {
+    "defaultMessage": "كلمة المرور الحالية"
+  },
+  "GseaGh": {
+    "defaultMessage": "اقفل Keysign يدويا أو عندما يكون التطبيق مغلقا."
+  },
+  "H4lIvd": {
+    "defaultMessage": "Keysign اختار المصرف الافتراضي."
+  },
+  "IPTyRk": {
+    "defaultMessage": "تصدير"
+  },
+  "Icxxne": {
+    "defaultMessage": "يمكنك تصدير جميع مفاتيحك المشفرة في ملف. سيسمح لك ذلك باستيرادها إلى Keysign على جهاز آخر أو ببساطة حمايتها."
+  },
+  "IglYTF": {
+    "defaultMessage": "يجب أن يتكون من 8 أحرف على الأقل!"
+  },
+  "IkSnjI": {
+    "defaultMessage": "إنشاء محفظة"
+  },
+  "J4N5HW": {
+    "defaultMessage": "استمرار"
+  },
+  "Jex29j": {
+    "defaultMessage": "القفل التلقائي ل Keysign بعد أن تكون نافذة التطبيق خاملة لعدد الدقائق المحدد."
+  },
+  "KH/2zQ": {
+    "defaultMessage": "تحويل الأموال"
+  },
+  "KN7zKn": {
+    "defaultMessage": "خطأ"
+  },
+  "KqpQmG": {
+    "defaultMessage": "اختر صديقا"
+  },
+  "LQhIrI": {
+    "defaultMessage": "الأرقام والحروف فقط مسموحة"
+  },
+  "LiHQih": {
+    "defaultMessage": "قريبا"
+  },
+  "LwzY+Y": {
+    "defaultMessage": "مسح كافة البيانات"
+  },
+  "MEVZgX": {
+    "defaultMessage": "امسح رمز الاستجابة السريعة لبدء المزامنة"
+  },
+  "MODFAR": {
+    "defaultMessage": "استيراد المفاتيح"
+  },
+  "NmZvub": {
+    "defaultMessage": "يجب أن لا يكون فارغا"
+  },
+  "O8gaYk": {
+    "defaultMessage": "إرسال المسحة"
+  },
+  "OTl3nO": {
+    "defaultMessage": "مزامنة/استيراد/تصدير"
+  },
+  "OZSO9W": {
+    "defaultMessage": "يجب أن يتكون من 64 حرفا على الأقل!"
+  },
+  "Olyz0E": {
+    "defaultMessage": "الصديق مع رقم الحساب هذا موجود أصلا!"
+  },
+  "Oua4RH": {
+    "defaultMessage": "مستلم من:"
+  },
+  "P5ynDZ": {
+    "defaultMessage": "مسحة المزامنة"
+  },
+  "PCSt5T": {
+    "defaultMessage": "التفضيلات"
+  },
+  "PJE8pF": {
+    "defaultMessage": "عرض الرسوم"
+  },
+  "Pswssl": {
+    "defaultMessage": "تأكيد"
+  },
+  "QbCyGW": {
+    "defaultMessage": "بسيطة وخفيفة وآمنة. اتصل وأنشئ محفظة TNB الخاصة بك."
+  },
+  "QiKKFz": {
+    "defaultMessage": "تغيير كلمة المرور"
+  },
+  "QrSVSd": {
+    "defaultMessage": "تحويل المصافحة Handshake"
+  },
+  "R/WihK": {
+    "defaultMessage": "إرسال"
+  },
+  "ROlscS": {
+    "defaultMessage": "أضف عقدة المصرف هنا:"
+  },
+  "S8ZlY6": {
+    "defaultMessage": "حفظ"
+  },
+  "SVVSmw": {
+    "defaultMessage": "خطأ في المسحة"
+  },
+  "SYy/Mr": {
+    "defaultMessage": "كلمة مرور غير صحيحة"
+  },
+  "Sw5Z2S": {
+    "defaultMessage": "إضافة مصرف"
+  },
+  "TO4Vzt": {
+    "defaultMessage": "TheNewBoston Blockchain"
+  },
+  "UeNAXN": {
+    "defaultMessage": "اختر لغة"
+  },
+  "VLTmsF": {
+    "defaultMessage": "لا أصدقاء حتى الآن"
+  },
+  "W47yNx": {
+    "defaultMessage": "مجموع العملات"
+  },
+  "WLBY1S": {
+    "defaultMessage": "إدارة الأصدقاء"
+  },
+  "WXRfPz": {
+    "defaultMessage": "خطوات لمزامنة محفافظك"
+  },
+  "XCnG27": {
+    "defaultMessage": "أُنشئ تطبيق Keysign للموبايل للعمل مع"
+  },
+  "XMYlZD": {
+    "defaultMessage": "محفظتي"
+  },
+  "XYtt8J": {
+    "defaultMessage": "اسم المحفظة"
+  },
+  "XcCIUg": {
+    "defaultMessage": "Keysign"
+  },
+  "Y3rADe": {
+    "defaultMessage": "أدخل كلمة المرور دون أن يشاهدك أحد."
+  },
+  "YTIVDO": {
+    "defaultMessage": "عقدة المصرف"
+  },
+  "YpQLBX": {
+    "defaultMessage": "تم تصدير المحافظ بنجاح"
+  },
+  "Yuklh3": {
+    "defaultMessage": "إنشاء محفظة"
+  },
+  "Z7oS9I": {
+    "defaultMessage": "لا محفظة"
+  },
+  "ZHM9r2": {
+    "defaultMessage": "إضافة صديق"
+  },
+  "Ze/AG8": {
+    "defaultMessage": "إنشاء"
+  },
+  "ZhHaEw": {
+    "defaultMessage": "إلى رقم الحساب"
+  },
+  "a5msuh": {
+    "defaultMessage": "نعم"
+  },
+  "aCVoQT": {
+    "defaultMessage": "أجور المصرف: {amount, number}"
+  },
+  "b7SVXM": {
+    "defaultMessage": "إدارة المحفظة"
+  },
+  "c0vVbD": {
+    "defaultMessage": "تسجيل"
+  },
+  "c2hHXM": {
+    "defaultMessage": "تم استيراد المحافظ بنجاح"
+  },
+  "c5g9Rt": {
+    "defaultMessage": "حذف صديق"
+  },
+  "ceW3ER": {
+    "defaultMessage": "تأكيد"
+  },
+  "clx9/J": {
+    "defaultMessage": "افتراضي"
+  },
+  "dChb0Y": {
+    "defaultMessage": "خذ مسحة لشفرة ال QR"
+  },
+  "djJp6c": {
+    "defaultMessage": "التاريخ"
+  },
+  "e2W5iK": {
+    "defaultMessage": "إرسال إلى:"
+  },
+  "ejEGdx": {
+    "defaultMessage": "الصفحة الرئيسية"
+  },
+  "fG1IZC": {
+    "defaultMessage": "سيتم تحويلك إلى مجتمع على Discord."
+  },
+  "fMaoRo": {
+    "defaultMessage": "هل تؤكد رغبتك بحذف هذا الصديق؟"
+  },
+  "fS+jdZ": {
+    "defaultMessage": "هل تؤكد رغبتك بحذف هذه المحفظة؟"
+  },
+  "gBnpR/": {
+    "defaultMessage": "AppIntro"
+  },
+  "gjBiyj": {
+    "defaultMessage": "جاري التحميل..."
+  },
+  "gvr0wo": {
+    "defaultMessage": "مزامنة المحفظة"
+  },
+  "h/ftND": {
+    "defaultMessage": "اختر ملفا"
+  },
+  "h2vipu": {
+    "defaultMessage": "Code"
+  },
+  "hHk8xH": {
+    "defaultMessage": "تداول على TNBCROW"
+  },
+  "hqv+qJ": {
+    "defaultMessage": "لإضافة مصرف جديد، انقر على إضافة بنك في القائمة المنسدلة."
+  },
+  "iC997S": {
+    "defaultMessage": "إضافة مصرف"
+  },
+  "iIX2t1": {
+    "defaultMessage": "تعذر اختيار الملف"
+  },
+  "iKDTfl": {
+    "defaultMessage": "اسم الصديق"
+  },
+  "iKt39A": {
+    "defaultMessage": "هل تؤكد رغبتك بحذف هذا المصرف?"
+  },
+  "iUzlyp": {
+    "defaultMessage": "حذف المحفظة"
+  },
+  "iotsqr": {
+    "defaultMessage": "تم التحقق بنجاح"
+  },
+  "jsy7pk": {
+    "defaultMessage": "أعد المحاولة"
+  },
+  "kQAf2d": {
+    "defaultMessage": "تحديد"
+  },
+  "l0jKdB": {
+    "defaultMessage": "إضافة صديق"
+  },
+  "lr13V0": {
+    "defaultMessage": "اذهب إلى الصفحة الرئيسية"
+  },
+  "m99RHg": {
+    "defaultMessage": "KEYSIGN"
+  },
+  "nuWwea": {
+    "defaultMessage": "فشل عملية الدخول"
+  },
+  "oEli2v": {
+    "defaultMessage": "تم تطويره وتصميمه من قبل كليهما"
+  },
+  "oUWADl": {
+    "defaultMessage": "لا"
+  },
+  "orLknm": {
+    "defaultMessage": "أخذ مسحة"
+  },
+  "p556q3": {
+    "defaultMessage": "تم نسخه"
+  },
+  "pb93i7": {
+    "defaultMessage": "ملاحظة: لا يمكنك التراجع عن هذا"
+  },
+  "pvIJw6": {
+    "defaultMessage": "يجب أن تتطابق كلمتا المرور"
+  },
+  "q4RWBX": {
+    "defaultMessage": "ابدأ"
+  },
+  "qZbedW": {
+    "defaultMessage": "الأجور"
+  },
+  "qp2cDY": {
+    "defaultMessage": "إدارة المحافظ"
+  },
+  "qzy/q1": {
+    "defaultMessage": "نسيت كلمة المرور؟"
+  },
+  "rV/x4O": {
+    "defaultMessage": "إذا نسيت كلمة المرور الخاصة بك ، فيمكنك مسح بياناتك ولكن سيتعين عليك إدخال جميع مفاتيحك مرة أخرى."
+  },
+  "ruJlSX": {
+    "defaultMessage": "التالي"
+  },
+  "t401lQ": {
+    "defaultMessage": "استيراد"
+  },
+  "umg69G": {
+    "defaultMessage": "إضافة محفظة"
+  },
+  "v3gr+l": {
+    "defaultMessage": "استخدم تسجيل الدخول"
+  },
+  "vV2G6z": {
+    "defaultMessage": "رقم الحساب"
+  },
+  "vfG+nh": {
+    "defaultMessage": "تأكيد كلمة المرور"
+  },
+  "vrMPql": {
+    "defaultMessage": "TNB محفظة"
+  },
+  "wdOQAC": {
+    "defaultMessage": "عن Keysign"
+  },
+  "xQ6aNc": {
+    "defaultMessage": "إنشاء كلمة مرور"
+  },
+  "xedgjh": {
+    "defaultMessage": "يجب أن لا يتجاز 12 حرفا"
+  },
+  "xrKHS6": {
+    "defaultMessage": "نجاح"
+  },
+  "xuxczX": {
+    "defaultMessage": "فشل الجهاز في أخذ المسحة"
+  },
+  "y9dbbX": {
+    "defaultMessage": "إنشاء كلمة مرور"
+  },
+  "yJgJcp": {
+    "defaultMessage": "Keysign هو أفضل طريقة للوصول إلى محفظة TNB الخاصة بك على السلسلة."
+  },
+  "yc5XUr": {
+    "defaultMessage": "استخدم مفاتيح التوقيع"
+  },
+  "yd1dFh": {
+    "defaultMessage": "مفتاح التوقيع"
+  },
+  "z7Siok": {
+    "defaultMessage": "Abhay."
+  }
+}

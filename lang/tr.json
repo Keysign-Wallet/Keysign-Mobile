@@ -1,0 +1,488 @@
+{
+  "+8S2CR": {
+    "defaultMessage": "ANAHTARI İÇE AKTAR"
+  },
+  "+HZbUZ": {
+    "defaultMessage": "Cihaz kilitlendiğinde Keysign'ı otomatik kilitle."
+  },
+  "+S3qBX": {
+    "defaultMessage": "Doğrulama Başarısız"
+  },
+  "+pD6+Y": {
+    "defaultMessage": "Memo (isteğe bağlı)"
+  },
+  "/0TOL5": {
+    "defaultMessage": "Miktar"
+  },
+  "/HSJor": {
+    "defaultMessage": "MrSky"
+  },
+  "/X8qTz": {
+    "defaultMessage": "TNBCROW, P2P ticaret topluluğudur."
+  },
+  "/Yb8GH": {
+    "defaultMessage": "Keysign, TNBCROW'un sahibi değildir."
+  },
+  "/uNyiO": {
+    "defaultMessage": "Otomatik Kilitle"
+  },
+  "0D+jgY": {
+    "defaultMessage": "TNB varlıklarını yönet, ve TNB uygulamalarına bağlan."
+  },
+  "0l3ebm": {
+    "defaultMessage": "En az 3 karakter olmalı!"
+  },
+  "37OpDn": {
+    "defaultMessage": "Bir Banka düğümü (node) seçin"
+  },
+  "3mvL2Q": {
+    "defaultMessage": "ve"
+  },
+  "3yk8fB": {
+    "defaultMessage": "Cüzdan"
+  },
+  "47FYwb": {
+    "defaultMessage": "İptal"
+  },
+  "4vjdwA": {
+    "defaultMessage": "Senkronizasyon Başarılı"
+  },
+  "5TH8l7": {
+    "defaultMessage": "Ayarlara git > Eşle/İçe Aktar/Dışa Aktar"
+  },
+  "5sg7KC": {
+    "defaultMessage": "Şifre"
+  },
+  "62nsdy": {
+    "defaultMessage": "Yeniden Dene"
+  },
+  "6ERahF": {
+    "defaultMessage": "Gönderen: {name}"
+  },
+  "7cGKSL": {
+    "defaultMessage": "Kilitli koinler"
+  },
+  "8ysmEn": {
+    "defaultMessage": "Taraycı cüzdanını aç"
+  },
+  "90axO4": {
+    "defaultMessage": "Al/Sat"
+  },
+  "9QV9HO": {
+    "defaultMessage": "TNB YÖNET"
+  },
+  "9WRlF4": {
+    "defaultMessage": "Gönder"
+  },
+  "9XUYQt": {
+    "defaultMessage": "İçe Aktar"
+  },
+  "9vkJzM": {
+    "defaultMessage": "Keysign 0.0.2"
+  },
+  "A4nR/Y": {
+    "defaultMessage": "Keysign bu hizmetten sorumlu değildir."
+  },
+  "AYrXQt": {
+    "defaultMessage": "Transfer Başarılı"
+  },
+  "AaKEvg": {
+    "defaultMessage": "64 karakteri geçmemelidir!"
+  },
+  "AyGauy": {
+    "defaultMessage": "Giriş"
+  },
+  "B97E6J": {
+    "defaultMessage": "“Mobil Eşle” tuşuna basın"
+  },
+  "Bbkxom": {
+    "defaultMessage": "BOŞTAYKEN KİLİTLE"
+  },
+  "CRxUr0": {
+    "defaultMessage": "İçe aktarım yapılırken, yalnızca cihazda mevcut olmayan hesaplar eklenecektir."
+  },
+  "CdmEya": {
+    "defaultMessage": "Handshake Doğrulama"
+  },
+  "CpHRw1": {
+    "defaultMessage": "Transfer Başarısız"
+  },
+  "D3idYv": {
+    "defaultMessage": "Ayarlar"
+  },
+  "D3rOMr": {
+    "defaultMessage": "Veri Yok"
+  },
+  "D5NqQO": {
+    "defaultMessage": "Memo"
+  },
+  "DMFF/H": {
+    "defaultMessage": "Eşleme Başarısız"
+  },
+  "DtYelJ": {
+    "defaultMessage": "Transfer"
+  },
+  "Duy+4J": {
+    "defaultMessage": "Doğrulayıcı Ücreti: {amount, number}"
+  },
+  "Ev6SEF": {
+    "defaultMessage": "Yeni Şifre"
+  },
+  "G8KMIa": {
+    "defaultMessage": "Mutlaka bir escrow kullanın, şu anda ücretsiz çalışıyorlar."
+  },
+  "GAWz1j": {
+    "defaultMessage": "CİHAZ KİLİDİ"
+  },
+  "GZ/ORp": {
+    "defaultMessage": "100 karakteri geçmemelidir!"
+  },
+  "GretYf": {
+    "defaultMessage": "Şimdiki Şifre"
+  },
+  "GseaGh": {
+    "defaultMessage": "Uygulama kapatıldığında yada elle kilitle."
+  },
+  "H4lIvd": {
+    "defaultMessage": "Varsayılan banka Keysign tarafından belirlenir."
+  },
+  "IPTyRk": {
+    "defaultMessage": "DIŞA AKTAR"
+  },
+  "Icxxne": {
+    "defaultMessage": "Tüm anahtarlarınızı şifreleyerek bir dosyada dışa aktarabilirssiniz. Bu sayede anahtarlarınızı başka bir cihaza aktarabilir veya basitçe güvence altına alabilirsiniz."
+  },
+  "IglYTF": {
+    "defaultMessage": "En az 8 karakter olmalıdır!"
+  },
+  "IkSnjI": {
+    "defaultMessage": "Cüzdan Oluştur"
+  },
+  "J4N5HW": {
+    "defaultMessage": "DEVAM ET"
+  },
+  "Jex29j": {
+    "defaultMessage": "Uygulama belirtilen dakika kadar boşta kaldıktan sonra Keysign'ı otomatik olarak kilitleyin."
+  },
+  "KH/2zQ": {
+    "defaultMessage": "Varlık Transferi"
+  },
+  "KN7zKn": {
+    "defaultMessage": "Hata"
+  },
+  "KqpQmG": {
+    "defaultMessage": "Arkadaş Seç"
+  },
+  "LQhIrI": {
+    "defaultMessage": "Yalnızca sayılara ve harflere izin verilir"
+  },
+  "LiHQih": {
+    "defaultMessage": "Yakında gelecek"
+  },
+  "LwzY+Y": {
+    "defaultMessage": "Tüm Verileri Temizle"
+  },
+  "MEVZgX": {
+    "defaultMessage": "EŞleştirmeyi başlatmak için QR kodunu tarayın"
+  },
+  "MODFAR": {
+    "defaultMessage": "Anahtarları İçe Aktar"
+  },
+  "NmZvub": {
+    "defaultMessage": "Boş olmamalı"
+  },
+  "O8gaYk": {
+    "defaultMessage": "Taramayı Gönder"
+  },
+  "OTl3nO": {
+    "defaultMessage": "Eşle/İçe Aktar/Dışa Aktar"
+  },
+  "OZSO9W": {
+    "defaultMessage": "En az 64 karakter olmalıdır!"
+  },
+  "Olyz0E": {
+    "defaultMessage": "Bu hesap numarasına sahip arkadaşın zaten var!"
+  },
+  "Oua4RH": {
+    "defaultMessage": "Gönderen:"
+  },
+  "P5ynDZ": {
+    "defaultMessage": "Eşleştirme"
+  },
+  "PCSt5T": {
+    "defaultMessage": "Seçenekler"
+  },
+  "PJE8pF": {
+    "defaultMessage": "Ücreti Göster"
+  },
+  "Pswssl": {
+    "defaultMessage": "Doğrulama"
+  },
+  "QbCyGW": {
+    "defaultMessage": "Basit, hafif ve güvenli. TNB cüzdanınızı oluşturun yada bağlayın."
+  },
+  "QiKKFz": {
+    "defaultMessage": "Şifre Değiştir"
+  },
+  "QrSVSd": {
+    "defaultMessage": "Transfer Handshake'i"
+  },
+  "R/WihK": {
+    "defaultMessage": "GÖNDER"
+  },
+  "ROlscS": {
+    "defaultMessage": "BANKA düğümünü (node) buraya ekleyin:"
+  },
+  "S8ZlY6": {
+    "defaultMessage": "KAYDET"
+  },
+  "SVVSmw": {
+    "defaultMessage": "Tarama Hatası"
+  },
+  "SYy/Mr": {
+    "defaultMessage": "Yanlış şifre girildi"
+  },
+  "Sw5Z2S": {
+    "defaultMessage": "BANKA EKLE"
+  },
+  "TO4Vzt": {
+    "defaultMessage": "TheNewBoston Blok Zinciri"
+  },
+  "UeNAXN": {
+    "defaultMessage": "Dil Seçin"
+  },
+  "VLTmsF": {
+    "defaultMessage": "Henüz Arkadaş Yok"
+  },
+  "W47yNx": {
+    "defaultMessage": "Toplam koin"
+  },
+  "WLBY1S": {
+    "defaultMessage": "Arkadaşları Yönet"
+  },
+  "WXRfPz": {
+    "defaultMessage": "Cüzdan eşleştirme adımları"
+  },
+  "XCnG27": {
+    "defaultMessage": "Keysign mobil uygulaması TNB ile çalışacak şekilde oluşturuldu"
+  },
+  "XMYlZD": {
+    "defaultMessage": "Cüzdanım"
+  },
+  "XYtt8J": {
+    "defaultMessage": "Cüzdan Adı"
+  },
+  "XcCIUg": {
+    "defaultMessage": "Keysign"
+  },
+  "Y3rADe": {
+    "defaultMessage": "Etrafta kimse yokken şifrenizi girin."
+  },
+  "YTIVDO": {
+    "defaultMessage": "Bank Node"
+  },
+  "YpQLBX": {
+    "defaultMessage": "Wallets has been exported successfully"
+  },
+  "Yuklh3": {
+    "defaultMessage": "CÜZDAN OLUŞTUR"
+  },
+  "Z7oS9I": {
+    "defaultMessage": "Cüzdan Yok"
+  },
+  "ZHM9r2": {
+    "defaultMessage": "ARKADAŞ EKLE"
+  },
+  "Ze/AG8": {
+    "defaultMessage": "OLUŞTUR"
+  },
+  "ZhHaEw": {
+    "defaultMessage": "Gönderilen Hesap Numarası"
+  },
+  "a5msuh": {
+    "defaultMessage": "Evet"
+  },
+  "aCVoQT": {
+    "defaultMessage": "Banka Ücreti: {amount, number}"
+  },
+  "b7SVXM": {
+    "defaultMessage": "Cüzdanı Yönet"
+  },
+  "c0vVbD": {
+    "defaultMessage": "GİRİŞ YAP"
+  },
+  "c2hHXM": {
+    "defaultMessage": "Cüzdanlar başarıyla içe aktarıldı"
+  },
+  "c5g9Rt": {
+    "defaultMessage": "ARKADAŞLIKTAN ÇIKAR"
+  },
+  "ceW3ER": {
+    "defaultMessage": "ONAYLA"
+  },
+  "clx9/J": {
+    "defaultMessage": "VARSAYILAN"
+  },
+  "dChb0Y": {
+    "defaultMessage": "QR kodunu tarayın"
+  },
+  "djJp6c": {
+    "defaultMessage": "AKTİVİTE"
+  },
+  "e2W5iK": {
+    "defaultMessage": "Gönderilen:"
+  },
+  "ejEGdx": {
+    "defaultMessage": "Merkez"
+  },
+  "fG1IZC": {
+    "defaultMessage": "Bir discord topluluğuna yönlendirileceksiniz."
+  },
+  "fMaoRo": {
+    "defaultMessage": "Bu arkadaşı silmek istediğinden emin misin?"
+  },
+  "fS+jdZ": {
+    "defaultMessage": "Bu cüzdanı silmek istediğinden emin misin?"
+  },
+  "gBnpR/": {
+    "defaultMessage": "AppIntro"
+  },
+  "gjBiyj": {
+    "defaultMessage": "Yükleniyor..."
+  },
+  "gvr0wo": {
+    "defaultMessage": "CÜZDAN EŞLE"
+  },
+  "h/ftND": {
+    "defaultMessage": "Dosya Seç"
+  },
+  "h2vipu": {
+    "defaultMessage": "Kod"
+  },
+  "hHk8xH": {
+    "defaultMessage": "TNBCROW ile Ticaret Yap"
+  },
+  "hqv+qJ": {
+    "defaultMessage": "Yeni bir banka eklemek için açılır menüden BANKA EKLE'yi tıklayın."
+  },
+  "iC997S": {
+    "defaultMessage": "Banka Ekle"
+  },
+  "iIX2t1": {
+    "defaultMessage": "Dosya seçilemiyor"
+  },
+  "iKDTfl": {
+    "defaultMessage": "Arkadaş Adı"
+  },
+  "iKt39A": {
+    "defaultMessage": "Bu bankayı kaldırmak istediğinden emin misin?"
+  },
+  "iUzlyp": {
+    "defaultMessage": "CÜZDAN SİL"
+  },
+  "iotsqr": {
+    "defaultMessage": "Doğrulama Başarılı"
+  },
+  "jsy7pk": {
+    "defaultMessage": "Tekrar deneyin"
+  },
+  "kQAf2d": {
+    "defaultMessage": "Seç"
+  },
+  "l0jKdB": {
+    "defaultMessage": "Arkadaş Ekle"
+  },
+  "lr13V0": {
+    "defaultMessage": "Merkeze Git"
+  },
+  "m99RHg": {
+    "defaultMessage": "KEYSIGN"
+  },
+  "nuWwea": {
+    "defaultMessage": "Giriş başarısız"
+  },
+  "oEli2v": {
+    "defaultMessage": "Geliştiren ve tasaralayan:"
+  },
+  "oUWADl": {
+    "defaultMessage": "Hayır"
+  },
+  "orLknm": {
+    "defaultMessage": "Tara"
+  },
+  "p556q3": {
+    "defaultMessage": "Kopyalandı"
+  },
+  "pb93i7": {
+    "defaultMessage": "NOT: Bu işlem geri alınamaz!"
+  },
+  "pvIJw6": {
+    "defaultMessage": "Her iki şifre de eşleşmelidir!"
+  },
+  "q4RWBX": {
+    "defaultMessage": "BAŞLA"
+  },
+  "qZbedW": {
+    "defaultMessage": "Ücretler"
+  },
+  "qp2cDY": {
+    "defaultMessage": "Cüzdanları Yönet"
+  },
+  "qzy/q1": {
+    "defaultMessage": "Parolayı unuttum?"
+  },
+  "rV/x4O": {
+    "defaultMessage": "Parolanızı unuttuysanız, verilerinizi temizleyebilirsiniz ancak tüm anahtarlarınızı yeniden girmeniz gerekecektir."
+  },
+  "ruJlSX": {
+    "defaultMessage": "SONRAKİ"
+  },
+  "t401lQ": {
+    "defaultMessage": "İÇE AKTAR"
+  },
+  "umg69G": {
+    "defaultMessage": "Cüzdan Ekle"
+  },
+  "v3gr+l": {
+    "defaultMessage": "İMZA ANAHTARI KULLAN"
+  },
+  "vV2G6z": {
+    "defaultMessage": "Hesap Numarası"
+  },
+  "vfG+nh": {
+    "defaultMessage": "Şifreyi Onayla"
+  },
+  "vrMPql": {
+    "defaultMessage": "TNB CÜZDAN"
+  },
+  "wdOQAC": {
+    "defaultMessage": "Keysign Hakkında"
+  },
+  "xQ6aNc": {
+    "defaultMessage": "Şifre Oluştur"
+  },
+  "xedgjh": {
+    "defaultMessage": "12 karakteri geçmemelidir!"
+  },
+  "xrKHS6": {
+    "defaultMessage": "Başarılı"
+  },
+  "xuxczX": {
+    "defaultMessage": "Cihaz taranamadı"
+  },
+  "y9dbbX": {
+    "defaultMessage": "Şifre Oluştur"
+  },
+  "yJgJcp": {
+    "defaultMessage": "Keysign, blok zincirdeki TNB cüzdanınıza erişmenin en iyi yoludur."
+  },
+  "yc5XUr": {
+    "defaultMessage": "İmza Anahtarı Kullan"
+  },
+  "yd1dFh": {
+    "defaultMessage": "İmza Anahtarı"
+  },
+  "z7Siok": {
+    "defaultMessage": "Abhay."
+  }
+}
