@@ -8,6 +8,9 @@
   "+S3qBX": {
     "defaultMessage": "Verify Failed"
   },
+  "+ZKTgk": {
+    "defaultMessage": "Must be at least 3 characters!"
+  },
   "+pD6+Y": {
     "defaultMessage": "Memo (optional)"
   },
@@ -29,8 +32,11 @@
   "0D+jgY": {
     "defaultMessage": "Manage TNB assets, and connect to TNB applications."
   },
-  "0l3ebm": {
-    "defaultMessage": "Must be at least 3 characters!"
+  "1Ojx58": {
+    "defaultMessage": "When importing, only accounts that are not already present on the instance will be added."
+  },
+  "2RenFV": {
+    "defaultMessage": "Add Bank"
   },
   "37OpDn": {
     "defaultMessage": "Select a Bank node"
@@ -77,9 +83,6 @@
   "9XUYQt": {
     "defaultMessage": "Import"
   },
-  "9vkJzM": {
-    "defaultMessage": "Keysign 0.0.2"
-  },
   "A4nR/Y": {
     "defaultMessage": "Keysign is not liable for this service."
   },
@@ -89,17 +92,11 @@
   "AaKEvg": {
     "defaultMessage": "Must not exceed 64 characters!"
   },
-  "AyGauy": {
-    "defaultMessage": "Login"
-  },
   "B97E6J": {
     "defaultMessage": "Click the “Sync Mobile” button"
   },
   "Bbkxom": {
     "defaultMessage": "IDLE LOCK"
-  },
-  "CRxUr0": {
-    "defaultMessage": "When importing, only accounts that are not already present on the instance will be added."
   },
   "CdmEya": {
     "defaultMessage": "Handshake Verify"
@@ -188,6 +185,9 @@
   "MODFAR": {
     "defaultMessage": "Import Keys"
   },
+  "Mq1ePl": {
+    "defaultMessage": "Keysign {version, number}"
+  },
   "NmZvub": {
     "defaultMessage": "Must not be empty"
   },
@@ -196,9 +196,6 @@
   },
   "OTl3nO": {
     "defaultMessage": "Sync/Import/Export"
-  },
-  "OZSO9W": {
-    "defaultMessage": "Must be at least 64 characters!"
   },
   "Olyz0E": {
     "defaultMessage": "Friend with this account number already exists!"
@@ -227,6 +224,9 @@
   "QrSVSd": {
     "defaultMessage": "Handshake Transfer"
   },
+  "QzD37S": {
+    "defaultMessage": "Must be at least 64 characters!"
+  },
   "R/WihK": {
     "defaultMessage": "SUBMIT"
   },
@@ -248,8 +248,14 @@
   "TO4Vzt": {
     "defaultMessage": "TheNewBoston Blockchain"
   },
+  "Tvsi2s": {
+    "defaultMessage": "SEND"
+  },
   "UeNAXN": {
     "defaultMessage": "Choose Language"
+  },
+  "V5m11/": {
+    "defaultMessage": "Must not exceed your wallet amount {balance, number}"
   },
   "VLTmsF": {
     "defaultMessage": "No Friends Yet"
@@ -326,6 +332,9 @@
   "dChb0Y": {
     "defaultMessage": "Scan the QR code"
   },
+  "dGroal": {
+    "defaultMessage": "HISTORY"
+  },
   "djJp6c": {
     "defaultMessage": "History"
   },
@@ -344,9 +353,6 @@
   "fS+jdZ": {
     "defaultMessage": "Are you sure you want to delete this wallet?"
   },
-  "gBnpR/": {
-    "defaultMessage": "AppIntro"
-  },
   "gjBiyj": {
     "defaultMessage": "Loading..."
   },
@@ -364,9 +370,6 @@
   },
   "hqv+qJ": {
     "defaultMessage": "To add a new bank, click ADD BANK in dropdown."
-  },
-  "iC997S": {
-    "defaultMessage": "Add Bank"
   },
   "iIX2t1": {
     "defaultMessage": "Unable to select file"
@@ -469,9 +472,6 @@
   },
   "xuxczX": {
     "defaultMessage": "Device failed to scan"
-  },
-  "y9dbbX": {
-    "defaultMessage": "CreatePassword"
   },
   "yJgJcp": {
     "defaultMessage": "Keysign is the best way to access your TNB wallet on the chain."
