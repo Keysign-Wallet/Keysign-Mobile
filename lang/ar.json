@@ -8,6 +8,9 @@
   "+S3qBX": {
     "defaultMessage": "فشل التحقق"
   },
+  "+ZKTgk": {
+    "defaultMessage": "Must be at least 3 characters!"
+  },
   "+pD6+Y": {
     "defaultMessage": "مذكرة (اختياري)"
   },
@@ -29,8 +32,11 @@
   "0D+jgY": {
     "defaultMessage": "تحكم بممتلكاتك من ال TNB، وارتبط بتطبيقات ال TNB."
   },
-  "0l3ebm": {
-    "defaultMessage": "يجب أن يتكون من 3 أحرف على الأقل!"
+  "1Ojx58": {
+    "defaultMessage": "When importing, only accounts that are not already present on the instance will be added."
+  },
+  "2RenFV": {
+    "defaultMessage": "Add Bank"
   },
   "37OpDn": {
     "defaultMessage": "اختر عقدة المصرف"
@@ -77,9 +83,6 @@
   "9XUYQt": {
     "defaultMessage": "استيراد"
   },
-  "9vkJzM": {
-    "defaultMessage": "Keysign 0.0.2"
-  },
   "A4nR/Y": {
     "defaultMessage": "Keysign ليس مسؤولا عن هذه الخدمة"
   },
@@ -89,17 +92,11 @@
   "AaKEvg": {
     "defaultMessage": "يحب أن لا يتجاوز 64 حرفا"
   },
-  "AyGauy": {
-    "defaultMessage": "تسجيل دخول"
-  },
   "B97E6J": {
     "defaultMessage": "اضغط على زر “مزامنة الهاتف”"
   },
   "Bbkxom": {
     "defaultMessage": "قفل خامل"
-  },
-  "CRxUr0": {
-    "defaultMessage": "عند الاستيراد، ستضاف الحسابات الغير موجودة على الجهاز فقط."
   },
   "CdmEya": {
     "defaultMessage": "تحقق المصافحة"
@@ -188,14 +185,14 @@
   "MODFAR": {
     "defaultMessage": "استيراد المفاتيح"
   },
+  "Mq1ePl": {
+    "defaultMessage": "Keysign {version, number}"
+  },
   "NmZvub": {
     "defaultMessage": "يجب أن لا يكون فارغا"
   },
   "O8gaYk": {
     "defaultMessage": "إرسال المسحة"
-  },
-  "OTl3nO": {
-    "defaultMessage": "مزامنة/استيراد/تصدير"
   },
   "OZSO9W": {
     "defaultMessage": "يجب أن يتكون من 64 حرفا على الأقل!"
@@ -227,6 +224,9 @@
   "QrSVSd": {
     "defaultMessage": "تحويل المصافحة Handshake"
   },
+  "QzD37S": {
+    "defaultMessage": "Must be at least 64 characters!"
+  },
   "R/WihK": {
     "defaultMessage": "إرسال"
   },
@@ -248,8 +248,14 @@
   "TO4Vzt": {
     "defaultMessage": "TheNewBoston Blockchain"
   },
+  "Tvsi2s": {
+    "defaultMessage": "SEND"
+  },
   "UeNAXN": {
     "defaultMessage": "اختر لغة"
+  },
+  "V5m11/": {
+    "defaultMessage": "Must not exceed your wallet amount {balance, number}"
   },
   "VLTmsF": {
     "defaultMessage": "لا أصدقاء حتى الآن"
@@ -326,6 +332,9 @@
   "dChb0Y": {
     "defaultMessage": "خذ مسحة لشفرة ال QR"
   },
+  "dGroal": {
+    "defaultMessage": "HISTORY"
+  },
   "djJp6c": {
     "defaultMessage": "التاريخ"
   },
@@ -344,9 +353,6 @@
   "fS+jdZ": {
     "defaultMessage": "هل تؤكد رغبتك بحذف هذه المحفظة؟"
   },
-  "gBnpR/": {
-    "defaultMessage": "AppIntro"
-  },
   "gjBiyj": {
     "defaultMessage": "جاري التحميل..."
   },
@@ -364,9 +370,6 @@
   },
   "hqv+qJ": {
     "defaultMessage": "لإضافة مصرف جديد، انقر على إضافة بنك في القائمة المنسدلة."
-  },
-  "iC997S": {
-    "defaultMessage": "إضافة مصرف"
   },
   "iIX2t1": {
     "defaultMessage": "تعذر اختيار الملف"
@@ -469,9 +472,6 @@
   },
   "xuxczX": {
     "defaultMessage": "فشل الجهاز في أخذ المسحة"
-  },
-  "y9dbbX": {
-    "defaultMessage": "إنشاء كلمة مرور"
   },
   "yJgJcp": {
     "defaultMessage": "Keysign هو أفضل طريقة للوصول إلى محفظة TNB الخاصة بك على السلسلة."
