@@ -8,6 +8,9 @@
   "+S3qBX": {
     "defaultMessage": "Doğrulama Başarısız"
   },
+  "+ZKTgk": {
+    "defaultMessage": "Must be at least 3 characters!"
+  },
   "+pD6+Y": {
     "defaultMessage": "Memo (isteğe bağlı)"
   },
@@ -29,8 +32,11 @@
   "0D+jgY": {
     "defaultMessage": "TNB varlıklarını yönet, ve TNB uygulamalarına bağlan."
   },
-  "0l3ebm": {
-    "defaultMessage": "En az 3 karakter olmalı!"
+  "1Ojx58": {
+    "defaultMessage": "When importing, only accounts that are not already present on the instance will be added."
+  },
+  "2RenFV": {
+    "defaultMessage": "Add Bank"
   },
   "37OpDn": {
     "defaultMessage": "Bir Banka düğümü (node) seçin"
@@ -77,9 +83,6 @@
   "9XUYQt": {
     "defaultMessage": "İçe Aktar"
   },
-  "9vkJzM": {
-    "defaultMessage": "Keysign 0.0.2"
-  },
   "A4nR/Y": {
     "defaultMessage": "Keysign bu hizmetten sorumlu değildir."
   },
@@ -89,17 +92,11 @@
   "AaKEvg": {
     "defaultMessage": "64 karakteri geçmemelidir!"
   },
-  "AyGauy": {
-    "defaultMessage": "Giriş"
-  },
   "B97E6J": {
     "defaultMessage": "“Mobil Eşle” tuşuna basın"
   },
   "Bbkxom": {
     "defaultMessage": "BOŞTAYKEN KİLİTLE"
-  },
-  "CRxUr0": {
-    "defaultMessage": "İçe aktarım yapılırken, yalnızca cihazda mevcut olmayan hesaplar eklenecektir."
   },
   "CdmEya": {
     "defaultMessage": "Handshake Doğrulama"
@@ -188,14 +185,14 @@
   "MODFAR": {
     "defaultMessage": "Anahtarları İçe Aktar"
   },
+  "Mq1ePl": {
+    "defaultMessage": "Keysign {version, number}"
+  },
   "NmZvub": {
     "defaultMessage": "Boş olmamalı"
   },
   "O8gaYk": {
     "defaultMessage": "Taramayı Gönder"
-  },
-  "OTl3nO": {
-    "defaultMessage": "Eşle/İçe Aktar/Dışa Aktar"
   },
   "OZSO9W": {
     "defaultMessage": "En az 64 karakter olmalıdır!"
@@ -227,6 +224,9 @@
   "QrSVSd": {
     "defaultMessage": "Transfer Handshake'i"
   },
+  "QzD37S": {
+    "defaultMessage": "Must be at least 64 characters!"
+  },
   "R/WihK": {
     "defaultMessage": "GÖNDER"
   },
@@ -248,8 +248,14 @@
   "TO4Vzt": {
     "defaultMessage": "TheNewBoston Blok Zinciri"
   },
+  "Tvsi2s": {
+    "defaultMessage": "SEND"
+  },
   "UeNAXN": {
     "defaultMessage": "Dil Seçin"
+  },
+  "V5m11/": {
+    "defaultMessage": "Must not exceed your wallet amount {balance, number}"
   },
   "VLTmsF": {
     "defaultMessage": "Henüz Arkadaş Yok"
@@ -326,6 +332,9 @@
   "dChb0Y": {
     "defaultMessage": "QR kodunu tarayın"
   },
+  "dGroal": {
+    "defaultMessage": "HISTORY"
+  },
   "djJp6c": {
     "defaultMessage": "AKTİVİTE"
   },
@@ -344,9 +353,6 @@
   "fS+jdZ": {
     "defaultMessage": "Bu cüzdanı silmek istediğinden emin misin?"
   },
-  "gBnpR/": {
-    "defaultMessage": "AppIntro"
-  },
   "gjBiyj": {
     "defaultMessage": "Yükleniyor..."
   },
@@ -364,9 +370,6 @@
   },
   "hqv+qJ": {
     "defaultMessage": "Yeni bir banka eklemek için açılır menüden BANKA EKLE'yi tıklayın."
-  },
-  "iC997S": {
-    "defaultMessage": "Banka Ekle"
   },
   "iIX2t1": {
     "defaultMessage": "Dosya seçilemiyor"
@@ -469,9 +472,6 @@
   },
   "xuxczX": {
     "defaultMessage": "Cihaz taranamadı"
-  },
-  "y9dbbX": {
-    "defaultMessage": "Şifre Oluştur"
   },
   "yJgJcp": {
     "defaultMessage": "Keysign, blok zincirdeki TNB cüzdanınıza erişmenin en iyi yoludur."

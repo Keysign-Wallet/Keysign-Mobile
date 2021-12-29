@@ -8,6 +8,9 @@
   "+S3qBX": {
     "defaultMessage": "验证失败"
   },
+  "+ZKTgk": {
+    "defaultMessage": "Must be at least 3 characters!"
+  },
   "+pD6+Y": {
     "defaultMessage": "备忘录（可选）"
   },
@@ -29,8 +32,11 @@
   "0D+jgY": {
     "defaultMessage": "管理 TNB 资产，并连接到 TNB 应用程序。"
   },
-  "0l3ebm": {
-    "defaultMessage": "必须至少包含3个字符！"
+  "1Ojx58": {
+    "defaultMessage": "When importing, only accounts that are not already present on the instance will be added."
+  },
+  "2RenFV": {
+    "defaultMessage": "Add Bank"
   },
   "37OpDn": {
     "defaultMessage": "选择银行节点"
@@ -77,9 +83,6 @@
   "9XUYQt": {
     "defaultMessage": "导入"
   },
-  "9vkJzM": {
-    "defaultMessage": "Keysign 0.0.2"
-  },
   "A4nR/Y": {
     "defaultMessage": "Keysign 对此项服务不承担任何责任。"
   },
@@ -89,17 +92,11 @@
   "AaKEvg": {
     "defaultMessage": "不得超过 64 个字符！"
   },
-  "AyGauy": {
-    "defaultMessage": "登录"
-  },
   "B97E6J": {
     "defaultMessage": "点击“同步手机”按钮"
   },
   "Bbkxom": {
     "defaultMessage": "空闲锁"
-  },
-  "CRxUr0": {
-    "defaultMessage": "导入时，只会添加实例上尚不存在的帐户。"
   },
   "CdmEya": {
     "defaultMessage": "握手验证"
@@ -188,14 +185,14 @@
   "MODFAR": {
     "defaultMessage": "导入密钥"
   },
+  "Mq1ePl": {
+    "defaultMessage": "Keysign {version, number}"
+  },
   "NmZvub": {
     "defaultMessage": "不能为空"
   },
   "O8gaYk": {
     "defaultMessage": "发送扫描"
-  },
-  "OTl3nO": {
-    "defaultMessage": "同步/导入/导出"
   },
   "OZSO9W": {
     "defaultMessage": "必须至少 64 个字符！"
@@ -227,6 +224,9 @@
   "QrSVSd": {
     "defaultMessage": "握手传输"
   },
+  "QzD37S": {
+    "defaultMessage": "Must be at least 64 characters!"
+  },
   "R/WihK": {
     "defaultMessage": "提交"
   },
@@ -248,8 +248,14 @@
   "TO4Vzt": {
     "defaultMessage": "新波士顿区块链"
   },
+  "Tvsi2s": {
+    "defaultMessage": "SEND"
+  },
   "UeNAXN": {
     "defaultMessage": "选择语言"
+  },
+  "V5m11/": {
+    "defaultMessage": "Must not exceed your wallet amount {balance, number}"
   },
   "VLTmsF": {
     "defaultMessage": "暂时还没有好友"
@@ -326,6 +332,9 @@
   "dChb0Y": {
     "defaultMessage": "扫描二维码"
   },
+  "dGroal": {
+    "defaultMessage": "HISTORY"
+  },
   "djJp6c": {
     "defaultMessage": "历史"
   },
@@ -344,9 +353,6 @@
   "fS+jdZ": {
     "defaultMessage": "您确定要删除这个钱包吗？"
   },
-  "gBnpR/": {
-    "defaultMessage": "应用介绍"
-  },
   "gjBiyj": {
     "defaultMessage": "加载中..."
   },
@@ -364,9 +370,6 @@
   },
   "hqv+qJ": {
     "defaultMessage": "如要添加新的银行，请单击下拉菜单中的添加银行。"
-  },
-  "iC997S": {
-    "defaultMessage": "Add Back"
   },
   "iIX2t1": {
     "defaultMessage": "无法选择文件"
@@ -469,9 +472,6 @@
   },
   "xuxczX": {
     "defaultMessage": "设备扫描失败"
-  },
-  "y9dbbX": {
-    "defaultMessage": "创建密码"
   },
   "yJgJcp": {
     "defaultMessage": "Keysign 是在链上访问您的 TNB 钱包的最佳方式。"

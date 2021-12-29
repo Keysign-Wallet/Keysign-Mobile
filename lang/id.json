@@ -8,6 +8,9 @@
   "+S3qBX": {
     "defaultMessage": "Verifikasi Gagal"
   },
+  "+ZKTgk": {
+    "defaultMessage": "Must be at least 3 characters!"
+  },
   "+pD6+Y": {
     "defaultMessage": "Memo (opsional)"
   },
@@ -29,8 +32,11 @@
   "0D+jgY": {
     "defaultMessage": "Atur aset TNB, dan menghubungkan ke aplikasi TNB."
   },
-  "0l3ebm": {
-    "defaultMessage": "Setidaknya paling sedikit 3 karakter!"
+  "1Ojx58": {
+    "defaultMessage": "When importing, only accounts that are not already present on the instance will be added."
+  },
+  "2RenFV": {
+    "defaultMessage": "Add Bank"
   },
   "37OpDn": {
     "defaultMessage": "Pilih node Bank"
@@ -77,9 +83,6 @@
   "9XUYQt": {
     "defaultMessage": "Impor"
   },
-  "9vkJzM": {
-    "defaultMessage": "Keysign 0.0.2"
-  },
   "A4nR/Y": {
     "defaultMessage": "Keysign tidak bertanggung jawab atas layanan ini."
   },
@@ -89,17 +92,11 @@
   "AaKEvg": {
     "defaultMessage": "Tidak boleh lebih dari 64 karakter!"
   },
-  "AyGauy": {
-    "defaultMessage": "Masuk"
-  },
   "B97E6J": {
     "defaultMessage": "Klik tombol “Sinkronisasi Perangkat Mobile”"
   },
   "Bbkxom": {
     "defaultMessage": "IDLE LOCK"
-  },
-  "CRxUr0": {
-    "defaultMessage": "Saat mengimpor, hanya akun yang belum ada di instans yang akan di tambah."
   },
   "CdmEya": {
     "defaultMessage": "Verifikasi Jabat Tangan"
@@ -188,14 +185,14 @@
   "MODFAR": {
     "defaultMessage": "Impor Kunci"
   },
+  "Mq1ePl": {
+    "defaultMessage": "Keysign {version, number}"
+  },
   "NmZvub": {
     "defaultMessage": "Tidak boleh kosong"
   },
   "O8gaYk": {
     "defaultMessage": "Kirim Scan"
-  },
-  "OTl3nO": {
-    "defaultMessage": "Sinkronisasi/Impor/Ekspor"
   },
   "OZSO9W": {
     "defaultMessage": "Paling sedikit 64 karakter!"
@@ -227,6 +224,9 @@
   "QrSVSd": {
     "defaultMessage": "Handshake Transfer"
   },
+  "QzD37S": {
+    "defaultMessage": "Must be at least 64 characters!"
+  },
   "R/WihK": {
     "defaultMessage": "KIRIM"
   },
@@ -248,8 +248,14 @@
   "TO4Vzt": {
     "defaultMessage": "TheNewBoston Blockchain"
   },
+  "Tvsi2s": {
+    "defaultMessage": "SEND"
+  },
   "UeNAXN": {
     "defaultMessage": "Pilih Bahasa"
+  },
+  "V5m11/": {
+    "defaultMessage": "Must not exceed your wallet amount {balance, number}"
   },
   "VLTmsF": {
     "defaultMessage": "Anda belum memiliki Teman"
@@ -326,6 +332,9 @@
   "dChb0Y": {
     "defaultMessage": "Scan QR code"
   },
+  "dGroal": {
+    "defaultMessage": "HISTORY"
+  },
   "djJp6c": {
     "defaultMessage": "History"
   },
@@ -344,9 +353,6 @@
   "fS+jdZ": {
     "defaultMessage": "Anda yakin ingin menghapus wallet ini?"
   },
-  "gBnpR/": {
-    "defaultMessage": "Pengenalan App"
-  },
   "gjBiyj": {
     "defaultMessage": "Sedang Memuat..."
   },
@@ -364,9 +370,6 @@
   },
   "hqv+qJ": {
     "defaultMessage": "Untuk menambah bank baru, klik TAMBAH BANK di menu dropdown."
-  },
-  "iC997S": {
-    "defaultMessage": "Tambah Bank"
   },
   "iIX2t1": {
     "defaultMessage": "Tidak dapat memilih file"
@@ -469,9 +472,6 @@
   },
   "xuxczX": {
     "defaultMessage": "Perangkat gagal untuk scan"
-  },
-  "y9dbbX": {
-    "defaultMessage": "Buat Sandi"
   },
   "yJgJcp": {
     "defaultMessage": "Keysign adalah platform terbaik untuk mengakses TNB wallet anda di blockchain."

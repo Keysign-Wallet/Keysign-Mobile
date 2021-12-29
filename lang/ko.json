@@ -8,6 +8,9 @@
   "+S3qBX": {
     "defaultMessage": "인증실패"
   },
+  "+ZKTgk": {
+    "defaultMessage": "Must be at least 3 characters!"
+  },
   "+pD6+Y": {
     "defaultMessage": "메모 (선택)"
   },
@@ -29,8 +32,11 @@
   "0D+jgY": {
     "defaultMessage": "TNB 자산을 관리하고 TNB 애플리케이션으로 연결됩니다."
   },
-  "0l3ebm": {
-    "defaultMessage": "최소로 3자 이상 되어야 합니다!"
+  "1Ojx58": {
+    "defaultMessage": "When importing, only accounts that are not already present on the instance will be added."
+  },
+  "2RenFV": {
+    "defaultMessage": "Add Bank"
   },
   "37OpDn": {
     "defaultMessage": "은행 노드 선택"
@@ -77,9 +83,6 @@
   "9XUYQt": {
     "defaultMessage": "가져오기"
   },
-  "9vkJzM": {
-    "defaultMessage": "Keysign 0.0.2"
-  },
   "A4nR/Y": {
     "defaultMessage": "Keysign은 본 서비스에 대해 책임을 지지 않습니다."
   },
@@ -89,17 +92,11 @@
   "AaKEvg": {
     "defaultMessage": "64 자를 초과할 수 없습니다!"
   },
-  "AyGauy": {
-    "defaultMessage": "로그인"
-  },
   "B97E6J": {
     "defaultMessage": "'모바일 동기화' 버튼을 클릭하세요."
   },
   "Bbkxom": {
     "defaultMessage": "유휴 잠금"
-  },
-  "CRxUr0": {
-    "defaultMessage": "가져오기 인스턴스에는 아직 없는 계정들만 추가됩니다."
   },
   "CdmEya": {
     "defaultMessage": "핸드셰이크 인증"
@@ -188,14 +185,14 @@
   "MODFAR": {
     "defaultMessage": "키 가져오기"
   },
+  "Mq1ePl": {
+    "defaultMessage": "Keysign {version, number}"
+  },
   "NmZvub": {
     "defaultMessage": "비워둘 수 없습니다."
   },
   "O8gaYk": {
     "defaultMessage": "스캔 보내기"
-  },
-  "OTl3nO": {
-    "defaultMessage": "동기화/가져오기/내보내기"
   },
   "OZSO9W": {
     "defaultMessage": "64자 이상이어야 합니다!"
@@ -227,6 +224,9 @@
   "QrSVSd": {
     "defaultMessage": "핸드셰이크 전송"
   },
+  "QzD37S": {
+    "defaultMessage": "Must be at least 64 characters!"
+  },
   "R/WihK": {
     "defaultMessage": "제출"
   },
@@ -248,8 +248,14 @@
   "TO4Vzt": {
     "defaultMessage": "새로운 보스턴 블록체인"
   },
+  "Tvsi2s": {
+    "defaultMessage": "SEND"
+  },
   "UeNAXN": {
     "defaultMessage": "언어 선택"
+  },
+  "V5m11/": {
+    "defaultMessage": "Must not exceed your wallet amount {balance, number}"
   },
   "VLTmsF": {
     "defaultMessage": "아직 친구가 없습니다"
@@ -326,6 +332,9 @@
   "dChb0Y": {
     "defaultMessage": "QR 코드 스캔"
   },
+  "dGroal": {
+    "defaultMessage": "HISTORY"
+  },
   "djJp6c": {
     "defaultMessage": "히스토리"
   },
@@ -344,9 +353,6 @@
   "fS+jdZ": {
     "defaultMessage": "이 지갑을 삭제하시겠습니까?"
   },
-  "gBnpR/": {
-    "defaultMessage": "App소개"
-  },
   "gjBiyj": {
     "defaultMessage": "로딩 중..."
   },
@@ -364,9 +370,6 @@
   },
   "hqv+qJ": {
     "defaultMessage": "새 은행을 추가하려면 드롭 다운 목록에서 은행 추가를 클릭하세요."
-  },
-  "iC997S": {
-    "defaultMessage": "Add Back"
   },
   "iIX2t1": {
     "defaultMessage": "파일을 선택할 수 없습니다"
@@ -469,9 +472,6 @@
   },
   "xuxczX": {
     "defaultMessage": "장치가 스캔에 실패하였습니다."
-  },
-  "y9dbbX": {
-    "defaultMessage": "비밀번호 생성"
   },
   "yJgJcp": {
     "defaultMessage": "Keysign은 체인에서 TNB 지갑에 액세스하는 가장 좋은 방식입니다."
