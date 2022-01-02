@@ -186,7 +186,7 @@
     "defaultMessage": "Import Keys"
   },
   "Mq1ePl": {
-    "defaultMessage": "Keysign {version, number}"
+    "defaultMessage": "Keysign {version}"
   },
   "NmZvub": {
     "defaultMessage": "Must not be empty"

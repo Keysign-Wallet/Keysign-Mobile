@@ -18,7 +18,10 @@ const AboutKeysignScreen = () => {
       />
       <Content style={styles.content}>
         <Text style={styles.keysignVer}>
-          <FormattedMessage defaultMessage="Keysign 0.3.6" />
+          <FormattedMessage
+            defaultMessage="Keysign {version}"
+            values={{version: '0.0.4'}}
+          />
         </Text>
         <Text style={styles.para}>
           <FormattedMessage defaultMessage="Keysign mobile application was created to work with" />{' '}

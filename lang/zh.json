@@ -186,13 +186,16 @@
     "defaultMessage": "导入密钥"
   },
   "Mq1ePl": {
-    "defaultMessage": "Keysign {version, number}"
+    "defaultMessage": "Keysign {version}"
   },
   "NmZvub": {
     "defaultMessage": "不能为空"
   },
   "O8gaYk": {
     "defaultMessage": "发送扫描"
+  },
+  "OTl3nO": {
+    "defaultMessage": "Sync/Import/Export"
   },
   "OZSO9W": {
     "defaultMessage": "必须至少 64 个字符！"

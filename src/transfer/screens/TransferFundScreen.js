@@ -22,14 +22,17 @@ import ScanIcon from '../../assets/icons/tab-scan-icon.svg';
 import * as Colors from '../../config/colors';
 
 import {getActiveBankConfig} from '../../banks/redux/selectors';
+import {getSelectedWallet} from '../../wallet/redux/selectors';
 
 /* =============================================================================
 <TransferFundScreen />
 ============================================================================= */
-const TransferFundScreen = ({navigation, bankConfig}) => {
+const TransferFundScreen = ({navigation, bankConfig, wallet}) => {
   const intl = useIntl();
+  const balance = wallet && wallet.balance ? wallet.balance : 0;
+
   const [selectFriendModal, setSearchFriendModal] = useState(false);
-  const TransferFundSchema = getTransferFundSchema(intl);
+  const TransferFundSchema = getTransferFundSchema(intl, balance);
 
   const _toggleSearchFriendModal = () => {
     setSearchFriendModal(prevState => !prevState);
@@ -46,11 +49,15 @@ const TransferFundScreen = ({navigation, bankConfig}) => {
   };
 
   const _handleSubmit = values => {
-    navigation.navigate('TransferDetails', {
-      amount: values.amount,
-      address: values.address,
-      memo: values.memoChecked ? values.memo : '',
-    });
+    const balance = wallet && wallet.balance ? wallet.balance : 0;
+
+    if (values.amount <= balance) {
+      navigation.navigate('TransferDetails', {
+        amount: values.amount,
+        address: values.address,
+        memo: values.memoChecked ? values.memo : '',
+      });
+    }
   };
 
   const bankFee = bankConfig ? bankConfig.default_transaction_fee : 0;
@@ -159,14 +166,23 @@ const TransferFundScreen = ({navigation, bankConfig}) => {
   );
 };
 
-const getTransferFundSchema = intl =>
+const getTransferFundSchema = (intl, balance) =>
   Yup.object().shape({
     address: Yup.string().required(
       intl.formatMessage({defaultMessage: 'Must not be empty'}),
     ),
-    amount: Yup.number().required(
-      intl.formatMessage({defaultMessage: 'Must not be empty'}),
-    ),
+    amount: Yup.number()
+      .max(
+        balance,
+        intl.formatMessage(
+          {
+            defaultMessage:
+              'Must not exceed your wallet amount {balance, number}',
+          },
+          {balance},
+        ),
+      )
+      .required(intl.formatMessage({defaultMessage: 'Must not be empty'})),
     memoChecked: Yup.boolean().optional(),
     memo: Yup.string().optional(),
   });
@@ -248,6 +264,7 @@ const friendsMock = [
 const mapStateToProps = state => ({
   // friends: getFriends(state),
   friends: friendsMock,
+  wallet: getSelectedWallet(state),
   bankConfig: getActiveBankConfig(state),
 });
 

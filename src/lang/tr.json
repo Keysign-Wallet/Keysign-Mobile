@@ -2,37 +2,37 @@
   "+8S2CR": [
     {
       "type": 0,
-      "value": "导入密钥"
+      "value": "ANAHTARI İÇE AKTAR"
     }
   ],
   "+HZbUZ": [
     {
       "type": 0,
-      "value": "当设备锁定时自动锁定钥匙标志。"
+      "value": "Cihaz kilitlendiğinde Keysign'ı otomatik kilitle."
     }
   ],
   "+S3qBX": [
     {
       "type": 0,
-      "value": "验证失败"
+      "value": "Doğrulama Başarısız"
     }
   ],
   "+ZKTgk": [
     {
       "type": 0,
-      "value": "Must be at least 3 characters!"
+      "value": "En az 3 karakter olmalı!"
     }
   ],
   "+pD6+Y": [
     {
       "type": 0,
-      "value": "备忘录（可选）"
+      "value": "Memo (isteğe bağlı)"
     }
   ],
   "/0TOL5": [
     {
       "type": 0,
-      "value": "数量"
+      "value": "Miktar"
     }
   ],
   "/HSJor": [
@@ -44,91 +44,91 @@
   "/X8qTz": [
     {
       "type": 0,
-      "value": "TNBCROW 是一个 P2P 交易社区。"
+      "value": "TNBCROW, kişiden kişiye (P2P) ticaret topluluğudur."
     }
   ],
   "/Yb8GH": [
     {
       "type": 0,
-      "value": "Keysign 不拥有 TNBCROW"
+      "value": "Keysign, TNBCROW'un sahibi değildir."
     }
   ],
   "/uNyiO": [
     {
       "type": 0,
-      "value": "自动锁定"
+      "value": "Otomatik Kilitle"
     }
   ],
   "0D+jgY": [
     {
       "type": 0,
-      "value": "管理 TNB 资产，并连接到 TNB 应用程序。"
+      "value": "TNB varlıklarını yönet ve TNB uygulamalarına bağlan."
     }
   ],
   "1Ojx58": [
     {
       "type": 0,
-      "value": "When importing, only accounts that are not already present on the instance will be added."
+      "value": "İçe aktarırken, yalnızca mevcut olmayan hesaplar eklenecektir."
     }
   ],
   "2RenFV": [
     {
       "type": 0,
-      "value": "Add Bank"
+      "value": "Banka Ekle"
     }
   ],
   "37OpDn": [
     {
       "type": 0,
-      "value": "选择银行节点"
+      "value": "Bir Banka düğümü (node) seç"
     }
   ],
   "3mvL2Q": [
     {
       "type": 0,
-      "value": "和"
+      "value": "ve"
     }
   ],
   "3yk8fB": [
     {
       "type": 0,
-      "value": "钱包"
+      "value": "Cüzdan"
     }
   ],
   "47FYwb": [
     {
       "type": 0,
-      "value": "取消"
+      "value": "İptal"
     }
   ],
   "4vjdwA": [
     {
       "type": 0,
-      "value": "同步成功"
+      "value": "Senkronizasyon Başarılı"
     }
   ],
   "5TH8l7": [
     {
       "type": 0,
-      "value": "转到设置 > 同步/导入/导出"
+      "value": "Ayarlar'a git > Eşle/İçe Aktar/Dışa Aktar"
     }
   ],
   "5sg7KC": [
     {
       "type": 0,
-      "value": "密码"
+      "value": "Şifre"
     }
   ],
   "62nsdy": [
     {
       "type": 0,
-      "value": "重试"
+      "value": "Yeniden Dene"
     }
   ],
   "6ERahF": [
     {
       "type": 0,
-      "value": "来自 "
+      "value": "Gönderen: "
     },
     {
       "type": 1,
@@ -138,115 +138,115 @@
   "7cGKSL": [
     {
       "type": 0,
-      "value": "锁定代币"
+      "value": "Kilitli koinler"
     }
   ],
   "8ysmEn": [
     {
       "type": 0,
-      "value": "打开您的浏览器钱包"
+      "value": "Taraycı cüzdanını aç"
     }
   ],
   "90axO4": [
     {
       "type": 0,
-      "value": "交易"
+      "value": "Al/Sat"
     }
   ],
   "9QV9HO": [
     {
       "type": 0,
-      "value": "TNB管理"
+      "value": "TNB YÖNET"
     }
   ],
   "9WRlF4": [
     {
       "type": 0,
-      "value": "发送"
+      "value": "Gönder"
     }
   ],
   "9XUYQt": [
     {
       "type": 0,
-      "value": "导入"
+      "value": "İçe Aktar"
     }
   ],
   "A4nR/Y": [
     {
       "type": 0,
-      "value": "Keysign 对此项服务不承担任何责任。"
+      "value": "Keysign bu hizmetten sorumlu değildir."
     }
   ],
   "AYrXQt": [
     {
       "type": 0,
-      "value": "传输成功"
+      "value": "Transfer Başarılı"
     }
   ],
   "AaKEvg": [
     {
       "type": 0,
-      "value": "不得超过 64 个字符！"
+      "value": "64 karakteri geçmemelidir!"
     }
   ],
   "B97E6J": [
     {
       "type": 0,
-      "value": "点击“同步手机”按钮"
+      "value": "“Mobil Eşle” tuşuna basın"
     }
   ],
   "Bbkxom": [
     {
       "type": 0,
-      "value": "空闲锁"
+      "value": "BOŞTAYKEN KİLİTLE"
     }
   ],
   "CdmEya": [
     {
       "type": 0,
-      "value": "握手验证"
+      "value": "Handshake Doğrulama"
     }
   ],
   "CpHRw1": [
     {
       "type": 0,
-      "value": "传输失败"
+      "value": "Transfer Başarısız"
     }
   ],
   "D3idYv": [
     {
       "type": 0,
-      "value": "设置"
+      "value": "Ayarlar"
     }
   ],
   "D3rOMr": [
     {
       "type": 0,
-      "value": "没有数据"
+      "value": "Veri Yok"
     }
   ],
   "D5NqQO": [
     {
       "type": 0,
-      "value": "备忘录"
+      "value": "Memo"
     }
   ],
   "DMFF/H": [
     {
       "type": 0,
-      "value": "同步失败"
+      "value": "Eşleme Başarısız"
     }
   ],
   "DtYelJ": [
     {
       "type": 0,
-      "value": "传输"
+      "value": "Transfer"
     }
   ],
   "Duy+4J": [
     {
       "type": 0,
-      "value": "验证器费用："
+      "value": "Doğrulayıcı Ücreti: "
     },
     {
       "style": null,
@@ -257,127 +257,127 @@
   "Ev6SEF": [
     {
       "type": 0,
-      "value": "新密码"
+      "value": "Yeni Şifre"
     }
   ],
   "G8KMIa": [
     {
       "type": 0,
-      "value": "始终使用托管服务，目前它们是免费的。"
+      "value": "Mutlaka bir escrow kullanın, şu anda ücretsiz çalışıyorlar."
     }
   ],
   "GAWz1j": [
     {
       "type": 0,
-      "value": "设备锁"
+      "value": "CİHAZ KİLİDİ"
     }
   ],
   "GZ/ORp": [
     {
       "type": 0,
-      "value": "不得超过 100 个字符！"
+      "value": "100 karakteri geçmemelidir!"
     }
   ],
   "GretYf": [
     {
       "type": 0,
-      "value": "当前密码"
+      "value": "Şimdiki Şifre"
     }
   ],
   "GseaGh": [
     {
       "type": 0,
-      "value": "手动或在应用程序关闭时锁定 Keysign。"
+      "value": "Uygulama kapatıldığında yada elle kilitle."
     }
   ],
   "H4lIvd": [
     {
       "type": 0,
-      "value": "默认银行是通过keysign设置的。"
+      "value": "Varsayılan banka Keysign tarafından belirlenir."
     }
   ],
   "IPTyRk": [
     {
       "type": 0,
-      "value": "导出"
+      "value": "DIŞA AKTAR"
     }
   ],
   "Icxxne": [
     {
       "type": 0,
-      "value": "您可以导出文件中所有加密的密钥。 这将允许您将它们导入到另一台设备上的keysign或只是保管它们。"
+      "value": "Tüm anahtarlarınızı şifreleyerek bir dosyada dışa aktarabilirssiniz. Bu sayede anahtarlarınızı başka bir cihaza aktarabilir veya basitçe güvence altına alabilirsiniz."
     }
   ],
   "IglYTF": [
     {
       "type": 0,
-      "value": "必须至少8个字符！"
+      "value": "En az 8 karakter olmalıdır!"
     }
   ],
   "IkSnjI": [
     {
       "type": 0,
-      "value": "生成钱包"
+      "value": "Cüzdan Oluştur"
     }
   ],
   "J4N5HW": [
     {
       "type": 0,
-      "value": "继续"
+      "value": "DEVAM ET"
     }
   ],
   "Jex29j": [
     {
       "type": 0,
-      "value": "在应用程序窗口闲置了指定分钟数以后将自动锁定 Keysign。"
+      "value": "Uygulama belirtilen dakika kadar boşta kaldıktan sonra Keysign'ı otomatik olarak kilitleyin."
     }
   ],
   "KH/2zQ": [
     {
       "type": 0,
-      "value": "转换资金"
+      "value": "Varlık Transferi"
     }
   ],
   "KN7zKn": [
     {
       "type": 0,
-      "value": "错误"
+      "value": "Hata"
     }
   ],
   "KqpQmG": [
     {
       "type": 0,
-      "value": "选择朋友"
+      "value": "Arkadaş Seç"
     }
   ],
   "LQhIrI": [
     {
       "type": 0,
-      "value": "只允许数字和字母"
+      "value": "Yalnızca sayılara ve harflere izin verilir"
     }
   ],
   "LiHQih": [
     {
       "type": 0,
-      "value": "即将推出"
+      "value": "Yakında gelecek"
     }
   ],
   "LwzY+Y": [
     {
       "type": 0,
-      "value": "清除所有数据"
+      "value": "Tüm Verileri Temizle"
     }
   ],
   "MEVZgX": [
     {
       "type": 0,
-      "value": "扫描二维码开始同步"
+      "value": "Eşleştirmeyi başlatmak için QR kodunu tarayın"
     }
   ],
   "MODFAR": [
     {
       "type": 0,
-      "value": "导入密钥"
+      "value": "Anahtarları İçe Aktar"
     }
   ],
   "Mq1ePl": [
@@ -394,13 +394,13 @@
   "NmZvub": [
     {
       "type": 0,
-      "value": "不能为空"
+      "value": "Boş olmamalı"
     }
   ],
   "O8gaYk": [
     {
       "type": 0,
-      "value": "发送扫描"
+      "value": "Taramayı Gönder"
     }
   ],
   "OTl3nO": [
@@ -412,127 +412,127 @@
   "OZSO9W": [
     {
       "type": 0,
-      "value": "必须至少 64 个字符！"
+      "value": "En az 64 karakter olmalıdır!"
     }
   ],
   "Olyz0E": [
     {
       "type": 0,
-      "value": "该账号的好友已经存在！"
+      "value": "Bu hesap numarasına sahip arkadaşın zaten mevcut!"
     }
   ],
   "Oua4RH": [
     {
       "type": 0,
-      "value": "从......收到："
+      "value": "Gönderen:"
     }
   ],
   "P5ynDZ": [
     {
       "type": 0,
-      "value": "同步扫描"
+      "value": "Eşleştirme"
     }
   ],
   "PCSt5T": [
     {
       "type": 0,
-      "value": "偏好设置"
+      "value": "Seçenekler"
     }
   ],
   "PJE8pF": [
     {
       "type": 0,
-      "value": "展示费用"
+      "value": "Ücreti Göster"
     }
   ],
   "Pswssl": [
     {
       "type": 0,
-      "value": "确认"
+      "value": "Doğrulama"
     }
   ],
   "QbCyGW": [
     {
       "type": 0,
-      "value": "简单、轻便又安全。 开始连接或创建您的 TNB 钱包吧。"
+      "value": "Basit, hafif ve güvenli. TNB cüzdanınızı oluşturun yada bağlayın."
     }
   ],
   "QiKKFz": [
     {
       "type": 0,
-      "value": "更改密码"
+      "value": "Şifre Değiştir"
     }
   ],
   "QrSVSd": [
     {
       "type": 0,
-      "value": "握手传输"
+      "value": "Transfer Handshake'i"
     }
   ],
   "QzD37S": [
     {
       "type": 0,
-      "value": "Must be at least 64 characters!"
+      "value": "En az 64 karakter olmalıdır!"
     }
   ],
   "R/WihK": [
     {
       "type": 0,
-      "value": "提交"
+      "value": "GÖNDER"
     }
   ],
   "ROlscS": [
     {
       "type": 0,
-      "value": "在此处添加您的银行节点："
+      "value": "BANKA düğümünü (node) buraya ekleyin:"
     }
   ],
   "S8ZlY6": [
     {
       "type": 0,
-      "value": "节省"
+      "value": "KAYDET"
     }
   ],
   "SVVSmw": [
     {
       "type": 0,
-      "value": "扫描错误"
+      "value": "Tarama Hatası"
     }
   ],
   "SYy/Mr": [
     {
       "type": 0,
-      "value": "提供的密码不正确"
+      "value": "Yanlış şifre girildi"
     }
   ],
   "Sw5Z2S": [
     {
       "type": 0,
-      "value": "添加银行"
+      "value": "BANKA EKLE"
     }
   ],
   "TO4Vzt": [
     {
       "type": 0,
-      "value": "新波士顿区块链"
+      "value": "TheNewBoston Blok Zinciri"
     }
   ],
   "Tvsi2s": [
     {
       "type": 0,
-      "value": "SEND"
+      "value": "GÖNDER"
     }
   ],
   "UeNAXN": [
     {
       "type": 0,
-      "value": "选择语言"
+      "value": "Dil Seçin"
     }
   ],
   "V5m11/": [
     {
       "type": 0,
-      "value": "Must not exceed your wallet amount "
+      "value": "Cüzdandaki miktarı aşmamalıdır: "
     },
     {
       "style": null,
@@ -543,43 +543,43 @@
   "VLTmsF": [
     {
       "type": 0,
-      "value": "暂时还没有好友"
+      "value": "Henüz Arkadaş Yok"
     }
   ],
   "W47yNx": [
     {
       "type": 0,
-      "value": "代币总数"
+      "value": "Toplam koin"
     }
   ],
   "WLBY1S": [
     {
       "type": 0,
-      "value": "好友管理"
+      "value": "Arkadaşları Yönet"
     }
   ],
   "WXRfPz": [
     {
       "type": 0,
-      "value": "同步钱包的步骤"
+      "value": "Cüzdan eşleştirme adımları"
     }
   ],
   "XCnG27": [
     {
       "type": 0,
-      "value": "Keysign 移动应用程序的创建是为了与......协同"
+      "value": "Keysign mobil uygulaması TNB ile uyumlu çalışacak şekilde geliştirildi"
     }
   ],
   "XMYlZD": [
     {
       "type": 0,
-      "value": "我的钱包"
+      "value": "Cüzdanım"
     }
   ],
   "XYtt8J": [
     {
       "type": 0,
-      "value": "钱包名称"
+      "value": "Cüzdan Adı"
     }
   ],
   "XcCIUg": [
@@ -591,61 +591,61 @@
   "Y3rADe": [
     {
       "type": 0,
-      "value": "确保在周围没有其它人的情况下输入您的密码。"
+      "value": "Etrafta kimse yokken şifrenizi girin."
     }
   ],
   "YTIVDO": [
     {
       "type": 0,
-      "value": "银行节点"
+      "value": "Banka Düğümü (Node)"
     }
   ],
   "YpQLBX": [
     {
       "type": 0,
-      "value": "钱包已成功导出"
+      "value": "Cüzdanlar başarıyla dışa aktarıldı"
     }
   ],
   "Yuklh3": [
     {
       "type": 0,
-      "value": "生成钱包"
+      "value": "CÜZDAN OLUŞTUR"
     }
   ],
   "Z7oS9I": [
     {
       "type": 0,
-      "value": "没有钱包"
+      "value": "Cüzdan Yok"
     }
   ],
   "ZHM9r2": [
     {
       "type": 0,
-      "value": "添加好友"
+      "value": "ARKADAŞ EKLE"
     }
   ],
   "Ze/AG8": [
     {
       "type": 0,
-      "value": "生成"
+      "value": "OLUŞTUR"
     }
   ],
   "ZhHaEw": [
     {
       "type": 0,
-      "value": "到帐号"
+      "value": "Gönderilecek Hesap Adresi"
     }
   ],
   "a5msuh": [
     {
       "type": 0,
-      "value": "是"
+      "value": "Evet"
     }
   ],
   "aCVoQT": [
     {
       "type": 0,
-      "value": "银行费用： "
+      "value": "Banka Ücreti: "
     },
     {
       "style": null,
@@ -656,175 +656,175 @@
   "b7SVXM": [
     {
       "type": 0,
-      "value": "钱包管理"
+      "value": "Cüzdanı Yönet"
     }
   ],
   "c0vVbD": [
     {
       "type": 0,
-      "value": "登录"
+      "value": "GİRİŞ YAP"
     }
   ],
   "c2hHXM": [
     {
       "type": 0,
-      "value": "钱包导入成功"
+      "value": "Cüzdanlar başarıyla içe aktarıldı"
     }
   ],
   "c5g9Rt": [
     {
       "type": 0,
-      "value": "删除好友"
+      "value": "ARKADAŞLIKTAN ÇIKAR"
     }
   ],
   "ceW3ER": [
     {
       "type": 0,
-      "value": "确认"
+      "value": "ONAYLA"
     }
   ],
   "clx9/J": [
     {
       "type": 0,
-      "value": "默认"
+      "value": "VARSAYILAN"
     }
   ],
   "dChb0Y": [
     {
       "type": 0,
-      "value": "扫描二维码"
+      "value": "QR kodunu tarayın"
     }
   ],
   "dGroal": [
     {
       "type": 0,
-      "value": "HISTORY"
+      "value": "GEÇMİŞ"
     }
   ],
   "djJp6c": [
     {
       "type": 0,
-      "value": "历史"
+      "value": "AKTİVİTE"
     }
   ],
   "e2W5iK": [
     {
       "type": 0,
-      "value": "发送至:"
+      "value": "Gönder:"
     }
   ],
   "ejEGdx": [
     {
       "type": 0,
-      "value": "主页"
+      "value": "Merkez"
     }
   ],
   "fG1IZC": [
     {
       "type": 0,
-      "value": "您将被发送到不和谐社区。"
+      "value": "Bir discord topluluğuna yönlendirileceksiniz."
     }
   ],
   "fMaoRo": [
     {
       "type": 0,
-      "value": "您确定要删除这个好友吗？"
+      "value": "Arkadaşı silmek istediğinden emin misin?"
     }
   ],
   "fS+jdZ": [
     {
       "type": 0,
-      "value": "您确定要删除这个钱包吗？"
+      "value": "Bu cüzdanı silmek istediğinden emin misin?"
     }
   ],
   "gjBiyj": [
     {
       "type": 0,
-      "value": "加载中..."
+      "value": "Yükleniyor..."
     }
   ],
   "gvr0wo": [
     {
       "type": 0,
-      "value": "同步钱包"
+      "value": "CÜZDAN EŞLE"
     }
   ],
   "h/ftND": [
     {
       "type": 0,
-      "value": "选择一个文件"
+      "value": "Dosya Seç"
     }
   ],
   "h2vipu": [
     {
       "type": 0,
-      "value": "代码"
+      "value": "Kod"
     }
   ],
   "hHk8xH": [
     {
       "type": 0,
-      "value": "在 TNBCROW 上交易"
+      "value": "TNBCROW ile Ticaret Yap"
     }
   ],
   "hqv+qJ": [
     {
       "type": 0,
-      "value": "如要添加新的银行，请单击下拉菜单中的添加银行。"
+      "value": "Yeni bir banka eklemek için açılır menüden BANKA EKLE'yi tıklayın."
     }
   ],
   "iIX2t1": [
     {
       "type": 0,
-      "value": "无法选择文件"
+      "value": "Dosya seçilemiyor"
     }
   ],
   "iKDTfl": [
     {
       "type": 0,
-      "value": "好友名称"
+      "value": "Arkadaş Adı"
     }
   ],
   "iKt39A": [
     {
       "type": 0,
-      "value": "您确定要删除此银行吗？"
+      "value": "Bu bankayı kaldırmak istediğinden emin misin?"
     }
   ],
   "iUzlyp": [
     {
       "type": 0,
-      "value": "删除钱包"
+      "value": "CÜZDAN SİL"
     }
   ],
   "iotsqr": [
     {
       "type": 0,
-      "value": "验证成功"
+      "value": "Doğrulama Başarılı"
     }
   ],
   "jsy7pk": [
     {
       "type": 0,
-      "value": "请重试"
+      "value": "Tekrar deneyin"
     }
   ],
   "kQAf2d": [
     {
       "type": 0,
-      "value": "选择"
+      "value": "Seç"
     }
   ],
   "l0jKdB": [
     {
       "type": 0,
-      "value": "添加好友"
+      "value": "Arkadaş Ekle"
     }
   ],
   "lr13V0": [
     {
       "type": 0,
-      "value": "返回主页"
+      "value": "Merkeze Git"
     }
   ],
   "m99RHg": [
@@ -836,163 +836,163 @@
   "nuWwea": [
     {
       "type": 0,
-      "value": "登录失败"
+      "value": "Giriş başarısız"
     }
   ],
   "oEli2v": [
     {
       "type": 0,
-      "value": "它是由......双方开发和设计的"
+      "value": "Geliştiren ve tasaralayan:"
     }
   ],
   "oUWADl": [
     {
       "type": 0,
-      "value": "否"
+      "value": "Hayır"
     }
   ],
   "orLknm": [
     {
       "type": 0,
-      "value": "扫描"
+      "value": "Tara"
     }
   ],
   "p556q3": [
     {
       "type": 0,
-      "value": "已复制"
+      "value": "Kopyalandı"
     }
   ],
   "pb93i7": [
     {
       "type": 0,
-      "value": "NB; 这不能被撤消。"
+      "value": "NOT: Bu işlem geri alınamaz!"
     }
   ],
   "pvIJw6": [
     {
       "type": 0,
-      "value": "两个密码必须一致！"
+      "value": "Her iki şifre de eşleşmelidir!"
     }
   ],
   "q4RWBX": [
     {
       "type": 0,
-      "value": "开始"
+      "value": "BAŞLA"
     }
   ],
   "qZbedW": [
     {
       "type": 0,
-      "value": "费用"
+      "value": "Ücretler"
     }
   ],
   "qp2cDY": [
     {
       "type": 0,
-      "value": "钱包管理"
+      "value": "Cüzdanları Yönet"
     }
   ],
   "qzy/q1": [
     {
       "type": 0,
-      "value": "忘记密码 ？"
+      "value": "Parolayı unuttum?"
     }
   ],
   "rV/x4O": [
     {
       "type": 0,
-      "value": "如果您忘记了密码，您可以清除数据，但必须重新输入所有的密钥。"
+      "value": "Parolanızı unuttuysanız, verilerinizi temizleyebilirsiniz ancak tüm anahtarlarınızı yeniden girmeniz gerekecektir."
     }
   ],
   "ruJlSX": [
     {
       "type": 0,
-      "value": "下一步"
+      "value": "SONRAKİ"
     }
   ],
   "t401lQ": [
     {
       "type": 0,
-      "value": "导入"
+      "value": "İÇE AKTAR"
     }
   ],
   "umg69G": [
     {
       "type": 0,
-      "value": "添加钱包"
+      "value": "Cüzdan Ekle"
     }
   ],
   "v3gr+l": [
     {
       "type": 0,
-      "value": "使用AACN/登录"
+      "value": "İMZA ANAHTARI KULLAN"
     }
   ],
   "vV2G6z": [
     {
       "type": 0,
-      "value": "账号"
+      "value": "Hesap Numarası"
     }
   ],
   "vfG+nh": [
     {
       "type": 0,
-      "value": "确认密码"
+      "value": "Şifreyi Onayla"
     }
   ],
   "vrMPql": [
     {
       "type": 0,
-      "value": "TNB钱包"
+      "value": "TNB CÜZDAN"
     }
   ],
   "wdOQAC": [
     {
       "type": 0,
-      "value": "关于Keysign"
+      "value": "Keysign Hakkında"
     }
   ],
   "xQ6aNc": [
     {
       "type": 0,
-      "value": "创建密码"
+      "value": "Şifre Oluştur"
     }
   ],
   "xedgjh": [
     {
       "type": 0,
-      "value": "不得超过 12 个字符!"
+      "value": "12 karakteri geçmemelidir!"
     }
   ],
   "xrKHS6": [
     {
       "type": 0,
-      "value": "成功"
+      "value": "Başarılı"
     }
   ],
   "xuxczX": [
     {
       "type": 0,
-      "value": "设备扫描失败"
+      "value": "Cihaz taranamadı"
     }
   ],
   "yJgJcp": [
     {
       "type": 0,
-      "value": "Keysign 是在链上访问您的 TNB 钱包的最佳方式。"
+      "value": "Keysign, blok zincirdeki TNB cüzdanınıza erişmenin en iyi yoludur."
     }
   ],
   "yc5XUr": [
     {
       "type": 0,
-      "value": "使用Acc/Signkey"
+      "value": "İmza Anahtarı Kullan"
     }
   ],
   "yd1dFh": [
     {
       "type": 0,
-      "value": "签名密钥"
+      "value": "İmza Anahtarı"
     }
   ],
   "z7Siok": [

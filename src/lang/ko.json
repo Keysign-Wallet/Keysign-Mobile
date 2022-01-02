@@ -17,6 +17,12 @@
       "value": "인증실패"
     }
   ],
+  "+ZKTgk": [
+    {
+      "type": 0,
+      "value": "Must be at least 3 characters!"
+    }
+  ],
   "+pD6+Y": [
     {
       "type": 0,
@@ -59,10 +65,16 @@
       "value": "TNB 자산을 관리하고 TNB 애플리케이션으로 연결됩니다."
     }
   ],
-  "0l3ebm": [
+  "1Ojx58": [
     {
       "type": 0,
-      "value": "최소로 3자 이상 되어야 합니다!"
+      "value": "When importing, only accounts that are not already present on the instance will be added."
+    }
+  ],
+  "2RenFV": [
+    {
+      "type": 0,
+      "value": "Add Bank"
     }
   ],
   "37OpDn": [
@@ -159,12 +171,6 @@
       "value": "가져오기"
     }
   ],
-  "9vkJzM": [
-    {
-      "type": 0,
-      "value": "Keysign 0.0.2"
-    }
-  ],
   "A4nR/Y": [
     {
       "type": 0,
@@ -183,12 +189,6 @@
       "value": "64 자를 초과할 수 없습니다!"
     }
   ],
-  "AyGauy": [
-    {
-      "type": 0,
-      "value": "로그인"
-    }
-  ],
   "B97E6J": [
     {
       "type": 0,
@@ -199,12 +199,6 @@
     {
       "type": 0,
       "value": "유휴 잠금"
-    }
-  ],
-  "CRxUr0": [
-    {
-      "type": 0,
-      "value": "가져오기 인스턴스에는 아직 없는 계정들만 추가됩니다."
     }
   ],
   "CdmEya": [
@@ -386,6 +380,17 @@
       "value": "키 가져오기"
     }
   ],
+  "Mq1ePl": [
+    {
+      "type": 0,
+      "value": "Keysign "
+    },
+    {
+      "style": null,
+      "type": 2,
+      "value": "version"
+    }
+  ],
   "NmZvub": [
     {
       "type": 0,
@@ -401,7 +406,7 @@
   "OTl3nO": [
     {
       "type": 0,
-      "value": "동기화/가져오기/내보내기"
+      "value": "Sync/Import/Export"
     }
   ],
   "OZSO9W": [
@@ -464,6 +469,12 @@
       "value": "핸드셰이크 전송"
     }
   ],
+  "QzD37S": [
+    {
+      "type": 0,
+      "value": "Must be at least 64 characters!"
+    }
+  ],
   "R/WihK": [
     {
       "type": 0,
@@ -506,10 +517,27 @@
       "value": "새로운 보스턴 블록체인"
     }
   ],
+  "Tvsi2s": [
+    {
+      "type": 0,
+      "value": "SEND"
+    }
+  ],
   "UeNAXN": [
     {
       "type": 0,
       "value": "언어 선택"
+    }
+  ],
+  "V5m11/": [
+    {
+      "type": 0,
+      "value": "Must not exceed your wallet amount "
+    },
+    {
+      "style": null,
+      "type": 2,
+      "value": "balance"
     }
   ],
   "VLTmsF": [
@@ -667,6 +695,12 @@
       "value": "QR 코드 스캔"
     }
   ],
+  "dGroal": [
+    {
+      "type": 0,
+      "value": "HISTORY"
+    }
+  ],
   "djJp6c": [
     {
       "type": 0,
@@ -703,12 +737,6 @@
       "value": "이 지갑을 삭제하시겠습니까?"
     }
   ],
-  "gBnpR/": [
-    {
-      "type": 0,
-      "value": "App소개"
-    }
-  ],
   "gjBiyj": [
     {
       "type": 0,
@@ -743,12 +771,6 @@
     {
       "type": 0,
       "value": "새 은행을 추가하려면 드롭 다운 목록에서 은행 추가를 클릭하세요."
-    }
-  ],
-  "iC997S": [
-    {
-      "type": 0,
-      "value": "Add Back"
     }
   ],
   "iIX2t1": [
@@ -953,12 +975,6 @@
     {
       "type": 0,
       "value": "장치가 스캔에 실패하였습니다."
-    }
-  ],
-  "y9dbbX": [
-    {
-      "type": 0,
-      "value": "비밀번호 생성"
     }
   ],
   "yJgJcp": [

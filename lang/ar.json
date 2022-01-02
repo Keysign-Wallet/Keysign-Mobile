@@ -186,13 +186,16 @@
     "defaultMessage": "استيراد المفاتيح"
   },
   "Mq1ePl": {
-    "defaultMessage": "Keysign {version, number}"
+    "defaultMessage": "Keysign {version}"
   },
   "NmZvub": {
     "defaultMessage": "يجب أن لا يكون فارغا"
   },
   "O8gaYk": {
     "defaultMessage": "إرسال المسحة"
+  },
+  "OTl3nO": {
+    "defaultMessage": "Sync/Import/Export"
   },
   "OZSO9W": {
     "defaultMessage": "يجب أن يتكون من 64 حرفا على الأقل!"

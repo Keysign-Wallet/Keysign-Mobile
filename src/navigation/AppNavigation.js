@@ -29,7 +29,10 @@ import {getAuthentication} from '../auth/redux/selectors';
 import {getBanks as getBanksAction} from '../banks/redux/actions';
 import {getSettings as selectSettings} from '../settings/redux/selectors';
 import {getFriends as getFriendsAction} from '../friends/redux/actions';
-import {getPassword as getPasswordAction} from '../auth/redux/actions';
+import {
+  login as loginAction,
+  getPassword as getPasswordAction,
+} from '../auth/redux/actions';
 import {
   getWallets as getWalletsAction,
   getSelectedWallet as getSelectedWalletAction,
@@ -38,6 +41,7 @@ import {
   getSettings as getSettingsAction,
   updateSettings as updateSettingsAction,
 } from '../settings/redux/actions';
+import AsyncStorageLib from '@react-native-async-storage/async-storage';
 
 const Stack = createNativeStackNavigator();
 
@@ -45,6 +49,7 @@ const Stack = createNativeStackNavigator();
 <AppNavigation />
 ============================================================================= */
 const AppNavigation = ({
+  login,
   locale,
   authenticated,
   getBanks,
@@ -73,6 +78,20 @@ const AppNavigation = ({
     _initialize();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+
+  useEffect(() => {
+    const _checkRestart = async () => {
+      const restart = await AsyncStorageLib.getItem('@keysign/restart');
+
+      if (restart) {
+        login();
+        await AsyncStorageLib.removeItem('@keysign/restart');
+      }
+    };
+
+    _checkRestart();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [initializing]);
 
   // Set locale and hide splash screen
   useEffect(() => {
@@ -156,6 +175,7 @@ const mapStateToProps = state => ({
 });
 
 const mapDispatchToProps = {
+  login: loginAction,
   getBanks: getBanksAction,
   getWallets: getWalletsAction,
   getFriends: getFriendsAction,

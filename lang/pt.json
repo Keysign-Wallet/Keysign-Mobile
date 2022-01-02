@@ -1,0 +1,488 @@
+{
+  "+8S2CR": {
+    "defaultMessage": "IMPORTAR CHAVES\n"
+  },
+  "+HZbUZ": {
+    "defaultMessage": "Bloquear o Keysign quando o dispositivo for desligado. "
+  },
+  "+S3qBX": {
+    "defaultMessage": "A Verificação Falhou"
+  },
+  "+ZKTgk": {
+    "defaultMessage": "Deve conter ao menos 3 caracteres!"
+  },
+  "+pD6+Y": {
+    "defaultMessage": "Memo (opcional)"
+  },
+  "/0TOL5": {
+    "defaultMessage": "Quantia"
+  },
+  "/HSJor": {
+    "defaultMessage": "MrSky"
+  },
+  "/X8qTz": {
+    "defaultMessage": "TNBCROW é uma comunidade de trocas no formato P2P. "
+  },
+  "/Yb8GH": {
+    "defaultMessage": "Keysign não possui a TNBCROW"
+  },
+  "/uNyiO": {
+    "defaultMessage": "Bloqueio Automático"
+  },
+  "0D+jgY": {
+    "defaultMessage": "Gerencie os TNB assets, e conecte-se às aplicações TNB. "
+  },
+  "1Ojx58": {
+    "defaultMessage": "Quando estiver importando, apenas contas que não estão já presentes na instância serão adicionadas."
+  },
+  "2RenFV": {
+    "defaultMessage": "Add Bank"
+  },
+  "37OpDn": {
+    "defaultMessage": "Selecionar um node bancário."
+  },
+  "3mvL2Q": {
+    "defaultMessage": "e"
+  },
+  "3yk8fB": {
+    "defaultMessage": "Wallet"
+  },
+  "47FYwb": {
+    "defaultMessage": "Cancelar"
+  },
+  "4vjdwA": {
+    "defaultMessage": "Sincronização feita com sucesso"
+  },
+  "5TH8l7": {
+    "defaultMessage": "Ir para Configurações > Sync/Import/Export\n"
+  },
+  "5sg7KC": {
+    "defaultMessage": "Senha"
+  },
+  "62nsdy": {
+    "defaultMessage": "Tente Novamente"
+  },
+  "6ERahF": {
+    "defaultMessage": "De {name}"
+  },
+  "7cGKSL": {
+    "defaultMessage": "Moedas bloqueadas"
+  },
+  "8ysmEn": {
+    "defaultMessage": "Abra sua Browser wallet"
+  },
+  "90axO4": {
+    "defaultMessage": "Trocar"
+  },
+  "9QV9HO": {
+    "defaultMessage": "GERENCIAR TNB"
+  },
+  "9WRlF4": {
+    "defaultMessage": "Enviar"
+  },
+  "9XUYQt": {
+    "defaultMessage": "Importar"
+  },
+  "A4nR/Y": {
+    "defaultMessage": "Keysign não é responsável por este serviço.  "
+  },
+  "AYrXQt": {
+    "defaultMessage": "Transferência feita com Sucesso"
+  },
+  "AaKEvg": {
+    "defaultMessage": "Não deve conter mais de 64 caracteres! "
+  },
+  "B97E6J": {
+    "defaultMessage": "Clique no botão “Sync Mobile”"
+  },
+  "Bbkxom": {
+    "defaultMessage": "BLOQUEIO DE INATIVIDADE"
+  },
+  "CdmEya": {
+    "defaultMessage": "Verificação de Handshake "
+  },
+  "CpHRw1": {
+    "defaultMessage": "A Transferência Falhou"
+  },
+  "D3idYv": {
+    "defaultMessage": "Configuraçōes"
+  },
+  "D3rOMr": {
+    "defaultMessage": "Não há Dados"
+  },
+  "D5NqQO": {
+    "defaultMessage": "Memo"
+  },
+  "DMFF/H": {
+    "defaultMessage": "A Sincronização Falhou"
+  },
+  "DtYelJ": {
+    "defaultMessage": "Transferir"
+  },
+  "Duy+4J": {
+    "defaultMessage": "Taxas do Validador: {amount, number}"
+  },
+  "Ev6SEF": {
+    "defaultMessage": "Nova Senha"
+  },
+  "G8KMIa": {
+    "defaultMessage": "Sempre utilize um serviço escrow, eles estão gratuitos atualmente. "
+  },
+  "GAWz1j": {
+    "defaultMessage": "BLOQUEIO DE DISPOSITIVO"
+  },
+  "GZ/ORp": {
+    "defaultMessage": "Não deve conter mais de 100 caracteres. "
+  },
+  "GretYf": {
+    "defaultMessage": "Senha Atual"
+  },
+  "GseaGh": {
+    "defaultMessage": "Bloqueie o Keysign manualmente ou quando o aplicativo for fechado. "
+  },
+  "H4lIvd": {
+    "defaultMessage": "O Bank padrão é definido pela keysign. "
+  },
+  "IPTyRk": {
+    "defaultMessage": "EXPORTAR"
+  },
+  "Icxxne": {
+    "defaultMessage": "Você pode exportar todas as suas chaves encriptadas em um arquivo. \nIsso irá permitir que você as importe para a keysign em outro dispositivo ou simplesmente protegê-las."
+  },
+  "IglYTF": {
+    "defaultMessage": "Deve conter ao menos 8 caracteres!"
+  },
+  "IkSnjI": {
+    "defaultMessage": "Gerar Wallet"
+  },
+  "J4N5HW": {
+    "defaultMessage": "CONTINUAR"
+  },
+  "Jex29j": {
+    "defaultMessage": "Bloquear a Keysign automaticamente depois que a janela do aplicativo estiver inativa pelo número especificado de minutos. "
+  },
+  "KH/2zQ": {
+    "defaultMessage": "Transferir Fundos"
+  },
+  "KN7zKn": {
+    "defaultMessage": "Erro"
+  },
+  "KqpQmG": {
+    "defaultMessage": "Selecionar Amigo"
+  },
+  "LQhIrI": {
+    "defaultMessage": "Apenas números e letras são permitidos. "
+  },
+  "LiHQih": {
+    "defaultMessage": "Em Breve"
+  },
+  "LwzY+Y": {
+    "defaultMessage": "Limpar todos os Dados"
+  },
+  "MEVZgX": {
+    "defaultMessage": "Escaneie o código QR para começar a Sincronização"
+  },
+  "MODFAR": {
+    "defaultMessage": "Importar Chaves"
+  },
+  "Mq1ePl": {
+    "defaultMessage": "Keysign {version}"
+  },
+  "NmZvub": {
+    "defaultMessage": "Não deve ser vazio"
+  },
+  "O8gaYk": {
+    "defaultMessage": "Enviar Scan"
+  },
+  "OTl3nO": {
+    "defaultMessage": "Sync/Import/Export"
+  },
+  "Olyz0E": {
+    "defaultMessage": "Um Amigo com este número de conta já existe!"
+  },
+  "Oua4RH": {
+    "defaultMessage": "Recebido de:"
+  },
+  "P5ynDZ": {
+    "defaultMessage": "Sincronizar Scan"
+  },
+  "PCSt5T": {
+    "defaultMessage": "Preferências"
+  },
+  "PJE8pF": {
+    "defaultMessage": "Mostrar Taxas"
+  },
+  "Pswssl": {
+    "defaultMessage": "Confirmação"
+  },
+  "QbCyGW": {
+    "defaultMessage": "Simples, leve e seguro. Comece a conectar ou criar sua TNB Wallet. "
+  },
+  "QiKKFz": {
+    "defaultMessage": "Mudar Senha"
+  },
+  "QrSVSd": {
+    "defaultMessage": "Transferência Handshake"
+  },
+  "QzD37S": {
+    "defaultMessage": "Deve conter ao menos 64 caracteres!"
+  },
+  "R/WihK": {
+    "defaultMessage": "ENVIAR"
+  },
+  "ROlscS": {
+    "defaultMessage": "Adicione seu BANK node aqui:"
+  },
+  "S8ZlY6": {
+    "defaultMessage": "SALVAR"
+  },
+  "SVVSmw": {
+    "defaultMessage": "Erro no Scan"
+  },
+  "SYy/Mr": {
+    "defaultMessage": "A senha fornecida está incorreta"
+  },
+  "Sw5Z2S": {
+    "defaultMessage": "ADICIONAR BANK"
+  },
+  "TO4Vzt": {
+    "defaultMessage": "TheNewBoston Blockchain"
+  },
+  "Tvsi2s": {
+    "defaultMessage": "ENVIAR"
+  },
+  "UeNAXN": {
+    "defaultMessage": "Escolher Idioma"
+  },
+  "V5m11/": {
+    "defaultMessage": "Não deve exceder o valor de sua Wallet {balance, number}"
+  },
+  "VLTmsF": {
+    "defaultMessage": "Ainda não há Amigos"
+  },
+  "W47yNx": {
+    "defaultMessage": "Moedas Totais"
+  },
+  "WLBY1S": {
+    "defaultMessage": "Gerenciar Amigos"
+  },
+  "WXRfPz": {
+    "defaultMessage": "Passos para sincronizar suas wallets"
+  },
+  "XCnG27": {
+    "defaultMessage": "A aplicação mobile da Keysign foi criada para funcionar com "
+  },
+  "XMYlZD": {
+    "defaultMessage": "Minha Wallet"
+  },
+  "XYtt8J": {
+    "defaultMessage": "Nome da Wallet"
+  },
+  "XcCIUg": {
+    "defaultMessage": "Keysign"
+  },
+  "Y3rADe": {
+    "defaultMessage": "Coloque sua senha sem ninguém por perto. "
+  },
+  "YTIVDO": {
+    "defaultMessage": "Bank Node"
+  },
+  "YpQLBX": {
+    "defaultMessage": "As Wallets foram exportadas com sucesso. "
+  },
+  "Yuklh3": {
+    "defaultMessage": "GERAR WALLET"
+  },
+  "Z7oS9I": {
+    "defaultMessage": "Nenhuma Wallet"
+  },
+  "ZHM9r2": {
+    "defaultMessage": "ADICIONAR AMIGO"
+  },
+  "Ze/AG8": {
+    "defaultMessage": "GERAR"
+  },
+  "ZhHaEw": {
+    "defaultMessage": "Para o Número da Conta"
+  },
+  "a5msuh": {
+    "defaultMessage": "Sim"
+  },
+  "aCVoQT": {
+    "defaultMessage": "Taxa do Bank: {amount, number}"
+  },
+  "b7SVXM": {
+    "defaultMessage": "Gerenciar Wallet"
+  },
+  "c0vVbD": {
+    "defaultMessage": "FAÇA LOGIN"
+  },
+  "c2hHXM": {
+    "defaultMessage": "Wallets foram importadas com sucesso"
+  },
+  "c5g9Rt": {
+    "defaultMessage": "DELETAR AMIGO"
+  },
+  "ceW3ER": {
+    "defaultMessage": "CONFIRMAR"
+  },
+  "clx9/J": {
+    "defaultMessage": "PADRÃO"
+  },
+  "dChb0Y": {
+    "defaultMessage": "Escaneie o código QR"
+  },
+  "dGroal": {
+    "defaultMessage": "HISTÓRIA"
+  },
+  "djJp6c": {
+    "defaultMessage": "História"
+  },
+  "e2W5iK": {
+    "defaultMessage": "Mandar para:"
+  },
+  "ejEGdx": {
+    "defaultMessage": "Início"
+  },
+  "fG1IZC": {
+    "defaultMessage": "Você será levado para uma comunidade no Discord. "
+  },
+  "fMaoRo": {
+    "defaultMessage": "Tem certeza que deseja deletar este amigo?"
+  },
+  "fS+jdZ": {
+    "defaultMessage": "Tem certeza que deseja deletar esta wallet?"
+  },
+  "gjBiyj": {
+    "defaultMessage": "Carregando..."
+  },
+  "gvr0wo": {
+    "defaultMessage": "SINCRONIZAR WALLET"
+  },
+  "h/ftND": {
+    "defaultMessage": "Escolha um arquivo"
+  },
+  "h2vipu": {
+    "defaultMessage": "Código"
+  },
+  "hHk8xH": {
+    "defaultMessage": "Trocar no TNBCROW"
+  },
+  "hqv+qJ": {
+    "defaultMessage": "Para adicionar um novo bank, clique em ADD BANK no menu suspenso. "
+  },
+  "iIX2t1": {
+    "defaultMessage": "Incapaz de selecionar arquivo"
+  },
+  "iKDTfl": {
+    "defaultMessage": "Nome do Amigo "
+  },
+  "iKt39A": {
+    "defaultMessage": "Tem certeza que quer remover este bank?"
+  },
+  "iUzlyp": {
+    "defaultMessage": "DELETAR WALLET"
+  },
+  "iotsqr": {
+    "defaultMessage": "Verificação feita com Sucesso"
+  },
+  "jsy7pk": {
+    "defaultMessage": "Tente Novamente"
+  },
+  "kQAf2d": {
+    "defaultMessage": "Selecionar"
+  },
+  "l0jKdB": {
+    "defaultMessage": "Adicionar Amigo"
+  },
+  "lr13V0": {
+    "defaultMessage": "Ir para o Início"
+  },
+  "m99RHg": {
+    "defaultMessage": "KEYSIGN"
+  },
+  "nuWwea": {
+    "defaultMessage": "O Login falhou"
+  },
+  "oEli2v": {
+    "defaultMessage": "Foi desenvolvido e projetado por ambos"
+  },
+  "oUWADl": {
+    "defaultMessage": "Não"
+  },
+  "orLknm": {
+    "defaultMessage": "Scan"
+  },
+  "p556q3": {
+    "defaultMessage": "Copiado"
+  },
+  "pb93i7": {
+    "defaultMessage": "Note que isto não pode ser desfeito."
+  },
+  "pvIJw6": {
+    "defaultMessage": "Ambas senhas devem combinar!"
+  },
+  "q4RWBX": {
+    "defaultMessage": "COMECE"
+  },
+  "qZbedW": {
+    "defaultMessage": "Taxas"
+  },
+  "qp2cDY": {
+    "defaultMessage": "Gerenciar Wallets"
+  },
+  "qzy/q1": {
+    "defaultMessage": "Esqueceu a Senha ?"
+  },
+  "rV/x4O": {
+    "defaultMessage": "Se você esqueceu sua senha, você pode apagar todos os seus dados, mas terá que colocar todas as suas chaves novamente."
+  },
+  "ruJlSX": {
+    "defaultMessage": "PRÓXIMO"
+  },
+  "t401lQ": {
+    "defaultMessage": "IMPORTAR"
+  },
+  "umg69G": {
+    "defaultMessage": "Adicionar Wallet"
+  },
+  "v3gr+l": {
+    "defaultMessage": "USAR ACCN/SIGNIN"
+  },
+  "vV2G6z": {
+    "defaultMessage": "Número da Conta"
+  },
+  "vfG+nh": {
+    "defaultMessage": "Confirmar Senha"
+  },
+  "vrMPql": {
+    "defaultMessage": "TNB WALLET"
+  },
+  "wdOQAC": {
+    "defaultMessage": "Sobre a Keysign"
+  },
+  "xQ6aNc": {
+    "defaultMessage": "Criar Senha"
+  },
+  "xedgjh": {
+    "defaultMessage": "Não deve conter mais de 12 caracteres!"
+  },
+  "xrKHS6": {
+    "defaultMessage": "Sucesso"
+  },
+  "xuxczX": {
+    "defaultMessage": "O Dispositivo falhou ao escanear"
+  },
+  "yJgJcp": {
+    "defaultMessage": "Keysign é a melhor maneira de acessar sua TNB wallet na chain."
+  },
+  "yc5XUr": {
+    "defaultMessage": "Use Acc/Signkey"
+  },
+  "yd1dFh": {
+    "defaultMessage": "Signing Key"
+  },
+  "z7Siok": {
+    "defaultMessage": "Abhay."
+  }
+}

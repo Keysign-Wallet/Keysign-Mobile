@@ -186,13 +186,16 @@
       "defaultMessage": "Importiere Keys"
     },
     "Mq1ePl": {
-      "defaultMessage": "Keysign {version, number}"
+      "defaultMessage": "Keysign {version}"
     },
     "NmZvub": {
       "defaultMessage": "Darf nicht leer sein"
     },
     "O8gaYk": {
       "defaultMessage": "Sende Scan"
+    },
+    "OTl3nO": {
+      "defaultMessage": "Sync/Import/Export"
     },
     "OZSO9W": {
       "defaultMessage": "Mindestens 64 Zeichen!"

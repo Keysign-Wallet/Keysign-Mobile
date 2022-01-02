@@ -1,7 +1,10 @@
-import {Alert} from 'react-native';
+import {Alert, I18nManager} from 'react-native';
+import RNRestart from 'react-native-restart';
 
 import * as constants from './constants';
 import * as settingsStorage from '../../config/settingsStorage';
+import AsyncStorageLib from '@react-native-async-storage/async-storage';
+import {LOCALES} from '../../lang';
 
 /**
  * GET_SETTINGS
@@ -39,6 +42,27 @@ export const updateSettings = (update, cb) => async dispatch => {
       type: constants.UPDATE_SETTINGS.SUCCESS,
       payload: update,
     });
+
+    if (update.language) {
+      const lang = LOCALES.find(item => item.value === update.language);
+
+      if (lang) {
+        if (lang.isRTL) {
+          if (!I18nManager.isRTL) {
+            await I18nManager.forceRTL(true);
+            await AsyncStorageLib.setItem('@keysign/restart', 'true');
+            RNRestart.Restart();
+          }
+        } else {
+          if (I18nManager.isRTL) {
+            await I18nManager.forceRTL(false);
+            await AsyncStorageLib.setItem('@keysign/restart', 'true');
+            RNRestart.Restart();
+          }
+        }
+      }
+    }
+
     if (typeof cb === 'function') {
       cb();
     }

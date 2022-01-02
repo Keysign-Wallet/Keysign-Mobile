@@ -186,13 +186,16 @@
     "defaultMessage": "Impor Kunci"
   },
   "Mq1ePl": {
-    "defaultMessage": "Keysign {version, number}"
+    "defaultMessage": "Keysign {version}"
   },
   "NmZvub": {
     "defaultMessage": "Tidak boleh kosong"
   },
   "O8gaYk": {
     "defaultMessage": "Kirim Scan"
+  },
+  "OTl3nO": {
+    "defaultMessage": "Sync/Import/Export"
   },
   "OZSO9W": {
     "defaultMessage": "Paling sedikit 64 karakter!"

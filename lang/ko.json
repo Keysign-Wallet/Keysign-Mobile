@@ -186,13 +186,16 @@
     "defaultMessage": "키 가져오기"
   },
   "Mq1ePl": {
-    "defaultMessage": "Keysign {version, number}"
+    "defaultMessage": "Keysign {version}"
   },
   "NmZvub": {
     "defaultMessage": "비워둘 수 없습니다."
   },
   "O8gaYk": {
     "defaultMessage": "스캔 보내기"
+  },
+  "OTl3nO": {
+    "defaultMessage": "Sync/Import/Export"
   },
   "OZSO9W": {
     "defaultMessage": "64자 이상이어야 합니다!"

@@ -17,6 +17,12 @@
       "value": "Verify Failed"
     }
   ],
+  "+ZKTgk": [
+    {
+      "type": 0,
+      "value": "Must be at least 3 characters!"
+    }
+  ],
   "+pD6+Y": [
     {
       "type": 0,
@@ -59,10 +65,16 @@
       "value": "Manage TNB assets, and connect to TNB applications."
     }
   ],
-  "0l3ebm": [
+  "1Ojx58": [
     {
       "type": 0,
-      "value": "Must be at least 3 characters!"
+      "value": "When importing, only accounts that are not already present on the instance will be added."
+    }
+  ],
+  "2RenFV": [
+    {
+      "type": 0,
+      "value": "Add Bank"
     }
   ],
   "37OpDn": [
@@ -159,12 +171,6 @@
       "value": "Import"
     }
   ],
-  "9vkJzM": [
-    {
-      "type": 0,
-      "value": "Keysign 0.0.2"
-    }
-  ],
   "A4nR/Y": [
     {
       "type": 0,
@@ -183,12 +189,6 @@
       "value": "Must not exceed 64 characters!"
     }
   ],
-  "AyGauy": [
-    {
-      "type": 0,
-      "value": "Login"
-    }
-  ],
   "B97E6J": [
     {
       "type": 0,
@@ -199,12 +199,6 @@
     {
       "type": 0,
       "value": "IDLE LOCK"
-    }
-  ],
-  "CRxUr0": [
-    {
-      "type": 0,
-      "value": "When importing, only accounts that are not already present on the instance will be added."
     }
   ],
   "CdmEya": [
@@ -386,6 +380,17 @@
       "value": "Import Keys"
     }
   ],
+  "Mq1ePl": [
+    {
+      "type": 0,
+      "value": "Keysign "
+    },
+    {
+      "style": null,
+      "type": 2,
+      "value": "version"
+    }
+  ],
   "NmZvub": [
     {
       "type": 0,
@@ -402,12 +407,6 @@
     {
       "type": 0,
       "value": "Sync/Import/Export"
-    }
-  ],
-  "OZSO9W": [
-    {
-      "type": 0,
-      "value": "Must be at least 64 characters!"
     }
   ],
   "Olyz0E": [
@@ -464,6 +463,12 @@
       "value": "Handshake Transfer"
     }
   ],
+  "QzD37S": [
+    {
+      "type": 0,
+      "value": "Must be at least 64 characters!"
+    }
+  ],
   "R/WihK": [
     {
       "type": 0,
@@ -506,10 +511,27 @@
       "value": "TheNewBoston Blockchain"
     }
   ],
+  "Tvsi2s": [
+    {
+      "type": 0,
+      "value": "SEND"
+    }
+  ],
   "UeNAXN": [
     {
       "type": 0,
       "value": "Choose Language"
+    }
+  ],
+  "V5m11/": [
+    {
+      "type": 0,
+      "value": "Must not exceed your wallet amount "
+    },
+    {
+      "style": null,
+      "type": 2,
+      "value": "balance"
     }
   ],
   "VLTmsF": [
@@ -667,6 +689,12 @@
       "value": "Scan the QR code"
     }
   ],
+  "dGroal": [
+    {
+      "type": 0,
+      "value": "HISTORY"
+    }
+  ],
   "djJp6c": [
     {
       "type": 0,
@@ -703,12 +731,6 @@
       "value": "Are you sure you want to delete this wallet?"
     }
   ],
-  "gBnpR/": [
-    {
-      "type": 0,
-      "value": "AppIntro"
-    }
-  ],
   "gjBiyj": [
     {
       "type": 0,
@@ -743,12 +765,6 @@
     {
       "type": 0,
       "value": "To add a new bank, click ADD BANK in dropdown."
-    }
-  ],
-  "iC997S": [
-    {
-      "type": 0,
-      "value": "Add Back"
     }
   ],
   "iIX2t1": [
@@ -953,12 +969,6 @@
     {
       "type": 0,
       "value": "Device failed to scan"
-    }
-  ],
-  "y9dbbX": [
-    {
-      "type": 0,
-      "value": "CreatePassword"
     }
   ],
   "yJgJcp": [

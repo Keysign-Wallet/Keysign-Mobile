@@ -2,19 +2,19 @@
   "+8S2CR": [
     {
       "type": 0,
-      "value": "导入密钥"
+      "value": "استيراد المفاتيح"
     }
   ],
   "+HZbUZ": [
     {
       "type": 0,
-      "value": "当设备锁定时自动锁定钥匙标志。"
+      "value": "اقفل Keysign تلقائيا عند قفل الجهاز."
     }
   ],
   "+S3qBX": [
     {
       "type": 0,
-      "value": "验证失败"
+      "value": "فشل التحقق"
     }
   ],
   "+ZKTgk": [
@@ -26,13 +26,13 @@
   "+pD6+Y": [
     {
       "type": 0,
-      "value": "备忘录（可选）"
+      "value": "مذكرة (اختياري)"
     }
   ],
   "/0TOL5": [
     {
       "type": 0,
-      "value": "数量"
+      "value": "المبلغ"
     }
   ],
   "/HSJor": [
@@ -44,25 +44,25 @@
   "/X8qTz": [
     {
       "type": 0,
-      "value": "TNBCROW 是一个 P2P 交易社区。"
+      "value": "TNBCROW هو مجتمع تداول يعمل بصيغة P2P نظير لنظير."
     }
   ],
   "/Yb8GH": [
     {
       "type": 0,
-      "value": "Keysign 不拥有 TNBCROW"
+      "value": "Keysign لا يمتلك TNBCROW"
     }
   ],
   "/uNyiO": [
     {
       "type": 0,
-      "value": "自动锁定"
+      "value": "قفل تلقائي"
     }
   ],
   "0D+jgY": [
     {
       "type": 0,
-      "value": "管理 TNB 资产，并连接到 TNB 应用程序。"
+      "value": "تحكم بممتلكاتك من ال TNB، وارتبط بتطبيقات ال TNB."
     }
   ],
   "1Ojx58": [
@@ -80,55 +80,55 @@
   "37OpDn": [
     {
       "type": 0,
-      "value": "选择银行节点"
+      "value": "اختر عقدة المصرف"
     }
   ],
   "3mvL2Q": [
     {
       "type": 0,
-      "value": "和"
+      "value": "و"
     }
   ],
   "3yk8fB": [
     {
       "type": 0,
-      "value": "钱包"
+      "value": "محفظة"
     }
   ],
   "47FYwb": [
     {
       "type": 0,
-      "value": "取消"
+      "value": "إلغاء"
     }
   ],
   "4vjdwA": [
     {
       "type": 0,
-      "value": "同步成功"
+      "value": "تمت المزامنة بنجاح"
     }
   ],
   "5TH8l7": [
     {
       "type": 0,
-      "value": "转到设置 > 同步/导入/导出"
+      "value": "اذهب إلى الخيارات > مزامنة/استيراد/تصدير"
     }
   ],
   "5sg7KC": [
     {
       "type": 0,
-      "value": "密码"
+      "value": "كلمة المرور"
     }
   ],
   "62nsdy": [
     {
       "type": 0,
-      "value": "重试"
+      "value": "إعادة المحاولة"
     }
   ],
   "6ERahF": [
     {
       "type": 0,
-      "value": "来自 "
+      "value": "من "
     },
     {
       "type": 1,
@@ -138,115 +138,115 @@
   "7cGKSL": [
     {
       "type": 0,
-      "value": "锁定代币"
+      "value": "العملات المقفلة"
     }
   ],
   "8ysmEn": [
     {
       "type": 0,
-      "value": "打开您的浏览器钱包"
+      "value": "افتح محفظتك في المتصفح"
     }
   ],
   "90axO4": [
     {
       "type": 0,
-      "value": "交易"
+      "value": "شراء/بيع"
     }
   ],
   "9QV9HO": [
     {
       "type": 0,
-      "value": "TNB管理"
+      "value": "إدارة TNB"
     }
   ],
   "9WRlF4": [
     {
       "type": 0,
-      "value": "发送"
+      "value": "إرسال"
     }
   ],
   "9XUYQt": [
     {
       "type": 0,
-      "value": "导入"
+      "value": "استيراد"
     }
   ],
   "A4nR/Y": [
     {
       "type": 0,
-      "value": "Keysign 对此项服务不承担任何责任。"
+      "value": "Keysign ليس مسؤولا عن هذه الخدمة"
     }
   ],
   "AYrXQt": [
     {
       "type": 0,
-      "value": "传输成功"
+      "value": "نجح التحويل"
     }
   ],
   "AaKEvg": [
     {
       "type": 0,
-      "value": "不得超过 64 个字符！"
+      "value": "يحب أن لا يتجاوز 64 حرفا"
     }
   ],
   "B97E6J": [
     {
       "type": 0,
-      "value": "点击“同步手机”按钮"
+      "value": "اضغط على زر “مزامنة الهاتف”"
     }
   ],
   "Bbkxom": [
     {
       "type": 0,
-      "value": "空闲锁"
+      "value": "قفل خامل"
     }
   ],
   "CdmEya": [
     {
       "type": 0,
-      "value": "握手验证"
+      "value": "تحقق المصافحة"
     }
   ],
   "CpHRw1": [
     {
       "type": 0,
-      "value": "传输失败"
+      "value": "فشل التحويل"
     }
   ],
   "D3idYv": [
     {
       "type": 0,
-      "value": "设置"
+      "value": "الخيارات"
     }
   ],
   "D3rOMr": [
     {
       "type": 0,
-      "value": "没有数据"
+      "value": "لا بيانات"
     }
   ],
   "D5NqQO": [
     {
       "type": 0,
-      "value": "备忘录"
+      "value": "مذكرة"
     }
   ],
   "DMFF/H": [
     {
       "type": 0,
-      "value": "同步失败"
+      "value": "فشل المزامنة"
     }
   ],
   "DtYelJ": [
     {
       "type": 0,
-      "value": "传输"
+      "value": "تحويل"
     }
   ],
   "Duy+4J": [
     {
       "type": 0,
-      "value": "验证器费用："
+      "value": "أجور التصديق: "
     },
     {
       "style": null,
@@ -257,127 +257,127 @@
   "Ev6SEF": [
     {
       "type": 0,
-      "value": "新密码"
+      "value": "كلمة مرور جديدة"
     }
   ],
   "G8KMIa": [
     {
       "type": 0,
-      "value": "始终使用托管服务，目前它们是免费的。"
+      "value": "استخدم escrow دائما، هو مجاني حاليا."
     }
   ],
   "GAWz1j": [
     {
       "type": 0,
-      "value": "设备锁"
+      "value": "قفل الجهاز"
     }
   ],
   "GZ/ORp": [
     {
       "type": 0,
-      "value": "不得超过 100 个字符！"
+      "value": "يجب أن لا يتجاوز 100 حرفا!"
     }
   ],
   "GretYf": [
     {
       "type": 0,
-      "value": "当前密码"
+      "value": "كلمة المرور الحالية"
     }
   ],
   "GseaGh": [
     {
       "type": 0,
-      "value": "手动或在应用程序关闭时锁定 Keysign。"
+      "value": "اقفل Keysign يدويا أو عندما يكون التطبيق مغلقا."
     }
   ],
   "H4lIvd": [
     {
       "type": 0,
-      "value": "默认银行是通过keysign设置的。"
+      "value": "Keysign اختار المصرف الافتراضي."
     }
   ],
   "IPTyRk": [
     {
       "type": 0,
-      "value": "导出"
+      "value": "تصدير"
     }
   ],
   "Icxxne": [
     {
       "type": 0,
-      "value": "您可以导出文件中所有加密的密钥。 这将允许您将它们导入到另一台设备上的keysign或只是保管它们。"
+      "value": "يمكنك تصدير جميع مفاتيحك المشفرة في ملف. سيسمح لك ذلك باستيرادها إلى Keysign على جهاز آخر أو ببساطة حمايتها."
     }
   ],
   "IglYTF": [
     {
       "type": 0,
-      "value": "必须至少8个字符！"
+      "value": "يجب أن يتكون من 8 أحرف على الأقل!"
     }
   ],
   "IkSnjI": [
     {
       "type": 0,
-      "value": "生成钱包"
+      "value": "إنشاء محفظة"
     }
   ],
   "J4N5HW": [
     {
       "type": 0,
-      "value": "继续"
+      "value": "استمرار"
     }
   ],
   "Jex29j": [
     {
       "type": 0,
-      "value": "在应用程序窗口闲置了指定分钟数以后将自动锁定 Keysign。"
+      "value": "القفل التلقائي ل Keysign بعد أن تكون نافذة التطبيق خاملة لعدد الدقائق المحدد."
     }
   ],
   "KH/2zQ": [
     {
       "type": 0,
-      "value": "转换资金"
+      "value": "تحويل الأموال"
     }
   ],
   "KN7zKn": [
     {
       "type": 0,
-      "value": "错误"
+      "value": "خطأ"
     }
   ],
   "KqpQmG": [
     {
       "type": 0,
-      "value": "选择朋友"
+      "value": "اختر صديقا"
     }
   ],
   "LQhIrI": [
     {
       "type": 0,
-      "value": "只允许数字和字母"
+      "value": "الأرقام والحروف فقط مسموحة"
     }
   ],
   "LiHQih": [
     {
       "type": 0,
-      "value": "即将推出"
+      "value": "قريبا"
     }
   ],
   "LwzY+Y": [
     {
       "type": 0,
-      "value": "清除所有数据"
+      "value": "مسح كافة البيانات"
     }
   ],
   "MEVZgX": [
     {
       "type": 0,
-      "value": "扫描二维码开始同步"
+      "value": "امسح رمز الاستجابة السريعة لبدء المزامنة"
     }
   ],
   "MODFAR": [
     {
       "type": 0,
-      "value": "导入密钥"
+      "value": "استيراد المفاتيح"
     }
   ],
   "Mq1ePl": [
@@ -394,13 +394,13 @@
   "NmZvub": [
     {
       "type": 0,
-      "value": "不能为空"
+      "value": "يجب أن لا يكون فارغا"
     }
   ],
   "O8gaYk": [
     {
       "type": 0,
-      "value": "发送扫描"
+      "value": "إرسال المسحة"
     }
   ],
   "OTl3nO": [
@@ -412,61 +412,61 @@
   "OZSO9W": [
     {
       "type": 0,
-      "value": "必须至少 64 个字符！"
+      "value": "يجب أن يتكون من 64 حرفا على الأقل!"
     }
   ],
   "Olyz0E": [
     {
       "type": 0,
-      "value": "该账号的好友已经存在！"
+      "value": "الصديق مع رقم الحساب هذا موجود أصلا!"
     }
   ],
   "Oua4RH": [
     {
       "type": 0,
-      "value": "从......收到："
+      "value": "مستلم من:"
     }
   ],
   "P5ynDZ": [
     {
       "type": 0,
-      "value": "同步扫描"
+      "value": "مسحة المزامنة"
     }
   ],
   "PCSt5T": [
     {
       "type": 0,
-      "value": "偏好设置"
+      "value": "التفضيلات"
     }
   ],
   "PJE8pF": [
     {
       "type": 0,
-      "value": "展示费用"
+      "value": "عرض الرسوم"
     }
   ],
   "Pswssl": [
     {
       "type": 0,
-      "value": "确认"
+      "value": "تأكيد"
     }
   ],
   "QbCyGW": [
     {
       "type": 0,
-      "value": "简单、轻便又安全。 开始连接或创建您的 TNB 钱包吧。"
+      "value": "بسيطة وخفيفة وآمنة. اتصل وأنشئ محفظة TNB الخاصة بك."
     }
   ],
   "QiKKFz": [
     {
       "type": 0,
-      "value": "更改密码"
+      "value": "تغيير كلمة المرور"
     }
   ],
   "QrSVSd": [
     {
       "type": 0,
-      "value": "握手传输"
+      "value": "تحويل المصافحة Handshake"
     }
   ],
   "QzD37S": [
@@ -478,43 +478,43 @@
   "R/WihK": [
     {
       "type": 0,
-      "value": "提交"
+      "value": "إرسال"
     }
   ],
   "ROlscS": [
     {
       "type": 0,
-      "value": "在此处添加您的银行节点："
+      "value": "أضف عقدة المصرف هنا:"
     }
   ],
   "S8ZlY6": [
     {
       "type": 0,
-      "value": "节省"
+      "value": "حفظ"
     }
   ],
   "SVVSmw": [
     {
       "type": 0,
-      "value": "扫描错误"
+      "value": "خطأ في المسحة"
     }
   ],
   "SYy/Mr": [
     {
       "type": 0,
-      "value": "提供的密码不正确"
+      "value": "كلمة مرور غير صحيحة"
     }
   ],
   "Sw5Z2S": [
     {
       "type": 0,
-      "value": "添加银行"
+      "value": "إضافة مصرف"
     }
   ],
   "TO4Vzt": [
     {
       "type": 0,
-      "value": "新波士顿区块链"
+      "value": "TheNewBoston Blockchain"
     }
   ],
   "Tvsi2s": [
@@ -526,7 +526,7 @@
   "UeNAXN": [
     {
       "type": 0,
-      "value": "选择语言"
+      "value": "اختر لغة"
     }
   ],
   "V5m11/": [
@@ -543,43 +543,43 @@
   "VLTmsF": [
     {
       "type": 0,
-      "value": "暂时还没有好友"
+      "value": "لا أصدقاء حتى الآن"
     }
   ],
   "W47yNx": [
     {
       "type": 0,
-      "value": "代币总数"
+      "value": "مجموع العملات"
     }
   ],
   "WLBY1S": [
     {
       "type": 0,
-      "value": "好友管理"
+      "value": "إدارة الأصدقاء"
     }
   ],
   "WXRfPz": [
     {
       "type": 0,
-      "value": "同步钱包的步骤"
+      "value": "خطوات لمزامنة محفافظك"
     }
   ],
   "XCnG27": [
     {
       "type": 0,
-      "value": "Keysign 移动应用程序的创建是为了与......协同"
+      "value": "أُنشئ تطبيق Keysign للموبايل للعمل مع"
     }
   ],
   "XMYlZD": [
     {
       "type": 0,
-      "value": "我的钱包"
+      "value": "محفظتي"
     }
   ],
   "XYtt8J": [
     {
       "type": 0,
-      "value": "钱包名称"
+      "value": "اسم المحفظة"
     }
   ],
   "XcCIUg": [
@@ -591,61 +591,61 @@
   "Y3rADe": [
     {
       "type": 0,
-      "value": "确保在周围没有其它人的情况下输入您的密码。"
+      "value": "أدخل كلمة المرور دون أن يشاهدك أحد."
     }
   ],
   "YTIVDO": [
     {
       "type": 0,
-      "value": "银行节点"
+      "value": "عقدة المصرف"
     }
   ],
   "YpQLBX": [
     {
       "type": 0,
-      "value": "钱包已成功导出"
+      "value": "تم تصدير المحافظ بنجاح"
     }
   ],
   "Yuklh3": [
     {
       "type": 0,
-      "value": "生成钱包"
+      "value": "إنشاء محفظة"
     }
   ],
   "Z7oS9I": [
     {
       "type": 0,
-      "value": "没有钱包"
+      "value": "لا محفظة"
     }
   ],
   "ZHM9r2": [
     {
       "type": 0,
-      "value": "添加好友"
+      "value": "إضافة صديق"
     }
   ],
   "Ze/AG8": [
     {
       "type": 0,
-      "value": "生成"
+      "value": "إنشاء"
     }
   ],
   "ZhHaEw": [
     {
       "type": 0,
-      "value": "到帐号"
+      "value": "إلى رقم الحساب"
     }
   ],
   "a5msuh": [
     {
       "type": 0,
-      "value": "是"
+      "value": "نعم"
     }
   ],
   "aCVoQT": [
     {
       "type": 0,
-      "value": "银行费用： "
+      "value": "أجور المصرف: "
     },
     {
       "style": null,
@@ -656,43 +656,43 @@
   "b7SVXM": [
     {
       "type": 0,
-      "value": "钱包管理"
+      "value": "إدارة المحفظة"
     }
   ],
   "c0vVbD": [
     {
       "type": 0,
-      "value": "登录"
+      "value": "تسجيل"
     }
   ],
   "c2hHXM": [
     {
       "type": 0,
-      "value": "钱包导入成功"
+      "value": "تم استيراد المحافظ بنجاح"
     }
   ],
   "c5g9Rt": [
     {
       "type": 0,
-      "value": "删除好友"
+      "value": "حذف صديق"
     }
   ],
   "ceW3ER": [
     {
       "type": 0,
-      "value": "确认"
+      "value": "تأكيد"
     }
   ],
   "clx9/J": [
     {
       "type": 0,
-      "value": "默认"
+      "value": "افتراضي"
     }
   ],
   "dChb0Y": [
     {
       "type": 0,
-      "value": "扫描二维码"
+      "value": "خذ مسحة لشفرة ال QR"
     }
   ],
   "dGroal": [
@@ -704,127 +704,127 @@
   "djJp6c": [
     {
       "type": 0,
-      "value": "历史"
+      "value": "التاريخ"
     }
   ],
   "e2W5iK": [
     {
       "type": 0,
-      "value": "发送至:"
+      "value": "إرسال إلى:"
     }
   ],
   "ejEGdx": [
     {
       "type": 0,
-      "value": "主页"
+      "value": "الصفحة الرئيسية"
     }
   ],
   "fG1IZC": [
     {
       "type": 0,
-      "value": "您将被发送到不和谐社区。"
+      "value": "سيتم تحويلك إلى مجتمع على Discord."
     }
   ],
   "fMaoRo": [
     {
       "type": 0,
-      "value": "您确定要删除这个好友吗？"
+      "value": "هل تؤكد رغبتك بحذف هذا الصديق؟"
     }
   ],
   "fS+jdZ": [
     {
       "type": 0,
-      "value": "您确定要删除这个钱包吗？"
+      "value": "هل تؤكد رغبتك بحذف هذه المحفظة؟"
     }
   ],
   "gjBiyj": [
     {
       "type": 0,
-      "value": "加载中..."
+      "value": "جاري التحميل..."
     }
   ],
   "gvr0wo": [
     {
       "type": 0,
-      "value": "同步钱包"
+      "value": "مزامنة المحفظة"
     }
   ],
   "h/ftND": [
     {
       "type": 0,
-      "value": "选择一个文件"
+      "value": "اختر ملفا"
     }
   ],
   "h2vipu": [
     {
       "type": 0,
-      "value": "代码"
+      "value": "Code"
     }
   ],
   "hHk8xH": [
     {
       "type": 0,
-      "value": "在 TNBCROW 上交易"
+      "value": "تداول على TNBCROW"
     }
   ],
   "hqv+qJ": [
     {
       "type": 0,
-      "value": "如要添加新的银行，请单击下拉菜单中的添加银行。"
+      "value": "لإضافة مصرف جديد، انقر على إضافة بنك في القائمة المنسدلة."
     }
   ],
   "iIX2t1": [
     {
       "type": 0,
-      "value": "无法选择文件"
+      "value": "تعذر اختيار الملف"
     }
   ],
   "iKDTfl": [
     {
       "type": 0,
-      "value": "好友名称"
+      "value": "اسم الصديق"
     }
   ],
   "iKt39A": [
     {
       "type": 0,
-      "value": "您确定要删除此银行吗？"
+      "value": "هل تؤكد رغبتك بحذف هذا المصرف?"
     }
   ],
   "iUzlyp": [
     {
       "type": 0,
-      "value": "删除钱包"
+      "value": "حذف المحفظة"
     }
   ],
   "iotsqr": [
     {
       "type": 0,
-      "value": "验证成功"
+      "value": "تم التحقق بنجاح"
     }
   ],
   "jsy7pk": [
     {
       "type": 0,
-      "value": "请重试"
+      "value": "أعد المحاولة"
     }
   ],
   "kQAf2d": [
     {
       "type": 0,
-      "value": "选择"
+      "value": "تحديد"
     }
   ],
   "l0jKdB": [
     {
       "type": 0,
-      "value": "添加好友"
+      "value": "إضافة صديق"
     }
   ],
   "lr13V0": [
     {
       "type": 0,
-      "value": "返回主页"
+      "value": "اذهب إلى الصفحة الرئيسية"
     }
   ],
   "m99RHg": [
@@ -836,163 +836,163 @@
   "nuWwea": [
     {
       "type": 0,
-      "value": "登录失败"
+      "value": "فشل عملية الدخول"
     }
   ],
   "oEli2v": [
     {
       "type": 0,
-      "value": "它是由......双方开发和设计的"
+      "value": "تم تطويره وتصميمه من قبل كليهما"
     }
   ],
   "oUWADl": [
     {
       "type": 0,
-      "value": "否"
+      "value": "لا"
     }
   ],
   "orLknm": [
     {
       "type": 0,
-      "value": "扫描"
+      "value": "أخذ مسحة"
     }
   ],
   "p556q3": [
     {
       "type": 0,
-      "value": "已复制"
+      "value": "تم نسخه"
     }
   ],
   "pb93i7": [
     {
       "type": 0,
-      "value": "NB; 这不能被撤消。"
+      "value": "ملاحظة: لا يمكنك التراجع عن هذا"
     }
   ],
   "pvIJw6": [
     {
       "type": 0,
-      "value": "两个密码必须一致！"
+      "value": "يجب أن تتطابق كلمتا المرور"
     }
   ],
   "q4RWBX": [
     {
       "type": 0,
-      "value": "开始"
+      "value": "ابدأ"
     }
   ],
   "qZbedW": [
     {
       "type": 0,
-      "value": "费用"
+      "value": "الأجور"
     }
   ],
   "qp2cDY": [
     {
       "type": 0,
-      "value": "钱包管理"
+      "value": "إدارة المحافظ"
     }
   ],
   "qzy/q1": [
     {
       "type": 0,
-      "value": "忘记密码 ？"
+      "value": "نسيت كلمة المرور؟"
     }
   ],
   "rV/x4O": [
     {
       "type": 0,
-      "value": "如果您忘记了密码，您可以清除数据，但必须重新输入所有的密钥。"
+      "value": "إذا نسيت كلمة المرور الخاصة بك ، فيمكنك مسح بياناتك ولكن سيتعين عليك إدخال جميع مفاتيحك مرة أخرى."
     }
   ],
   "ruJlSX": [
     {
       "type": 0,
-      "value": "下一步"
+      "value": "التالي"
     }
   ],
   "t401lQ": [
     {
       "type": 0,
-      "value": "导入"
+      "value": "استيراد"
     }
   ],
   "umg69G": [
     {
       "type": 0,
-      "value": "添加钱包"
+      "value": "إضافة محفظة"
     }
   ],
   "v3gr+l": [
     {
       "type": 0,
-      "value": "使用AACN/登录"
+      "value": "استخدم تسجيل الدخول"
     }
   ],
   "vV2G6z": [
     {
       "type": 0,
-      "value": "账号"
+      "value": "رقم الحساب"
     }
   ],
   "vfG+nh": [
     {
       "type": 0,
-      "value": "确认密码"
+      "value": "تأكيد كلمة المرور"
     }
   ],
   "vrMPql": [
     {
       "type": 0,
-      "value": "TNB钱包"
+      "value": "TNB محفظة"
     }
   ],
   "wdOQAC": [
     {
       "type": 0,
-      "value": "关于Keysign"
+      "value": "عن Keysign"
     }
   ],
   "xQ6aNc": [
     {
       "type": 0,
-      "value": "创建密码"
+      "value": "إنشاء كلمة مرور"
     }
   ],
   "xedgjh": [
     {
       "type": 0,
-      "value": "不得超过 12 个字符!"
+      "value": "يجب أن لا يتجاز 12 حرفا"
     }
   ],
   "xrKHS6": [
     {
       "type": 0,
-      "value": "成功"
+      "value": "نجاح"
     }
   ],
   "xuxczX": [
     {
       "type": 0,
-      "value": "设备扫描失败"
+      "value": "فشل الجهاز في أخذ المسحة"
     }
   ],
   "yJgJcp": [
     {
       "type": 0,
-      "value": "Keysign 是在链上访问您的 TNB 钱包的最佳方式。"
+      "value": "Keysign هو أفضل طريقة للوصول إلى محفظة TNB الخاصة بك على السلسلة."
     }
   ],
   "yc5XUr": [
     {
       "type": 0,
-      "value": "使用Acc/Signkey"
+      "value": "استخدم مفاتيح التوقيع"
     }
   ],
   "yd1dFh": [
     {
       "type": 0,
-      "value": "签名密钥"
+      "value": "مفتاح التوقيع"
     }
   ],
   "z7Siok": [
