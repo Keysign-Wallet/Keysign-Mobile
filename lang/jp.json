@@ -1,0 +1,488 @@
+{
+  "+8S2CR": {
+    "defaultMessage": "インポートキー"
+  },
+  "+HZbUZ": {
+    "defaultMessage": "本体のロック時にKeysignを自動ロックします。"
+  },
+  "+S3qBX": {
+    "defaultMessage": "承認に失敗しました。"
+  },
+  "+ZKTgk": {
+    "defaultMessage": "最低でも3文字以上でなければなりません!"
+  },
+  "+pD6+Y": {
+    "defaultMessage": "メモ(オプション)"
+  },
+  "/0TOL5": {
+    "defaultMessage": "金額"
+  },
+  "/HSJor": {
+    "defaultMessage": "ミスタースカイ"
+  },
+  "/X8qTz": {
+    "defaultMessage": "TNBCROWはP2Pトレーディング・コミュニティーです。"
+  },
+  "/Yb8GH": {
+    "defaultMessage": "KeysignはTNBCROWを所有していません。"
+  },
+  "/uNyiO": {
+    "defaultMessage": "自動でロックする"
+  },
+  "0D+jgY": {
+    "defaultMessage": "TNBの資産を管理し、TNBのアプリケーションに接続します。"
+  },
+  "1Ojx58": {
+    "defaultMessage": "インポート時には、まだ実態として存在していないアカウントのみが追加されます。"
+  },
+  "2RenFV": {
+    "defaultMessage": "銀行を追加"
+  },
+  "37OpDn": {
+    "defaultMessage": "バンクノードの選択"
+  },
+  "3mvL2Q": {
+    "defaultMessage": "そして"
+  },
+  "3yk8fB": {
+    "defaultMessage": "ウォレット"
+  },
+  "47FYwb": {
+    "defaultMessage": "キャンセル"
+  },
+  "4vjdwA": {
+    "defaultMessage": "同期の成功しました"
+  },
+  "5TH8l7": {
+    "defaultMessage": "設定 > 同期/インポート/エクスポート"
+  },
+  "5sg7KC": {
+    "defaultMessage": "パスワード"
+  },
+  "62nsdy": {
+    "defaultMessage": "再試行"
+  },
+  "6ERahF": {
+    "defaultMessage": "{name}から"
+  },
+  "7cGKSL": {
+    "defaultMessage": "ロックされたコイン"
+  },
+  "8ysmEn": {
+    "defaultMessage": "ブラウザのウォレットを開く"
+  },
+  "90axO4": {
+    "defaultMessage": "トレード"
+  },
+  "9QV9HO": {
+    "defaultMessage": "TNBを管理する"
+  },
+  "9WRlF4": {
+    "defaultMessage": "送信"
+  },
+  "9XUYQt": {
+    "defaultMessage": "インポート"
+  },
+  "A4nR/Y": {
+    "defaultMessage": "Keysignはこのサービスについて責任を負いません。"
+  },
+  "AYrXQt": {
+    "defaultMessage": "転送成功"
+  },
+  "AaKEvg": {
+    "defaultMessage": "64文字を超えてはいけません！"
+  },
+  "B97E6J": {
+    "defaultMessage": "「Sync Mobile」ボタンをクリックする"
+  },
+  "Bbkxom": {
+    "defaultMessage": "アイドルロック"
+  },
+  "CdmEya": {
+    "defaultMessage": "ハンドシェイク確認"
+  },
+  "CpHRw1": {
+    "defaultMessage": "転送失敗"
+  },
+  "D3idYv": {
+    "defaultMessage": "設定"
+  },
+  "D3rOMr": {
+    "defaultMessage": "データがありません"
+  },
+  "D5NqQO": {
+    "defaultMessage": "メモ"
+  },
+  "DMFF/H": {
+    "defaultMessage": "同期失敗"
+  },
+  "DtYelJ": {
+    "defaultMessage": "転送"
+  },
+  "Duy+4J": {
+    "defaultMessage": "バリデータの料金: {amount, number}"
+  },
+  "Ev6SEF": {
+    "defaultMessage": "新しいパスワード"
+  },
+  "G8KMIa": {
+    "defaultMessage": "必ずエスクローを使用してください。現在は無料で使用できます。"
+  },
+  "GAWz1j": {
+    "defaultMessage": "デバイスをロックする"
+  },
+  "GZ/ORp": {
+    "defaultMessage": "100文字を超えてはいけません！"
+  },
+  "GretYf": {
+    "defaultMessage": "現在のパスワード"
+  },
+  "GseaGh": {
+    "defaultMessage": "手動またはアプリを閉じたときに、Keysignをロックします。"
+  },
+  "H4lIvd": {
+    "defaultMessage": "デフォルトの銀行はkeysignで設定されています。"
+  },
+  "IPTyRk": {
+    "defaultMessage": "エクスポート"
+  },
+  "Icxxne": {
+    "defaultMessage": "すべての鍵を暗号化してファイルに書き出すことができます。これにより、別のデバイスでキーサインするためにキーをインポートしたり、単にキーを保護したりすることができます。"
+  },
+  "IglYTF": {
+    "defaultMessage": "少なくとも8文字以上でなければなりません！"
+  },
+  "IkSnjI": {
+    "defaultMessage": "ウォレットの生成"
+  },
+  "J4N5HW": {
+    "defaultMessage": "続ける"
+  },
+  "Jex29j": {
+    "defaultMessage": "アプリのウィンドウが指定した時間アイドル状態になると、Keysignを自動ロックします。"
+  },
+  "KH/2zQ": {
+    "defaultMessage": "資金を転送"
+  },
+  "KN7zKn": {
+    "defaultMessage": "エラー"
+  },
+  "KqpQmG": {
+    "defaultMessage": "友達を選択する"
+  },
+  "LQhIrI": {
+    "defaultMessage": "数字と文字しか入力できません"
+  },
+  "LiHQih": {
+    "defaultMessage": "近日公開"
+  },
+  "LwzY+Y": {
+    "defaultMessage": "全データを削除"
+  },
+  "MEVZgX": {
+    "defaultMessage": "同期を始めるにはQRコードの読み取って下さい"
+  },
+  "MODFAR": {
+    "defaultMessage": "インポートキー"
+  },
+  "Mq1ePl": {
+    "defaultMessage": "Keysign {version｝"
+  },
+  "NmZvub": {
+    "defaultMessage": "空になってはいけません"
+  },
+  "O8gaYk": {
+    "defaultMessage": "スキャン送信"
+  },
+  "OTl3nO": {
+    "defaultMessage": "同期/インポート/エクスポート"
+  },
+  "Olyz0E": {
+    "defaultMessage": "このアカウント番号の友達はすでに存在しています！"
+  },
+  "Oua4RH": {
+    "defaultMessage": "受信した先："
+  },
+  "P5ynDZ": {
+    "defaultMessage": "スキャンの同期"
+  },
+  "PCSt5T": {
+    "defaultMessage": "環境設定"
+  },
+  "PJE8pF": {
+    "defaultMessage": "料金の表示"
+  },
+  "Pswssl": {
+    "defaultMessage": "確認画面"
+  },
+  "QbCyGW": {
+    "defaultMessage": "シンプルで軽量、そして安全です。TNBウォレットへの接続または作成を開始しましょう。"
+  },
+  "QiKKFz": {
+    "defaultMessage": "パスワードの変更"
+  },
+  "QrSVSd": {
+    "defaultMessage": "ハンドシェイクを転送"
+  },
+  "QzD37S": {
+    "defaultMessage": "64文字以上でなければなりません！"
+  },
+  "R/WihK": {
+    "defaultMessage": "送信"
+  },
+  "ROlscS": {
+    "defaultMessage": "ここにバンクノードを追加してください:"
+  },
+  "S8ZlY6": {
+    "defaultMessage": "保存"
+  },
+  "SVVSmw": {
+    "defaultMessage": "スキャンエラー"
+  },
+  "SYy/Mr": {
+    "defaultMessage": "パスワードが正しくありません"
+  },
+  "Sw5Z2S": {
+    "defaultMessage": "銀行の追加"
+  },
+  "TO4Vzt": {
+    "defaultMessage": "TheNewBostonブロックチェーン"
+  },
+  "Tvsi2s": {
+    "defaultMessage": "送信"
+  },
+  "UeNAXN": {
+    "defaultMessage": "言語の選択"
+  },
+  "V5m11/": {
+    "defaultMessage": "ウォレットの金額を超えてはいけません {balance, number}"
+  },
+  "VLTmsF": {
+    "defaultMessage": "まだ友達がいません"
+  },
+  "W47yNx": {
+    "defaultMessage": "コイン総数"
+  },
+  "WLBY1S": {
+    "defaultMessage": "友達の管理"
+  },
+  "WXRfPz": {
+    "defaultMessage": "ウォレットを同期する手順"
+  },
+  "XCnG27": {
+    "defaultMessage": "Keysignモバイルアプリケーションは、以下の機能を備えています"
+  },
+  "XMYlZD": {
+    "defaultMessage": "マイウォレット"
+  },
+  "XYtt8J": {
+    "defaultMessage": "ウォレット名"
+  },
+  "XcCIUg": {
+    "defaultMessage": "Keysign"
+  },
+  "Y3rADe": {
+    "defaultMessage": "周りに誰もいない状態で、パスワードを入力します。"
+  },
+  "YTIVDO": {
+    "defaultMessage": "バンクノード"
+  },
+  "YpQLBX": {
+    "defaultMessage": "ウォレットのエクスポートが成功しました"
+  },
+  "Yuklh3": {
+    "defaultMessage": "ウォレットを作成する"
+  },
+  "Z7oS9I": {
+    "defaultMessage": "ウォレットがありません"
+  },
+  "ZHM9r2": {
+    "defaultMessage": "友達を追加"
+  },
+  "Ze/AG8": {
+    "defaultMessage": "生成する"
+  },
+  "ZhHaEw": {
+    "defaultMessage": "口座番号へ"
+  },
+  "a5msuh": {
+    "defaultMessage": "はい"
+  },
+  "aCVoQT": {
+    "defaultMessage": "銀行手数料: {amount, number}"
+  },
+  "b7SVXM": {
+    "defaultMessage": "ウォレットの管理"
+  },
+  "c0vVbD": {
+    "defaultMessage": "サインイン"
+  },
+  "c2hHXM": {
+    "defaultMessage": "ウォレットのインポートが完了しました"
+  },
+  "c5g9Rt": {
+    "defaultMessage": "友達を削除"
+  },
+  "ceW3ER": {
+    "defaultMessage": "確認しました"
+  },
+  "clx9/J": {
+    "defaultMessage": "初期設定"
+  },
+  "dChb0Y": {
+    "defaultMessage": "QRコードを読み取る"
+  },
+  "dGroal": {
+    "defaultMessage": "履歴"
+  },
+  "djJp6c": {
+    "defaultMessage": "履歴"
+  },
+  "e2W5iK": {
+    "defaultMessage": "送信先:"
+  },
+  "ejEGdx": {
+    "defaultMessage": "ホーム"
+  },
+  "fG1IZC": {
+    "defaultMessage": "discordのコミュニティに送信されます。"
+  },
+  "fMaoRo": {
+    "defaultMessage": "この友達を削除してもよろしいですか？"
+  },
+  "fS+jdZ": {
+    "defaultMessage": "このウォレットを削除してもよろしいですか？"
+  },
+  "gjBiyj": {
+    "defaultMessage": "読み込み中..."
+  },
+  "gvr0wo": {
+    "defaultMessage": "ウォレットの同期"
+  },
+  "h/ftND": {
+    "defaultMessage": "ファイルの選択"
+  },
+  "h2vipu": {
+    "defaultMessage": "コード"
+  },
+  "hHk8xH": {
+    "defaultMessage": "TNBCROWでトレード"
+  },
+  "hqv+qJ": {
+    "defaultMessage": "新しい銀行を追加するには、ドロップダウンの「銀行の追加」をクリックしてください。"
+  },
+  "iIX2t1": {
+    "defaultMessage": "ファイルの選択ができません"
+  },
+  "iKDTfl": {
+    "defaultMessage": "友達の名前"
+  },
+  "iKt39A": {
+    "defaultMessage": "この銀行を削除してもよろしいですか？"
+  },
+  "iUzlyp": {
+    "defaultMessage": "ウォレットの削除"
+  },
+  "iotsqr": {
+    "defaultMessage": "成功したことを確認する"
+  },
+  "jsy7pk": {
+    "defaultMessage": "もう一度お試し下さい"
+  },
+  "kQAf2d": {
+    "defaultMessage": "選択"
+  },
+  "l0jKdB": {
+    "defaultMessage": "友達追加"
+  },
+  "lr13V0": {
+    "defaultMessage": "ホームへ戻る"
+  },
+ 　"m99RHg": {
+    "defaultMessage": "KEYSIGN"
+  },
+  "nuWwea": {
+    "defaultMessage": "ログイン失敗しました"
+  },
+  "oEli2v": {
+    "defaultMessage": "両方で開発・設計した"
+  },
+  "oUWADl": {
+    "defaultMessage": "いいえ"
+  },
+  "orLknm": {
+    "defaultMessage": "スキャン"
+  },
+  "p556q3": {
+    "defaultMessage": "コピーしました"
+  },
+  "pb93i7": {
+    "defaultMessage": "これは元に戻すことはできません"
+  },
+  "pvIJw6": {
+    "defaultMessage": "両方のパスワードが一致する必要があります！"
+  },
+  "q4RWBX": {
+    "defaultMessage": "開始する"
+  },
+  "qZbedW": {
+    "defaultMessage": "料金"
+  },
+  "qp2cDY": {
+    "defaultMessage": "ウォレットの管理"
+  },
+  "qzy/q1": {
+    "defaultMessage": "パスワードを忘れた場合"
+  },
+  "rV/x4O": {
+    "defaultMessage": "パスワードを忘れてしまった場合、データを消去することはできますが、すべてのキーを再度入力する必要があります。"
+  },
+  "ruJlSX": {
+    "defaultMessage": "次へ"
+  },
+  "t401lQ": {
+    "defaultMessage": "インポート"
+  },
+  "umg69G": {
+    "defaultMessage": "ウォレットの追加"
+  },
+  "v3gr+l": {
+    "defaultMessage": "アカウント/サインインを使う"
+  },
+  "vV2G6z": {
+    "defaultMessage": "アカウント番号"
+  },
+  "vfG+nh": {
+    "defaultMessage": "パスワードの確認"
+  },
+  "vrMPql": {
+    "defaultMessage": "TNBウォレット"
+  },
+  "wdOQAC": {
+    "defaultMessage": "Keysignについて"
+  },
+  "xQ6aNc": {
+    "defaultMessage": "パスワードの作成する"
+  },
+  "xedgjh": {
+    "defaultMessage": "12文字以内で入力してください！"
+  },
+  "xrKHS6": {
+    "defaultMessage": "成功"
+  },
+  "xuxczX": {
+    "defaultMessage": "デバイスのスキャンに失敗しました"
+  },
+  "yJgJcp": {
+    "defaultMessage": "チェーン上のTNBウォレットにアクセスするには、Keysignがぴったりです"
+  },
+  "yc5XUr": {
+    "defaultMessage": "Acc/Signkey を使う"
+  },
+  "yd1dFh": {
+    "defaultMessage": "サインキー"
+  },
+  "z7Siok": {
+    "defaultMessage": "Abhay."
+  }
+ }

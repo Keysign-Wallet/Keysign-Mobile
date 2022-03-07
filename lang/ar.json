@@ -9,7 +9,7 @@
     "defaultMessage": "فشل التحقق"
   },
   "+ZKTgk": {
-    "defaultMessage": "Must be at least 3 characters!"
+    "defaultMessage": "!يجب أن لا يتجاز 3 أحرف"
   },
   "+pD6+Y": {
     "defaultMessage": "مذكرة (اختياري)"
@@ -33,13 +33,13 @@
     "defaultMessage": "تحكم بممتلكاتك من ال TNB، وارتبط بتطبيقات ال TNB."
   },
   "1Ojx58": {
-    "defaultMessage": "When importing, only accounts that are not already present on the instance will be added."
+    "defaultMessage": "عند الاستيراد ، ستتم إضافة الحسابات غير الموجودة بالفعل في المثيل فقط."
   },
   "2RenFV": {
-    "defaultMessage": "Add Bank"
+    "defaultMessage": "إضافة بنك"
   },
   "37OpDn": {
-    "defaultMessage": "اختر عقدة المصرف"
+    "defaultMessage": "اختر عقدة البنك"
   },
   "3mvL2Q": {
     "defaultMessage": "و"
@@ -90,7 +90,7 @@
     "defaultMessage": "نجح التحويل"
   },
   "AaKEvg": {
-    "defaultMessage": "يحب أن لا يتجاوز 64 حرفا"
+    "defaultMessage": "يحب أن لا يتجاوز 64 حرفًا"
   },
   "B97E6J": {
     "defaultMessage": "اضغط على زر “مزامنة الهاتف”"
@@ -120,7 +120,7 @@
     "defaultMessage": "تحويل"
   },
   "Duy+4J": {
-    "defaultMessage": "أجور التصديق: {amount, number}"
+    "defaultMessage": "رسوم التصديق: {amount, number}"
   },
   "Ev6SEF": {
     "defaultMessage": "كلمة مرور جديدة"
@@ -132,7 +132,7 @@
     "defaultMessage": "قفل الجهاز"
   },
   "GZ/ORp": {
-    "defaultMessage": "يجب أن لا يتجاوز 100 حرفا!"
+    "defaultMessage": "يجب أن لا يتجاوز 100 حرفًا!"
   },
   "GretYf": {
     "defaultMessage": "كلمة المرور الحالية"
@@ -141,7 +141,7 @@
     "defaultMessage": "اقفل Keysign يدويا أو عندما يكون التطبيق مغلقا."
   },
   "H4lIvd": {
-    "defaultMessage": "Keysign اختار المصرف الافتراضي."
+    "defaultMessage": "Keysign اختار البنك الافتراضي."
   },
   "IPTyRk": {
     "defaultMessage": "تصدير"
@@ -197,9 +197,6 @@
   "OTl3nO": {
     "defaultMessage": "Sync/Import/Export"
   },
-  "OZSO9W": {
-    "defaultMessage": "يجب أن يتكون من 64 حرفا على الأقل!"
-  },
   "Olyz0E": {
     "defaultMessage": "الصديق مع رقم الحساب هذا موجود أصلا!"
   },
@@ -228,13 +225,13 @@
     "defaultMessage": "تحويل المصافحة Handshake"
   },
   "QzD37S": {
-    "defaultMessage": "Must be at least 64 characters!"
+    "defaultMessage": "يجب ألا يقل عن 64 حرفًا!"
   },
   "R/WihK": {
     "defaultMessage": "إرسال"
   },
   "ROlscS": {
-    "defaultMessage": "أضف عقدة المصرف هنا:"
+    "defaultMessage": "أضف عقدة البنك هنا:"
   },
   "S8ZlY6": {
     "defaultMessage": "حفظ"
@@ -246,19 +243,19 @@
     "defaultMessage": "كلمة مرور غير صحيحة"
   },
   "Sw5Z2S": {
-    "defaultMessage": "إضافة مصرف"
+    "defaultMessage": "إضافة بنك"
   },
   "TO4Vzt": {
     "defaultMessage": "TheNewBoston Blockchain"
   },
   "Tvsi2s": {
-    "defaultMessage": "SEND"
+    "defaultMessage": "أرسل"
   },
   "UeNAXN": {
     "defaultMessage": "اختر لغة"
   },
   "V5m11/": {
-    "defaultMessage": "Must not exceed your wallet amount {balance, number}"
+    "defaultMessage": "يجب ألا يتجاوز مبلغ محفظتك {number, balance}"
   },
   "VLTmsF": {
     "defaultMessage": "لا أصدقاء حتى الآن"
@@ -288,7 +285,7 @@
     "defaultMessage": "أدخل كلمة المرور دون أن يشاهدك أحد."
   },
   "YTIVDO": {
-    "defaultMessage": "عقدة المصرف"
+    "defaultMessage": "عقدة البنك"
   },
   "YpQLBX": {
     "defaultMessage": "تم تصدير المحافظ بنجاح"
@@ -312,7 +309,7 @@
     "defaultMessage": "نعم"
   },
   "aCVoQT": {
-    "defaultMessage": "أجور المصرف: {amount, number}"
+    "defaultMessage": "أجور البنك: {amount, number}"
   },
   "b7SVXM": {
     "defaultMessage": "إدارة المحفظة"
@@ -336,10 +333,10 @@
     "defaultMessage": "خذ مسحة لشفرة ال QR"
   },
   "dGroal": {
-    "defaultMessage": "HISTORY"
+    "defaultMessage": "سجل"
   },
   "djJp6c": {
-    "defaultMessage": "التاريخ"
+    "defaultMessage": "سجل"
   },
   "e2W5iK": {
     "defaultMessage": "إرسال إلى:"
@@ -372,7 +369,7 @@
     "defaultMessage": "تداول على TNBCROW"
   },
   "hqv+qJ": {
-    "defaultMessage": "لإضافة مصرف جديد، انقر على إضافة بنك في القائمة المنسدلة."
+    "defaultMessage": "لإضافة بنك جديد، انقر على إضافة بنك في القائمة المنسدلة."
   },
   "iIX2t1": {
     "defaultMessage": "تعذر اختيار الملف"
@@ -381,7 +378,7 @@
     "defaultMessage": "اسم الصديق"
   },
   "iKt39A": {
-    "defaultMessage": "هل تؤكد رغبتك بحذف هذا المصرف?"
+    "defaultMessage": "هل تؤكد رغبتك بحذف هذا البنك?"
   },
   "iUzlyp": {
     "defaultMessage": "حذف المحفظة"
@@ -426,19 +423,19 @@
     "defaultMessage": "يجب أن تتطابق كلمتا المرور"
   },
   "q4RWBX": {
-    "defaultMessage": "ابدأ"
+    "defaultMessage": "اِبدأ"
   },
   "qZbedW": {
-    "defaultMessage": "الأجور"
+    "defaultMessage": "الرسوم"
   },
   "qp2cDY": {
     "defaultMessage": "إدارة المحافظ"
   },
   "qzy/q1": {
-    "defaultMessage": "نسيت كلمة المرور؟"
+    "defaultMessage": "هل نسيت كلمة المرور؟"
   },
   "rV/x4O": {
-    "defaultMessage": "إذا نسيت كلمة المرور الخاصة بك ، فيمكنك مسح بياناتك ولكن سيتعين عليك إدخال جميع مفاتيحك مرة أخرى."
+    "defaultMessage": "إذا نسيت كلمة المرور الخاصة بك، فيمكنك مسح بياناتك ولكن سيتعين عليك إدخال جميع مفاتيحك مرة أخرى."
   },
   "ruJlSX": {
     "defaultMessage": "التالي"
@@ -450,7 +447,7 @@
     "defaultMessage": "إضافة محفظة"
   },
   "v3gr+l": {
-    "defaultMessage": "استخدم تسجيل الدخول"
+    "defaultMessage": "استخدم الحساب / تسجيل الدخول"
   },
   "vV2G6z": {
     "defaultMessage": "رقم الحساب"
@@ -459,16 +456,16 @@
     "defaultMessage": "تأكيد كلمة المرور"
   },
   "vrMPql": {
-    "defaultMessage": "TNB محفظة"
+    "defaultMessage": "محفظة TNB"
   },
   "wdOQAC": {
-    "defaultMessage": "عن Keysign"
+    "defaultMessage": "حول Keysign"
   },
   "xQ6aNc": {
     "defaultMessage": "إنشاء كلمة مرور"
   },
   "xedgjh": {
-    "defaultMessage": "يجب أن لا يتجاز 12 حرفا"
+    "defaultMessage": "يجب أن لا يتجاز 12 حرفًا!"
   },
   "xrKHS6": {
     "defaultMessage": "نجاح"
