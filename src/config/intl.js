@@ -21,10 +21,20 @@ import '@formatjs/intl-pluralrules/locale-data/en';
 import '@formatjs/intl-numberformat/locale-data/en';
 import '@formatjs/intl-datetimeformat/locale-data/en';
 
+// French
+import '@formatjs/intl-pluralrules/locale-data/fr';
+import '@formatjs/intl-numberformat/locale-data/fr';
+import '@formatjs/intl-datetimeformat/locale-data/fr';
+
 // Indonesian
 import '@formatjs/intl-pluralrules/locale-data/id';
 import '@formatjs/intl-numberformat/locale-data/id';
 import '@formatjs/intl-datetimeformat/locale-data/id';
+
+// Japanese
+import '@formatjs/intl-pluralrules/locale-data/ja';
+import '@formatjs/intl-numberformat/locale-data/ja';
+import '@formatjs/intl-datetimeformat/locale-data/ja';
 
 // Korean
 import '@formatjs/intl-pluralrules/locale-data/ko';

@@ -28,6 +28,9 @@ build/
 .gradle
 local.properties
 *.iml
+*.hprof
+keysign.jks
+keysignmobile.jks
 
 # node.js
 #
@@ -38,6 +41,7 @@ yarn-error.log
 # BUCK
 buck-out/
 \.buckd/
+*.jks
 
 # fastlane
 #

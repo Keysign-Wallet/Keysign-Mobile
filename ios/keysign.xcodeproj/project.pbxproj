@@ -8,24 +8,24 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* keysignTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* keysignTests.m */; };
-		01BC4A9A85D145FA83894171 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85A2EE7D464A4CEB87B59D51 /* Roboto-Regular.ttf */; };
-		04B3C9F288494AE08B7CC5C7 /* Roboto-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DDA202DE5F7A45598A0134E3 /* Roboto-LightItalic.ttf */; };
-		0AA559DCF2C241839CD83373 /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 61B94195C0B145EAA8374834 /* Roboto-BoldItalic.ttf */; };
-		0F8902B0D2394A1C930804D1 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8B7DE56A3FB74E2A990781FE /* Roboto-Medium.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		3A949631C5314F5497062FAD /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 507AEDC6801243DA82B7BEBA /* Roboto-Black.ttf */; };
-		46CACF783CAF4A58AC194DD5 /* Roboto-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 841A8865E1434F1DADCB1EBB /* Roboto-Italic.ttf */; };
-		53F92A9DDFC742BF813FF3A0 /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD7AAF612B374EEAA78C388E /* Roboto-MediumItalic.ttf */; };
-		556C9B66724E9273C3AF63BC /* libPods-keysign-keysignTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F83A1746642F3FB1D218676B /* libPods-keysign-keysignTests.a */; };
-		5B4F1357EAB74290B66BFD1F /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B22783C2B334441B3260E10 /* Roboto-Bold.ttf */; };
-		6F8BB9986FE642E0952515A1 /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4CE4048391F9427C89010C48 /* Roboto-BlackItalic.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		8BC6192C2004450194132E3A /* Roboto-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4E3335663A564121BF5AD609 /* Roboto-ThinItalic.ttf */; };
-		A38AF870725047919867C6C3 /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EF630A31E3CA4C19812EB475 /* Roboto-Thin.ttf */; };
-		BA8E92A828A858E8BC6671D3 /* libPods-keysign.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DC8B255952757BBE65CFB790 /* libPods-keysign.a */; };
-		EB4F8AF5A3C84144B45A5D2B /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 83A2F728A9CF49438DA8D8DE /* Roboto-Light.ttf */; };
+		A12138E0D439D9717D68CB20 /* libPods-keysign-keysignTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E60B2D1A9FC8F32E05EC11AB /* libPods-keysign-keysignTests.a */; };
+		E7FCA38D0A270A6AE0235123 /* libPods-keysign.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 13750C85D285E9500BA24A8C /* libPods-keysign.a */; };
+		FA8804D927D7626000104A21 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA8804CD27D7625F00104A21 /* Roboto-Medium.ttf */; };
+		FA8804DA27D7626000104A21 /* Roboto-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA8804CE27D7625F00104A21 /* Roboto-LightItalic.ttf */; };
+		FA8804DB27D7626000104A21 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA8804CF27D7625F00104A21 /* Roboto-Bold.ttf */; };
+		FA8804DC27D7626000104A21 /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA8804D027D7625F00104A21 /* Roboto-Thin.ttf */; };
+		FA8804DD27D7626000104A21 /* Roboto-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA8804D127D7625F00104A21 /* Roboto-ThinItalic.ttf */; };
+		FA8804DE27D7626000104A21 /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA8804D227D7625F00104A21 /* Roboto-BlackItalic.ttf */; };
+		FA8804DF27D7626000104A21 /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA8804D327D7625F00104A21 /* Roboto-Light.ttf */; };
+		FA8804E027D7626000104A21 /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA8804D427D7626000104A21 /* Roboto-MediumItalic.ttf */; };
+		FA8804E127D7626000104A21 /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA8804D527D7626000104A21 /* Roboto-BoldItalic.ttf */; };
+		FA8804E227D7626000104A21 /* Roboto-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA8804D627D7626000104A21 /* Roboto-Italic.ttf */; };
+		FA8804E327D7626000104A21 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA8804D727D7626000104A21 /* Roboto-Regular.ttf */; };
+		FA8804E427D7626000104A21 /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA8804D827D7626000104A21 /* Roboto-Black.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,32 +42,32 @@
 		00E356EE1AD99517003FC87E /* keysignTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = keysignTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* keysignTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = keysignTests.m; sourceTree = "<group>"; };
+		13750C85D285E9500BA24A8C /* libPods-keysign.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-keysign.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07F961A680F5B00A75B9A /* keysign.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = keysign.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = keysign/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = keysign/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = keysign/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = keysign/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = keysign/main.m; sourceTree = "<group>"; };
-		1D336C44ED168CEE73463BF4 /* Pods-keysign-keysignTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-keysign-keysignTests.release.xcconfig"; path = "Target Support Files/Pods-keysign-keysignTests/Pods-keysign-keysignTests.release.xcconfig"; sourceTree = "<group>"; };
-		36AC2A8C9B475668B33DE0AB /* Pods-keysign.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-keysign.release.xcconfig"; path = "Target Support Files/Pods-keysign/Pods-keysign.release.xcconfig"; sourceTree = "<group>"; };
-		4B22783C2B334441B3260E10 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Bold.ttf"; path = "../src/assets/fonts/Roboto-Bold.ttf"; sourceTree = "<group>"; };
-		4CE4048391F9427C89010C48 /* Roboto-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-BlackItalic.ttf"; path = "../src/assets/fonts/Roboto-BlackItalic.ttf"; sourceTree = "<group>"; };
-		4E3335663A564121BF5AD609 /* Roboto-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-ThinItalic.ttf"; path = "../src/assets/fonts/Roboto-ThinItalic.ttf"; sourceTree = "<group>"; };
-		507AEDC6801243DA82B7BEBA /* Roboto-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Black.ttf"; path = "../src/assets/fonts/Roboto-Black.ttf"; sourceTree = "<group>"; };
-		61B94195C0B145EAA8374834 /* Roboto-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-BoldItalic.ttf"; path = "../src/assets/fonts/Roboto-BoldItalic.ttf"; sourceTree = "<group>"; };
-		6FDA9677B4D3FBF483B12E4E /* Pods-keysign.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-keysign.debug.xcconfig"; path = "Target Support Files/Pods-keysign/Pods-keysign.debug.xcconfig"; sourceTree = "<group>"; };
+		5C297482E1F28D4528FDF1C0 /* Pods-keysign-keysignTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-keysign-keysignTests.debug.xcconfig"; path = "Target Support Files/Pods-keysign-keysignTests/Pods-keysign-keysignTests.debug.xcconfig"; sourceTree = "<group>"; };
+		807CC8ACE4AA25D0880F2C85 /* Pods-keysign.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-keysign.debug.xcconfig"; path = "Target Support Files/Pods-keysign/Pods-keysign.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = keysign/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		83A2F728A9CF49438DA8D8DE /* Roboto-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Light.ttf"; path = "../src/assets/fonts/Roboto-Light.ttf"; sourceTree = "<group>"; };
-		841A8865E1434F1DADCB1EBB /* Roboto-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Italic.ttf"; path = "../src/assets/fonts/Roboto-Italic.ttf"; sourceTree = "<group>"; };
-		85A2EE7D464A4CEB87B59D51 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Regular.ttf"; path = "../src/assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; };
-		8B7DE56A3FB74E2A990781FE /* Roboto-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Medium.ttf"; path = "../src/assets/fonts/Roboto-Medium.ttf"; sourceTree = "<group>"; };
-		BD7AAF612B374EEAA78C388E /* Roboto-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-MediumItalic.ttf"; path = "../src/assets/fonts/Roboto-MediumItalic.ttf"; sourceTree = "<group>"; };
-		C7B6B95C1DBCBD7581A38A58 /* Pods-keysign-keysignTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-keysign-keysignTests.debug.xcconfig"; path = "Target Support Files/Pods-keysign-keysignTests/Pods-keysign-keysignTests.debug.xcconfig"; sourceTree = "<group>"; };
-		DC8B255952757BBE65CFB790 /* libPods-keysign.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-keysign.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DDA202DE5F7A45598A0134E3 /* Roboto-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-LightItalic.ttf"; path = "../src/assets/fonts/Roboto-LightItalic.ttf"; sourceTree = "<group>"; };
+		BC8C10E27CB16CB384D147DC /* Pods-keysign-keysignTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-keysign-keysignTests.release.xcconfig"; path = "Target Support Files/Pods-keysign-keysignTests/Pods-keysign-keysignTests.release.xcconfig"; sourceTree = "<group>"; };
+		C38A996B0DC1B7B5F1EDE93A /* Pods-keysign.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-keysign.release.xcconfig"; path = "Target Support Files/Pods-keysign/Pods-keysign.release.xcconfig"; sourceTree = "<group>"; };
+		E60B2D1A9FC8F32E05EC11AB /* libPods-keysign-keysignTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-keysign-keysignTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		EF630A31E3CA4C19812EB475 /* Roboto-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Thin.ttf"; path = "../src/assets/fonts/Roboto-Thin.ttf"; sourceTree = "<group>"; };
-		F83A1746642F3FB1D218676B /* libPods-keysign-keysignTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-keysign-keysignTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA8804CD27D7625F00104A21 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Medium.ttf"; path = "../src/assets/fonts/Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		FA8804CE27D7625F00104A21 /* Roboto-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-LightItalic.ttf"; path = "../src/assets/fonts/Roboto-LightItalic.ttf"; sourceTree = "<group>"; };
+		FA8804CF27D7625F00104A21 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Bold.ttf"; path = "../src/assets/fonts/Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		FA8804D027D7625F00104A21 /* Roboto-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Thin.ttf"; path = "../src/assets/fonts/Roboto-Thin.ttf"; sourceTree = "<group>"; };
+		FA8804D127D7625F00104A21 /* Roboto-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-ThinItalic.ttf"; path = "../src/assets/fonts/Roboto-ThinItalic.ttf"; sourceTree = "<group>"; };
+		FA8804D227D7625F00104A21 /* Roboto-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-BlackItalic.ttf"; path = "../src/assets/fonts/Roboto-BlackItalic.ttf"; sourceTree = "<group>"; };
+		FA8804D327D7625F00104A21 /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Light.ttf"; path = "../src/assets/fonts/Roboto-Light.ttf"; sourceTree = "<group>"; };
+		FA8804D427D7626000104A21 /* Roboto-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-MediumItalic.ttf"; path = "../src/assets/fonts/Roboto-MediumItalic.ttf"; sourceTree = "<group>"; };
+		FA8804D527D7626000104A21 /* Roboto-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-BoldItalic.ttf"; path = "../src/assets/fonts/Roboto-BoldItalic.ttf"; sourceTree = "<group>"; };
+		FA8804D627D7626000104A21 /* Roboto-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Italic.ttf"; path = "../src/assets/fonts/Roboto-Italic.ttf"; sourceTree = "<group>"; };
+		FA8804D727D7626000104A21 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Regular.ttf"; path = "../src/assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		FA8804D827D7626000104A21 /* Roboto-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Black.ttf"; path = "../src/assets/fonts/Roboto-Black.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +75,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				556C9B66724E9273C3AF63BC /* libPods-keysign-keysignTests.a in Frameworks */,
+				A12138E0D439D9717D68CB20 /* libPods-keysign-keysignTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,7 +83,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BA8E92A828A858E8BC6671D3 /* libPods-keysign.a in Frameworks */,
+				E7FCA38D0A270A6AE0235123 /* libPods-keysign.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -120,25 +120,25 @@
 			name = keysign;
 			sourceTree = "<group>";
 		};
-		25C4F0D593860B9978E99396 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				6FDA9677B4D3FBF483B12E4E /* Pods-keysign.debug.xcconfig */,
-				36AC2A8C9B475668B33DE0AB /* Pods-keysign.release.xcconfig */,
-				C7B6B95C1DBCBD7581A38A58 /* Pods-keysign-keysignTests.debug.xcconfig */,
-				1D336C44ED168CEE73463BF4 /* Pods-keysign-keysignTests.release.xcconfig */,
-			);
-			path = Pods;
-			sourceTree = "<group>";
-		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				DC8B255952757BBE65CFB790 /* libPods-keysign.a */,
-				F83A1746642F3FB1D218676B /* libPods-keysign-keysignTests.a */,
+				13750C85D285E9500BA24A8C /* libPods-keysign.a */,
+				E60B2D1A9FC8F32E05EC11AB /* libPods-keysign-keysignTests.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		37920F84A0F2A44B111BC414 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				807CC8ACE4AA25D0880F2C85 /* Pods-keysign.debug.xcconfig */,
+				C38A996B0DC1B7B5F1EDE93A /* Pods-keysign.release.xcconfig */,
+				5C297482E1F28D4528FDF1C0 /* Pods-keysign-keysignTests.debug.xcconfig */,
+				BC8C10E27CB16CB384D147DC /* Pods-keysign-keysignTests.release.xcconfig */,
+			);
+			path = Pods;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -151,13 +151,13 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				FA8804CC27D7624000104A21 /* Resources */,
 				13B07FAE1A68108700A75B9A /* keysign */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* keysignTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
-				25C4F0D593860B9978E99396 /* Pods */,
-				AA2789B678154BC595B4EEC3 /* Resources */,
+				37920F84A0F2A44B111BC414 /* Pods */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -173,21 +173,21 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		AA2789B678154BC595B4EEC3 /* Resources */ = {
+		FA8804CC27D7624000104A21 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				507AEDC6801243DA82B7BEBA /* Roboto-Black.ttf */,
-				4CE4048391F9427C89010C48 /* Roboto-BlackItalic.ttf */,
-				4B22783C2B334441B3260E10 /* Roboto-Bold.ttf */,
-				61B94195C0B145EAA8374834 /* Roboto-BoldItalic.ttf */,
-				841A8865E1434F1DADCB1EBB /* Roboto-Italic.ttf */,
-				83A2F728A9CF49438DA8D8DE /* Roboto-Light.ttf */,
-				DDA202DE5F7A45598A0134E3 /* Roboto-LightItalic.ttf */,
-				8B7DE56A3FB74E2A990781FE /* Roboto-Medium.ttf */,
-				BD7AAF612B374EEAA78C388E /* Roboto-MediumItalic.ttf */,
-				85A2EE7D464A4CEB87B59D51 /* Roboto-Regular.ttf */,
-				EF630A31E3CA4C19812EB475 /* Roboto-Thin.ttf */,
-				4E3335663A564121BF5AD609 /* Roboto-ThinItalic.ttf */,
+				FA8804D827D7626000104A21 /* Roboto-Black.ttf */,
+				FA8804D227D7625F00104A21 /* Roboto-BlackItalic.ttf */,
+				FA8804CF27D7625F00104A21 /* Roboto-Bold.ttf */,
+				FA8804D527D7626000104A21 /* Roboto-BoldItalic.ttf */,
+				FA8804D627D7626000104A21 /* Roboto-Italic.ttf */,
+				FA8804D327D7625F00104A21 /* Roboto-Light.ttf */,
+				FA8804CE27D7625F00104A21 /* Roboto-LightItalic.ttf */,
+				FA8804CD27D7625F00104A21 /* Roboto-Medium.ttf */,
+				FA8804D427D7626000104A21 /* Roboto-MediumItalic.ttf */,
+				FA8804D727D7626000104A21 /* Roboto-Regular.ttf */,
+				FA8804D027D7625F00104A21 /* Roboto-Thin.ttf */,
+				FA8804D127D7625F00104A21 /* Roboto-ThinItalic.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -199,11 +199,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "keysignTests" */;
 			buildPhases = (
-				CC680681445AB3636C2EA5E2 /* [CP] Check Pods Manifest.lock */,
+				53D5430CEDF946F348367D0F /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				EFD3FD0DF3D2D0C8E9639714 /* [CP] Copy Pods Resources */,
+				C39A0602CCA691C9209F7C55 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -219,13 +219,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "keysign" */;
 			buildPhases = (
-				D8EC9386C6DDCD8BB2CC83A6 /* [CP] Check Pods Manifest.lock */,
+				F83310B30FF8110F261D5E04 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				2416B51C36C52325AECD1D1F /* [CP] Copy Pods Resources */,
+				B94D8BF1720F2EA0C8ACD6E6 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -285,19 +285,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				FA8804E227D7626000104A21 /* Roboto-Italic.ttf in Resources */,
+				FA8804E127D7626000104A21 /* Roboto-BoldItalic.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				3A949631C5314F5497062FAD /* Roboto-Black.ttf in Resources */,
-				6F8BB9986FE642E0952515A1 /* Roboto-BlackItalic.ttf in Resources */,
-				5B4F1357EAB74290B66BFD1F /* Roboto-Bold.ttf in Resources */,
-				0AA559DCF2C241839CD83373 /* Roboto-BoldItalic.ttf in Resources */,
-				46CACF783CAF4A58AC194DD5 /* Roboto-Italic.ttf in Resources */,
-				EB4F8AF5A3C84144B45A5D2B /* Roboto-Light.ttf in Resources */,
-				04B3C9F288494AE08B7CC5C7 /* Roboto-LightItalic.ttf in Resources */,
-				0F8902B0D2394A1C930804D1 /* Roboto-Medium.ttf in Resources */,
-				53F92A9DDFC742BF813FF3A0 /* Roboto-MediumItalic.ttf in Resources */,
-				01BC4A9A85D145FA83894171 /* Roboto-Regular.ttf in Resources */,
-				A38AF870725047919867C6C3 /* Roboto-Thin.ttf in Resources */,
-				8BC6192C2004450194132E3A /* Roboto-ThinItalic.ttf in Resources */,
+				FA8804DC27D7626000104A21 /* Roboto-Thin.ttf in Resources */,
+				FA8804DD27D7626000104A21 /* Roboto-ThinItalic.ttf in Resources */,
+				FA8804DB27D7626000104A21 /* Roboto-Bold.ttf in Resources */,
+				FA8804DA27D7626000104A21 /* Roboto-LightItalic.ttf in Resources */,
+				FA8804E027D7626000104A21 /* Roboto-MediumItalic.ttf in Resources */,
+				FA8804D927D7626000104A21 /* Roboto-Medium.ttf in Resources */,
+				FA8804E327D7626000104A21 /* Roboto-Regular.ttf in Resources */,
+				FA8804E427D7626000104A21 /* Roboto-Black.ttf in Resources */,
+				FA8804DE27D7626000104A21 /* Roboto-BlackItalic.ttf in Resources */,
+				FA8804DF27D7626000104A21 /* Roboto-Light.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -318,24 +318,7 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
 		};
-		2416B51C36C52325AECD1D1F /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-keysign/Pods-keysign-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-keysign/Pods-keysign-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-keysign/Pods-keysign-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		CC680681445AB3636C2EA5E2 /* [CP] Check Pods Manifest.lock */ = {
+		53D5430CEDF946F348367D0F /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -357,7 +340,41 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		D8EC9386C6DDCD8BB2CC83A6 /* [CP] Check Pods Manifest.lock */ = {
+		B94D8BF1720F2EA0C8ACD6E6 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-keysign/Pods-keysign-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-keysign/Pods-keysign-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-keysign/Pods-keysign-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C39A0602CCA691C9209F7C55 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-keysign-keysignTests/Pods-keysign-keysignTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-keysign-keysignTests/Pods-keysign-keysignTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-keysign-keysignTests/Pods-keysign-keysignTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F83310B30FF8110F261D5E04 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -377,23 +394,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		EFD3FD0DF3D2D0C8E9639714 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-keysign-keysignTests/Pods-keysign-keysignTests-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-keysign-keysignTests/Pods-keysign-keysignTests-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-keysign-keysignTests/Pods-keysign-keysignTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -448,7 +448,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C7B6B95C1DBCBD7581A38A58 /* Pods-keysign-keysignTests.debug.xcconfig */;
+			baseConfigurationReference = 5C297482E1F28D4528FDF1C0 /* Pods-keysign-keysignTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -475,7 +475,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1D336C44ED168CEE73463BF4 /* Pods-keysign-keysignTests.release.xcconfig */;
+			baseConfigurationReference = BC8C10E27CB16CB384D147DC /* Pods-keysign-keysignTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -499,20 +499,19 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6FDA9677B4D3FBF483B12E4E /* Pods-keysign.debug.xcconfig */;
+			baseConfigurationReference = 807CC8ACE4AA25D0880F2C85 /* Pods-keysign.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = G95SB8QDQA;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = keysign/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.0.4;
+				MARKETING_VERSION = 0.0.5;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -528,19 +527,18 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 36AC2A8C9B475668B33DE0AB /* Pods-keysign.release.xcconfig */;
+			baseConfigurationReference = C38A996B0DC1B7B5F1EDE93A /* Pods-keysign.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = G95SB8QDQA;
 				INFOPLIST_FILE = keysign/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 0.0.4;
+				MARKETING_VERSION = 0.0.5;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -586,7 +584,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "arm64 ";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -608,8 +606,8 @@
 					"$(inherited)",
 				);
 				LIBRARY_SEARCH_PATHS = (
+					"\"$(SDKROOT)/usr/lib/swift\"",
 					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
-					"\"$(TOOLCHAIN_DIR)/usr/lib/swift-5.0/$(PLATFORM_NAME)\"",
 					"\"$(inherited)\"",
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
@@ -651,7 +649,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "arm64 ";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -666,8 +664,8 @@
 					"$(inherited)",
 				);
 				LIBRARY_SEARCH_PATHS = (
+					"\"$(SDKROOT)/usr/lib/swift\"",
 					"\"$(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)\"",
-					"\"$(TOOLCHAIN_DIR)/usr/lib/swift-5.0/$(PLATFORM_NAME)\"",
 					"\"$(inherited)\"",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;

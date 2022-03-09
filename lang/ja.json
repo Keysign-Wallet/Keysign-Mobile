@@ -174,7 +174,7 @@
     "defaultMessage": "数字と文字しか入力できません"
   },
   "LiHQih": {
-    "defaultMessage": "近日公開"
+    "defaultMessage": "今すぐ取引"
   },
   "LwzY+Y": {
     "defaultMessage": "全データを削除"
@@ -186,7 +186,7 @@
     "defaultMessage": "インポートキー"
   },
   "Mq1ePl": {
-    "defaultMessage": "Keysign {version｝"
+    "defaultMessage": "Keysign {version}"
   },
   "NmZvub": {
     "defaultMessage": "空になってはいけません"
@@ -398,7 +398,7 @@
   "lr13V0": {
     "defaultMessage": "ホームへ戻る"
   },
- 　"m99RHg": {
+  "m99RHg": {
     "defaultMessage": "KEYSIGN"
   },
   "nuWwea": {

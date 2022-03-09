@@ -174,7 +174,7 @@
     "defaultMessage": "الأرقام والحروف فقط مسموحة"
   },
   "LiHQih": {
-    "defaultMessage": "قريبا"
+    "defaultMessage": "استبدل الان"
   },
   "LwzY+Y": {
     "defaultMessage": "مسح كافة البيانات"
@@ -255,7 +255,7 @@
     "defaultMessage": "اختر لغة"
   },
   "V5m11/": {
-    "defaultMessage": "يجب ألا يتجاوز مبلغ محفظتك {number, balance}"
+    "defaultMessage": "يجب ألا يتجاوز مبلغ محفظتك {balance, number}"
   },
   "VLTmsF": {
     "defaultMessage": "لا أصدقاء حتى الآن"

@@ -1,7 +1,9 @@
 import ar from './ar.json';
 import de from './de.json';
 import en from './en.json';
+import fr from './fr.json';
 import id from './id.json';
+import ja from './ja.json';
 import ko from './ko.json';
 import pt from './pt.json';
 import tr from './tr.json';
@@ -9,12 +11,12 @@ import zh from './zh.json';
 
 export const LOCALES = [
   {
-    label: 'Arabic',
+    label: 'عربي',
     value: 'ar',
     isRTL: true,
   },
   {
-    label: 'Chinese-Zh',
+    label: '中文-ZH',
     value: 'zh',
     isRTL: false,
   },
@@ -24,27 +26,37 @@ export const LOCALES = [
     isRTL: false,
   },
   {
-    label: 'German',
+    label: 'Français',
+    value: 'fr',
+    isRTL: false,
+  },
+  {
+    label: 'Deutsch',
     value: 'de',
     isRTL: false,
   },
   {
-    label: 'Indonesian',
+    label: 'Bahasa Indonesia',
     value: 'id',
     isRTL: false,
   },
   {
-    label: 'Korean',
+    label: '日本',
+    value: 'ja',
+    isRTL: false,
+  },
+  {
+    label: '한국어',
     value: 'ko',
     isRTL: false,
   },
   {
-    label: 'Portuguese',
+    label: 'Português',
     value: 'pt',
     isRTL: false,
   },
   {
-    label: 'Turkish',
+    label: 'Türk',
     value: 'tr',
     isRTL: false,
   },
@@ -64,8 +76,16 @@ export const MESSAGES = [
     value: en,
   },
   {
+    label: 'fr',
+    value: fr,
+  },
+  {
     label: 'id',
     value: id,
+  },
+  {
+    label: 'ja',
+    value: ja,
   },
   {
     label: 'ko',
