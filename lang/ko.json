@@ -174,7 +174,7 @@
     "defaultMessage": "숫자와 문자만 허용합니다"
   },
   "LiHQih": {
-    "defaultMessage": "곧 출시"
+    "defaultMessage": "지금 거래"
   },
   "LwzY+Y": {
     "defaultMessage": "모든 데이터 지우기"
@@ -196,9 +196,6 @@
   },
   "OTl3nO": {
     "defaultMessage": "Sync/Import/Export"
-  },
-  "OZSO9W": {
-    "defaultMessage": "64자 이상이어야 합니다!"
   },
   "Olyz0E": {
     "defaultMessage": "이 계정 번호에 해당되는 친구가 이미 존재합니다!"

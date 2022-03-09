@@ -2,37 +2,37 @@
   "+8S2CR": [
     {
       "type": 0,
-      "value": "IMPOR KUNCI"
+      "value": "IMPORTER LES CLÉS"
     }
   ],
   "+HZbUZ": [
     {
       "type": 0,
-      "value": "Mengunci Keysign secara otomatis saat mengunci perangkat."
+      "value": "Verrouillez automatiquement le Keysign lorsque l'appareil se verrouille."
     }
   ],
   "+S3qBX": [
     {
       "type": 0,
-      "value": "Verifikasi Gagal"
+      "value": "Échec de la vérification"
     }
   ],
   "+ZKTgk": [
     {
       "type": 0,
-      "value": "Paling sedikit 3 karakter!"
+      "value": "Doit contenir au moins 3 caractères!"
     }
   ],
   "+pD6+Y": [
     {
       "type": 0,
-      "value": "Memo (opsional)"
+      "value": "Note (facultatif)"
     }
   ],
   "/0TOL5": [
     {
       "type": 0,
-      "value": "Jumlah"
+      "value": "Montant"
     }
   ],
   "/HSJor": [
@@ -44,91 +44,91 @@
   "/X8qTz": [
     {
       "type": 0,
-      "value": "TNBCROW adalah komunitas trading P2P."
+      "value": "TNBCROW est une communauté commerciale P2P."
     }
   ],
   "/Yb8GH": [
     {
       "type": 0,
-      "value": "Keysign tidak memiliki/membawahi TNBCROW"
+      "value": "Keysign n'est pas propriétaire de TNBCROW"
     }
   ],
   "/uNyiO": [
     {
       "type": 0,
-      "value": "Kunci Otomatis"
+      "value": "Verrouillage automatique"
     }
   ],
   "0D+jgY": [
     {
       "type": 0,
-      "value": "Atur aset TNB, dan menghubungkan ke aplikasi TNB."
+      "value": "Gérez les ressources TNB et connectez-vous aux applications TNB."
     }
   ],
   "1Ojx58": [
     {
       "type": 0,
-      "value": "Saat mengimpor, hanya akun yang belum ada di instansi yang akan ditambahkan."
+      "value": "Lors de l'importation, seuls les comptes qui ne sont pas déjà présents sur l'instance seront ajoutés."
     }
   ],
   "2RenFV": [
     {
       "type": 0,
-      "value": "Tambah Bank"
+      "value": "Ajouter une banque"
     }
   ],
   "37OpDn": [
     {
       "type": 0,
-      "value": "Pilih satu Bank node"
+      "value": "Sélectionnez un nœud de banque"
     }
   ],
   "3mvL2Q": [
     {
       "type": 0,
-      "value": "dan"
+      "value": "et"
     }
   ],
   "3yk8fB": [
     {
       "type": 0,
-      "value": "Wallet"
+      "value": "Portefeuille"
     }
   ],
   "47FYwb": [
     {
       "type": 0,
-      "value": "Batal"
+      "value": "Annuler"
     }
   ],
   "4vjdwA": [
     {
       "type": 0,
-      "value": "Sinkronisasi Berhasil"
+      "value": "Synchronisation réussie"
     }
   ],
   "5TH8l7": [
     {
       "type": 0,
-      "value": "Pergi ke pengaturan > Sinkronisasi/Impor/Ekspor"
+      "value": "Accédez aux paramètres > Synchroniser/Importer/Exporter"
     }
   ],
   "5sg7KC": [
     {
       "type": 0,
-      "value": "Sandi"
+      "value": "Mot de passe"
     }
   ],
   "62nsdy": [
     {
       "type": 0,
-      "value": "Coba Lagi"
+      "value": "Retenter"
     }
   ],
   "6ERahF": [
     {
       "type": 0,
-      "value": "Dari "
+      "value": "De "
     },
     {
       "type": 1,
@@ -138,115 +138,115 @@
   "7cGKSL": [
     {
       "type": 0,
-      "value": "Koin Terkunci"
+      "value": "Pièces verrouillées"
     }
   ],
   "8ysmEn": [
     {
       "type": 0,
-      "value": "Buka Browser wallet anda"
+      "value": "Ouvrez votre portefeuille de navigateur"
     }
   ],
   "90axO4": [
     {
       "type": 0,
-      "value": "Trade"
+      "value": "Échanger"
     }
   ],
   "9QV9HO": [
     {
       "type": 0,
-      "value": "ATUR TNB"
+      "value": "GÉRER TNB"
     }
   ],
   "9WRlF4": [
     {
       "type": 0,
-      "value": "Kirim"
+      "value": "Envoyer"
     }
   ],
   "9XUYQt": [
     {
       "type": 0,
-      "value": "Impor"
+      "value": "Importer"
     }
   ],
   "A4nR/Y": [
     {
       "type": 0,
-      "value": "Keysign tidak bertanggung jawab atas layanan ini."
+      "value": "Keysign n'est pas responsable de ce service."
     }
   ],
   "AYrXQt": [
     {
       "type": 0,
-      "value": "Transfer Berhasil"
+      "value": "Transfert réussi"
     }
   ],
   "AaKEvg": [
     {
       "type": 0,
-      "value": "Tidak boleh lebih dari 64 karakter!"
+      "value": "Ne doit pas dépasser 64 caractères!"
     }
   ],
   "B97E6J": [
     {
       "type": 0,
-      "value": "Klik tombol “Sinkronisasi Perangkat Mobile”"
+      "value": "Cliquez sur le bouton “Synchroniser le mobile”"
     }
   ],
   "Bbkxom": [
     {
       "type": 0,
-      "value": "IDLE LOCK"
+      "value": "VERROUILLAGE INACTIF"
     }
   ],
   "CdmEya": [
     {
       "type": 0,
-      "value": "Verifikasi Jabat Tangan"
+      "value": "Vérification du Handshake"
     }
   ],
   "CpHRw1": [
     {
       "type": 0,
-      "value": "Transfer Gagal"
+      "value": "Échec du transfert"
     }
   ],
   "D3idYv": [
     {
       "type": 0,
-      "value": "Pengaturan"
+      "value": "Réglages"
     }
   ],
   "D3rOMr": [
     {
       "type": 0,
-      "value": "Tidak ada Data"
+      "value": "Pas de données"
     }
   ],
   "D5NqQO": [
     {
       "type": 0,
-      "value": "Memo"
+      "value": "Note"
     }
   ],
   "DMFF/H": [
     {
       "type": 0,
-      "value": "Sinskronisasi Gagal"
+      "value": "Échec de la synchronisation"
     }
   ],
   "DtYelJ": [
     {
       "type": 0,
-      "value": "Transfer"
+      "value": "Transfert"
     }
   ],
   "Duy+4J": [
     {
       "type": 0,
-      "value": "Biaya Validator: "
+      "value": "Frais de validateur: "
     },
     {
       "style": null,
@@ -257,127 +257,127 @@
   "Ev6SEF": [
     {
       "type": 0,
-      "value": "Sandi Baru"
+      "value": "Nouveau mot de passe"
     }
   ],
   "G8KMIa": [
     {
       "type": 0,
-      "value": "Selalu gunakan escrow, saat ini masih gratis."
+      "value": "Utilisez toujours un séquestre, ils sont actuellement gratuits."
     }
   ],
   "GAWz1j": [
     {
       "type": 0,
-      "value": "KUNCI PERANGKAT"
+      "value": "VERROUILLAGE DE L'APPAREIL"
     }
   ],
   "GZ/ORp": [
     {
       "type": 0,
-      "value": "Tidak boleh lebih dari 100 karakter!"
+      "value": "Ne doit pas dépasser 100 caractères!"
     }
   ],
   "GretYf": [
     {
       "type": 0,
-      "value": "Sandi saat ini"
+      "value": "Mot de passe actuel"
     }
   ],
   "GseaGh": [
     {
       "type": 0,
-      "value": "Kunci Keysign secara manual atau saat aplikasi ditutup."
+      "value": "Verrouillez le Keysign manuellement ou lorsque l'application est fermée."
     }
   ],
   "H4lIvd": [
     {
       "type": 0,
-      "value": "Bank default diatur oleh keysign."
+      "value": "La banque par défaut est définie par keysign."
     }
   ],
   "IPTyRk": [
     {
       "type": 0,
-      "value": "EKSPOR"
+      "value": "EXPORTER"
     }
   ],
   "Icxxne": [
     {
       "type": 0,
-      "value": "Anda bisa mengekspor semua kunci dengan enkripsi dalam satu file. Dengan ini anda bisa mengimpor kunci ke perangkat lain atau cukup menjaga kunci Anda."
+      "value": "Vous pouvez exporter toutes vos clés chiffrées dans un fichier. Cela vous permettra de les importer vers keysign sur un autre appareil ou simplement de les sauvegarder."
     }
   ],
   "IglYTF": [
     {
       "type": 0,
-      "value": "Paling sedikit 8 karakter!"
+      "value": "Doit contenir au moins 8 caractères!"
     }
   ],
   "IkSnjI": [
     {
       "type": 0,
-      "value": "Buat Wallet baru"
+      "value": "Générer un portefeuille"
     }
   ],
   "J4N5HW": [
     {
       "type": 0,
-      "value": "LANJUT"
+      "value": "CONTINUEZ"
     }
   ],
   "Jex29j": [
     {
       "type": 0,
-      "value": "Mengunci Keysign secara ototmatis setelah jendela aplikasi diam setelah beberapa menit."
+      "value": "Verrouillez automatiquement le Keysign après que la fenêtre de l'application est inactive pendant le nombre de minutes spécifié."
     }
   ],
   "KH/2zQ": [
     {
       "type": 0,
-      "value": "Transfer Dana"
+      "value": "Fonds de transfert"
     }
   ],
   "KN7zKn": [
     {
       "type": 0,
-      "value": "Error"
+      "value": "Erreur"
     }
   ],
   "KqpQmG": [
     {
       "type": 0,
-      "value": "Pilih Teman"
+      "value": "Sélectionnez un ami"
     }
   ],
   "LQhIrI": [
     {
       "type": 0,
-      "value": "Hanya angka dan huruf yang diperbolehkan"
+      "value": "Seuls les chiffres et les lettres sont autorisés"
     }
   ],
   "LiHQih": [
     {
       "type": 0,
-      "value": "Berdagang Sekarang"
+      "value": "Échangeons maintenant"
     }
   ],
   "LwzY+Y": [
     {
       "type": 0,
-      "value": "Hapus Semua Data"
+      "value": "Effacer toutes les données"
     }
   ],
   "MEVZgX": [
     {
       "type": 0,
-      "value": "Scan QR code untuk memulai SINKRONISASI"
+      "value": "Scannez le code QR Pour lancer la SYNCHRONISATION"
     }
   ],
   "MODFAR": [
     {
       "type": 0,
-      "value": "Impor Kunci"
+      "value": "Importer des clés"
     }
   ],
   "Mq1ePl": [
@@ -393,115 +393,115 @@
   "NmZvub": [
     {
       "type": 0,
-      "value": "Tidak boleh kosong"
+      "value": "Ne doit pas être vide"
     }
   ],
   "O8gaYk": [
     {
       "type": 0,
-      "value": "Kirim Scan"
+      "value": "Envoyer du scan"
     }
   ],
   "OTl3nO": [
     {
       "type": 0,
-      "value": "Sinkronisasi/Impor/Ekspor"
+      "value": "Synchroniser/Importer/Exporter"
     }
   ],
   "Olyz0E": [
     {
       "type": 0,
-      "value": "Sudah ada Teman dengan nomer akun ini!"
+      "value": "Un ami avec ce numéro de compte existe déjà!"
     }
   ],
   "Oua4RH": [
     {
       "type": 0,
-      "value": "Diterima dari:"
+      "value": "Reçu de:"
     }
   ],
   "P5ynDZ": [
     {
       "type": 0,
-      "value": "Sinkronisasi Scan"
+      "value": "Scan synchronisé"
     }
   ],
   "PCSt5T": [
     {
       "type": 0,
-      "value": "Preferensi"
+      "value": "Préférences"
     }
   ],
   "PJE8pF": [
     {
       "type": 0,
-      "value": "Tunjukkan Biaya"
+      "value": "Afficher les frais"
     }
   ],
   "Pswssl": [
     {
       "type": 0,
-      "value": "Konfirmasi"
+      "value": "Confirmation"
     }
   ],
   "QbCyGW": [
     {
       "type": 0,
-      "value": "Simpel, ringan, dan terjamin. Mulai berkoneksi atau buat TNB Wallet Anda."
+      "value": "Simple, léger et sécurisé. Commencez à vous connecter ou à créer votre portefeuille TNB."
     }
   ],
   "QiKKFz": [
     {
       "type": 0,
-      "value": "Ubah Sandi"
+      "value": "Changer le mot de passe"
     }
   ],
   "QrSVSd": [
     {
       "type": 0,
-      "value": "Handshake Transfer"
+      "value": "Transfert du Handshake"
     }
   ],
   "QzD37S": [
     {
       "type": 0,
-      "value": "Paling sedikit 64 karakter!"
+      "value": "Doit contenir au moins 64 caractères!"
     }
   ],
   "R/WihK": [
     {
       "type": 0,
-      "value": "KIRIM"
+      "value": "SOUMETTRE"
     }
   ],
   "ROlscS": [
     {
       "type": 0,
-      "value": "Tambahkan BANK node Anda di sini:"
+      "value": "Ajoutez votre nœud de BANQUE ici:"
     }
   ],
   "S8ZlY6": [
     {
       "type": 0,
-      "value": "SIMPAN"
+      "value": "SAUVEGARDER"
     }
   ],
   "SVVSmw": [
     {
       "type": 0,
-      "value": "Scan Error"
+      "value": "Erreur du scan"
     }
   ],
   "SYy/Mr": [
     {
       "type": 0,
-      "value": "Kata Sandi yang diberikan salah"
+      "value": "Mot de passe fourni incorrect"
     }
   ],
   "Sw5Z2S": [
     {
       "type": 0,
-      "value": "TAMBAHKAN BANK"
+      "value": "AJOUTER UNE BANQUE"
     }
   ],
   "TO4Vzt": [
@@ -513,19 +513,19 @@
   "Tvsi2s": [
     {
       "type": 0,
-      "value": "KIRIM"
+      "value": "ENVOYER"
     }
   ],
   "UeNAXN": [
     {
       "type": 0,
-      "value": "Pilih Bahasa"
+      "value": "Choisir une langue"
     }
   ],
   "V5m11/": [
     {
       "type": 0,
-      "value": "Tidak boleh melebihi jumlah Wallet anda "
+      "value": "Ne doit pas dépasser le montant de votre portefeuille "
     },
     {
       "style": null,
@@ -536,43 +536,43 @@
   "VLTmsF": [
     {
       "type": 0,
-      "value": "Belum Memiliki Teman"
+      "value": "Pas encore d'amis"
     }
   ],
   "W47yNx": [
     {
       "type": 0,
-      "value": "Total koin"
+      "value": "Pièces totales"
     }
   ],
   "WLBY1S": [
     {
       "type": 0,
-      "value": "Atur Teman"
+      "value": "Gérer les amis"
     }
   ],
   "WXRfPz": [
     {
       "type": 0,
-      "value": "Langkah untuk sinkronisasi wallet anda"
+      "value": "Étapes pour synchroniser vos portefeuilles"
     }
   ],
   "XCnG27": [
     {
       "type": 0,
-      "value": "Aplikasi Keysign mobile dibuat untuk bekerja dengan"
+      "value": "L'application mobile Keysign a été créée pour fonctionner avec"
     }
   ],
   "XMYlZD": [
     {
       "type": 0,
-      "value": "Wallet Saya"
+      "value": "Mon portefeuille"
     }
   ],
   "XYtt8J": [
     {
       "type": 0,
-      "value": "Nama Wallet"
+      "value": "Nom du portefeuille"
     }
   ],
   "XcCIUg": [
@@ -584,61 +584,61 @@
   "Y3rADe": [
     {
       "type": 0,
-      "value": "Masukkan Sandi Anda."
+      "value": "Entrez votre mot de passe sans aucune personne autour."
     }
   ],
   "YTIVDO": [
     {
       "type": 0,
-      "value": "Bank Node"
+      "value": "Nœud de banque"
     }
   ],
   "YpQLBX": [
     {
       "type": 0,
-      "value": "Wallets berhasil diekspor"
+      "value": "Les portefeuilles ont été exportés avec succès"
     }
   ],
   "Yuklh3": [
     {
       "type": 0,
-      "value": "BUAT WALLET BARU"
+      "value": "GÉNÉRER PORTEFEUILLE"
     }
   ],
   "Z7oS9I": [
     {
       "type": 0,
-      "value": "Tidak ada Wallet"
+      "value": "Pas de portefeuille"
     }
   ],
   "ZHM9r2": [
     {
       "type": 0,
-      "value": "TAMBAHKAN TEMAN"
+      "value": "AJOUTER UN AMI"
     }
   ],
   "Ze/AG8": [
     {
       "type": 0,
-      "value": "BUAT BARU"
+      "value": "GÉNÉRER"
     }
   ],
   "ZhHaEw": [
     {
       "type": 0,
-      "value": "Ke Nomer Akun"
+      "value": "Au numéro de compte"
     }
   ],
   "a5msuh": [
     {
       "type": 0,
-      "value": "Ya"
+      "value": "Oui"
     }
   ],
   "aCVoQT": [
     {
       "type": 0,
-      "value": "Biaya Bank: "
+      "value": "Frais bancaires: "
     },
     {
       "style": null,
@@ -649,103 +649,103 @@
   "b7SVXM": [
     {
       "type": 0,
-      "value": "Atur Wallet"
+      "value": "Gérer le portefeuille"
     }
   ],
   "c0vVbD": [
     {
       "type": 0,
-      "value": "MASUK"
+      "value": "S'IDENTIFIER"
     }
   ],
   "c2hHXM": [
     {
       "type": 0,
-      "value": "Wallets berhasil diimpor"
+      "value": "Les portefeuilles ont été importés avec succès"
     }
   ],
   "c5g9Rt": [
     {
       "type": 0,
-      "value": "HAPUS TEMAN"
+      "value": "SUPPRIMER AMI"
     }
   ],
   "ceW3ER": [
     {
       "type": 0,
-      "value": "KONFIRMASI"
+      "value": "CONFIRMER"
     }
   ],
   "clx9/J": [
     {
       "type": 0,
-      "value": "DEFAULT"
+      "value": "DÉFAUT"
     }
   ],
   "dChb0Y": [
     {
       "type": 0,
-      "value": "Scan QR code"
+      "value": "Scannez le code QR"
     }
   ],
   "dGroal": [
     {
       "type": 0,
-      "value": "RIWAYAT"
+      "value": "HISTOIRE"
     }
   ],
   "djJp6c": [
     {
       "type": 0,
-      "value": "Riwayat"
+      "value": "Histoire"
     }
   ],
   "e2W5iK": [
     {
       "type": 0,
-      "value": "Kirim ke:"
+      "value": "Envoyer à:"
     }
   ],
   "ejEGdx": [
     {
       "type": 0,
-      "value": "Home"
+      "value": "Accueil"
     }
   ],
   "fG1IZC": [
     {
       "type": 0,
-      "value": "Anda akan dibawa ke komunitas discord."
+      "value": "Vous serez envoyé vers une communauté Discord."
     }
   ],
   "fMaoRo": [
     {
       "type": 0,
-      "value": "Anda yakin ingin menghapus Teman ini?"
+      "value": "Êtes-vous sûr de vouloir supprimer cet ami?"
     }
   ],
   "fS+jdZ": [
     {
       "type": 0,
-      "value": "Anda yakin ingin menghapus wallet ini?"
+      "value": "Êtes-vous sûr de vouloir supprimer ce portefeuille?"
     }
   ],
   "gjBiyj": [
     {
       "type": 0,
-      "value": "Sedang Memuat..."
+      "value": "Chargement..."
     }
   ],
   "gvr0wo": [
     {
       "type": 0,
-      "value": "SINKRONISASI WALLET"
+      "value": "SYNCHRONISER LE PORTEFEUILLE"
     }
   ],
   "h/ftND": [
     {
       "type": 0,
-      "value": "Pilih file"
+      "value": "Choisissez un fichier"
     }
   ],
   "h2vipu": [
@@ -757,67 +757,67 @@
   "hHk8xH": [
     {
       "type": 0,
-      "value": "Trade di TNBCROW"
+      "value": "Échanger sur TNBCROW"
     }
   ],
   "hqv+qJ": [
     {
       "type": 0,
-      "value": "Untuk menambah bank baru, klik TAMBAH BANK di menu dropdown."
+      "value": "Pour ajouter une nouvelle banque, cliquez sur AJOUTER UNE BANQUE dans la liste déroulante."
     }
   ],
   "iIX2t1": [
     {
       "type": 0,
-      "value": "Tidak dapat memilih file"
+      "value": "Impossible de sélectionner le fichier"
     }
   ],
   "iKDTfl": [
     {
       "type": 0,
-      "value": "Nama Teman"
+      "value": "Nom de l'ami"
     }
   ],
   "iKt39A": [
     {
       "type": 0,
-      "value": "Anda yakin ingin menghapus bank ini?"
+      "value": "Êtes-vous sûr de vouloir enlever cette banque?"
     }
   ],
   "iUzlyp": [
     {
       "type": 0,
-      "value": "HAPUS WALLET"
+      "value": "SUPPRIMER LE PORTEFEUILLE"
     }
   ],
   "iotsqr": [
     {
       "type": 0,
-      "value": "Verifikasi Berhasil"
+      "value": "Vérification réussie"
     }
   ],
   "jsy7pk": [
     {
       "type": 0,
-      "value": "Coba Lagi"
+      "value": "Essayer à nouveau"
     }
   ],
   "kQAf2d": [
     {
       "type": 0,
-      "value": "Pilih"
+      "value": "Sélectionner"
     }
   ],
   "l0jKdB": [
     {
       "type": 0,
-      "value": "Tambah Teman"
+      "value": "Ajouter un ami"
     }
   ],
   "lr13V0": [
     {
       "type": 0,
-      "value": "Ke Laman Utama"
+      "value": "Aller vers Accueil"
     }
   ],
   "m99RHg": [
@@ -829,163 +829,163 @@
   "nuWwea": [
     {
       "type": 0,
-      "value": "Login gagal"
+      "value": "Échec de la connexion"
     }
   ],
   "oEli2v": [
     {
       "type": 0,
-      "value": "Dikembangkan dan Didesain oleh"
+      "value": "Il a été développé et conçu par"
     }
   ],
   "oUWADl": [
     {
       "type": 0,
-      "value": "Tidak"
+      "value": "Non"
     }
   ],
   "orLknm": [
     {
       "type": 0,
-      "value": "Scan"
+      "value": "Scanner"
     }
   ],
   "p556q3": [
     {
       "type": 0,
-      "value": "Sudah dikopi"
+      "value": "Copié"
     }
   ],
   "pb93i7": [
     {
       "type": 0,
-      "value": "NB; Proses ini tidak dapat dibatalkan."
+      "value": "NB ; Ça ne peut pas être annulé."
     }
   ],
   "pvIJw6": [
     {
       "type": 0,
-      "value": "Sandi harus sama!"
+      "value": "Les deux mots de passe doivent correspondre !"
     }
   ],
   "q4RWBX": [
     {
       "type": 0,
-      "value": "MULAI"
+      "value": "COMMENCER"
     }
   ],
   "qZbedW": [
     {
       "type": 0,
-      "value": "Biaya"
+      "value": "Frais"
     }
   ],
   "qp2cDY": [
     {
       "type": 0,
-      "value": "Atur Wallet"
+      "value": "Gérer les portefeuilles"
     }
   ],
   "qzy/q1": [
     {
       "type": 0,
-      "value": "Lupa Sandi ?"
+      "value": "Mot de passe oublié ?"
     }
   ],
   "rV/x4O": [
     {
       "type": 0,
-      "value": "Jika Anda lupa Sandi anda, Anda bisa menghapus data anda, namun Anda harus memasukkan lagi semua kunci anda."
+      "value": "Si vous avez oublié votre mot de passe, vous pouvez effacer vos données mais devrez saisir à nouveau toutes vos clés."
     }
   ],
   "ruJlSX": [
     {
       "type": 0,
-      "value": "LANJUT"
+      "value": "SUIVANT"
     }
   ],
   "t401lQ": [
     {
       "type": 0,
-      "value": "IMPOR"
+      "value": "IMPORTER"
     }
   ],
   "umg69G": [
     {
       "type": 0,
-      "value": "Tambah Wallet"
+      "value": "Ajouter un portefeuille"
     }
   ],
   "v3gr+l": [
     {
       "type": 0,
-      "value": "GUNAKAN ACCN/SIGNIN"
+      "value": "UTILISER COMPTE/SE CONNECTER"
     }
   ],
   "vV2G6z": [
     {
       "type": 0,
-      "value": "Nomor Akun"
+      "value": "Numéro de compte"
     }
   ],
   "vfG+nh": [
     {
       "type": 0,
-      "value": "Konfirmasi Sandi"
+      "value": "Confirmez le mot de passe"
     }
   ],
   "vrMPql": [
     {
       "type": 0,
-      "value": "TNB WALLET"
+      "value": "PORTEFEUILLE TNB"
     }
   ],
   "wdOQAC": [
     {
       "type": 0,
-      "value": "Tentang Keysign"
+      "value": "À propos de Keysign"
     }
   ],
   "xQ6aNc": [
     {
       "type": 0,
-      "value": "Buat Sandi"
+      "value": "Créer un mot de passe"
     }
   ],
   "xedgjh": [
     {
       "type": 0,
-      "value": "Tidak boleh lebih dari 12 karakter!"
+      "value": "Ne doit pas dépasser 12 caractères!"
     }
   ],
   "xrKHS6": [
     {
       "type": 0,
-      "value": "Berhasil"
+      "value": "Succès"
     }
   ],
   "xuxczX": [
     {
       "type": 0,
-      "value": "Perangkat gagal untuk scan"
+      "value": "L'appareil n'a pas pu scanner"
     }
   ],
   "yJgJcp": [
     {
       "type": 0,
-      "value": "Keysign adalah platform terbaik untuk mengakses TNB wallet anda di blockchain."
+      "value": "Keysign est le meilleur moyen d'accéder à votre portefeuille TNB sur la chaîne."
     }
   ],
   "yc5XUr": [
     {
       "type": 0,
-      "value": "Gunakan Acc/Signkey"
+      "value": "Utiliser Acc/Signkey"
     }
   ],
   "yd1dFh": [
     {
       "type": 0,
-      "value": "Signing Key"
+      "value": "Clé de signature"
     }
   ],
   "z7Siok": [

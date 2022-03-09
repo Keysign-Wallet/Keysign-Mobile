@@ -1,6 +1,6 @@
 {
   "+8S2CR": {
-    "defaultMessage": "MASUKKAN KUNCI"
+    "defaultMessage": "IMPOR KUNCI"
   },
   "+HZbUZ": {
     "defaultMessage": "Mengunci Keysign secara otomatis saat mengunci perangkat."
@@ -9,7 +9,7 @@
     "defaultMessage": "Verifikasi Gagal"
   },
   "+ZKTgk": {
-    "defaultMessage": "Must be at least 3 characters!"
+    "defaultMessage": "Paling sedikit 3 karakter!"
   },
   "+pD6+Y": {
     "defaultMessage": "Memo (opsional)"
@@ -33,13 +33,13 @@
     "defaultMessage": "Atur aset TNB, dan menghubungkan ke aplikasi TNB."
   },
   "1Ojx58": {
-    "defaultMessage": "When importing, only accounts that are not already present on the instance will be added."
+    "defaultMessage": "Saat mengimpor, hanya akun yang belum ada di instansi yang akan ditambahkan."
   },
   "2RenFV": {
-    "defaultMessage": "Add Bank"
+    "defaultMessage": "Tambah Bank"
   },
   "37OpDn": {
-    "defaultMessage": "Pilih node Bank"
+    "defaultMessage": "Pilih satu Bank node"
   },
   "3mvL2Q": {
     "defaultMessage": "dan"
@@ -48,13 +48,13 @@
     "defaultMessage": "Wallet"
   },
   "47FYwb": {
-    "defaultMessage": "Batalkan"
+    "defaultMessage": "Batal"
   },
   "4vjdwA": {
     "defaultMessage": "Sinkronisasi Berhasil"
   },
   "5TH8l7": {
-    "defaultMessage": "Pergi ke Pengaturan > Sinkronisasi/Impor/Ekspor"
+    "defaultMessage": "Pergi ke pengaturan > Sinkronisasi/Impor/Ekspor"
   },
   "5sg7KC": {
     "defaultMessage": "Sandi"
@@ -66,7 +66,7 @@
     "defaultMessage": "Dari {name}"
   },
   "7cGKSL": {
-    "defaultMessage": "Koin terkunci"
+    "defaultMessage": "Koin Terkunci"
   },
   "8ysmEn": {
     "defaultMessage": "Buka Browser wallet anda"
@@ -114,7 +114,7 @@
     "defaultMessage": "Memo"
   },
   "DMFF/H": {
-    "defaultMessage": "Sinkronisasi Gagal"
+    "defaultMessage": "Sinskronisasi Gagal"
   },
   "DtYelJ": {
     "defaultMessage": "Transfer"
@@ -174,7 +174,7 @@
     "defaultMessage": "Hanya angka dan huruf yang diperbolehkan"
   },
   "LiHQih": {
-    "defaultMessage": "Segera Hadir"
+    "defaultMessage": "Berdagang Sekarang"
   },
   "LwzY+Y": {
     "defaultMessage": "Hapus Semua Data"
@@ -195,10 +195,7 @@
     "defaultMessage": "Kirim Scan"
   },
   "OTl3nO": {
-    "defaultMessage": "Sync/Import/Export"
-  },
-  "OZSO9W": {
-    "defaultMessage": "Paling sedikit 64 karakter!"
+    "defaultMessage": "Sinkronisasi/Impor/Ekspor"
   },
   "Olyz0E": {
     "defaultMessage": "Sudah ada Teman dengan nomer akun ini!"
@@ -228,7 +225,7 @@
     "defaultMessage": "Handshake Transfer"
   },
   "QzD37S": {
-    "defaultMessage": "Must be at least 64 characters!"
+    "defaultMessage": "Paling sedikit 64 karakter!"
   },
   "R/WihK": {
     "defaultMessage": "KIRIM"
@@ -246,22 +243,22 @@
     "defaultMessage": "Kata Sandi yang diberikan salah"
   },
   "Sw5Z2S": {
-    "defaultMessage": "TAMBAH BANK"
+    "defaultMessage": "TAMBAHKAN BANK"
   },
   "TO4Vzt": {
     "defaultMessage": "TheNewBoston Blockchain"
   },
   "Tvsi2s": {
-    "defaultMessage": "SEND"
+    "defaultMessage": "KIRIM"
   },
   "UeNAXN": {
     "defaultMessage": "Pilih Bahasa"
   },
   "V5m11/": {
-    "defaultMessage": "Must not exceed your wallet amount {balance, number}"
+    "defaultMessage": "Tidak boleh melebihi jumlah Wallet anda {balance, number}"
   },
   "VLTmsF": {
-    "defaultMessage": "Anda belum memiliki Teman"
+    "defaultMessage": "Belum Memiliki Teman"
   },
   "W47yNx": {
     "defaultMessage": "Total koin"
@@ -336,10 +333,10 @@
     "defaultMessage": "Scan QR code"
   },
   "dGroal": {
-    "defaultMessage": "HISTORY"
+    "defaultMessage": "RIWAYAT"
   },
   "djJp6c": {
-    "defaultMessage": "History"
+    "defaultMessage": "Riwayat"
   },
   "e2W5iK": {
     "defaultMessage": "Kirim ke:"
@@ -408,7 +405,7 @@
     "defaultMessage": "Login gagal"
   },
   "oEli2v": {
-    "defaultMessage": "Dikembangkan dan Didesain oleh keduanya"
+    "defaultMessage": "Dikembangkan dan Didesain oleh"
   },
   "oUWADl": {
     "defaultMessage": "Tidak"
@@ -423,7 +420,7 @@
     "defaultMessage": "Proses ini tidak dapat dibatalkan."
   },
   "pvIJw6": {
-    "defaultMessage": "Kedua Sandi harus sama!"
+    "defaultMessage": "Sandi harus sama!"
   },
   "q4RWBX": {
     "defaultMessage": "MULAI"
@@ -447,7 +444,7 @@
     "defaultMessage": "IMPOR"
   },
   "umg69G": {
-    "defaultMessage": "Tambahkan Wallet"
+    "defaultMessage": "Tambah Wallet"
   },
   "v3gr+l": {
     "defaultMessage": "GUNAKAN ACCN/SIGNIN"

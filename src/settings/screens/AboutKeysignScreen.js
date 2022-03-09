@@ -20,7 +20,7 @@ const AboutKeysignScreen = () => {
         <Text style={styles.keysignVer}>
           <FormattedMessage
             defaultMessage="Keysign {version}"
-            values={{version: '0.0.4'}}
+            values={{version: '0.0.5'}}
           />
         </Text>
         <Text style={styles.para}>

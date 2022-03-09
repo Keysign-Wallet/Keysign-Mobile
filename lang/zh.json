@@ -174,7 +174,7 @@
     "defaultMessage": "只允许数字和字母"
   },
   "LiHQih": {
-    "defaultMessage": "即将推出"
+    "defaultMessage": "立即交易"
   },
   "LwzY+Y": {
     "defaultMessage": "清除所有数据"
@@ -196,9 +196,6 @@
   },
   "OTl3nO": {
     "defaultMessage": "Sync/Import/Export"
-  },
-  "OZSO9W": {
-    "defaultMessage": "必须至少 64 个字符！"
   },
   "Olyz0E": {
     "defaultMessage": "该账号的好友已经存在！"

@@ -359,7 +359,7 @@
   "LiHQih": [
     {
       "type": 0,
-      "value": "Yakında gelecek"
+      "value": "Şimdi Ticaret Yap"
     }
   ],
   "LwzY+Y": [
@@ -386,8 +386,7 @@
       "value": "Keysign "
     },
     {
-      "style": null,
-      "type": 2,
+      "type": 1,
       "value": "version"
     }
   ],
@@ -407,12 +406,6 @@
     {
       "type": 0,
       "value": "Sync/Import/Export"
-    }
-  ],
-  "OZSO9W": [
-    {
-      "type": 0,
-      "value": "En az 64 karakter olmalıdır!"
     }
   ],
   "Olyz0E": [

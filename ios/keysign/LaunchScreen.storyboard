@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
-    <device id="retina4_7" orientation="portrait" appearance="light"/>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_5" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -11,27 +12,29 @@
         <!--View Controller-->
         <scene sceneID="EHf-IW-A2E">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController id="01J-lp-oVM" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Splash" translatesAutoresizingMaskIntoConstraints="NO" id="pmC-0C-P6q">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Splash" translatesAutoresizingMaskIntoConstraints="NO" id="GhZ-m8-5zh">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                             </imageView>
                         </subviews>
+                        <viewLayoutGuide key="safeArea" id="Llg-aZ-4xE"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstAttribute="trailing" secondItem="pmC-0C-P6q" secondAttribute="trailing" id="1wb-LN-IU8"/>
-                            <constraint firstItem="pmC-0C-P6q" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="2db-XV-eAQ"/>
-                            <constraint firstAttribute="bottom" secondItem="pmC-0C-P6q" secondAttribute="bottom" id="ZHA-3P-aea"/>
-                            <constraint firstItem="pmC-0C-P6q" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="lvJ-mK-UnG"/>
+                            <constraint firstItem="GhZ-m8-5zh" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="2kH-Mc-Xff"/>
+                            <constraint firstAttribute="bottom" secondItem="GhZ-m8-5zh" secondAttribute="bottom" id="Jfj-AY-O3R"/>
+                            <constraint firstAttribute="trailing" secondItem="GhZ-m8-5zh" secondAttribute="trailing" id="STK-Ar-wbU"/>
+                            <constraint firstItem="GhZ-m8-5zh" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="pi5-oq-cru"/>
+                            <constraint firstItem="GhZ-m8-5zh" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="v2y-VD-WM2"/>
                         </constraints>
                     </view>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="52" y="374.66266866566718"/>
+            <point key="canvasLocation" x="52.173913043478265" y="375"/>
         </scene>
     </scenes>
     <resources>

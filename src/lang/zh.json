@@ -359,7 +359,7 @@
   "LiHQih": [
     {
       "type": 0,
-      "value": "即将推出"
+      "value": "立即交易"
     }
   ],
   "LwzY+Y": [
@@ -386,8 +386,7 @@
       "value": "Keysign "
     },
     {
-      "style": null,
-      "type": 2,
+      "type": 1,
       "value": "version"
     }
   ],
@@ -407,12 +406,6 @@
     {
       "type": 0,
       "value": "Sync/Import/Export"
-    }
-  ],
-  "OZSO9W": [
-    {
-      "type": 0,
-      "value": "必须至少 64 个字符！"
     }
   ],
   "Olyz0E": [

@@ -1,0 +1,488 @@
+{
+  "+8S2CR": {
+    "defaultMessage": "IMPORTER LES CLÉS"
+  },
+  "+HZbUZ": {
+    "defaultMessage": "Verrouillez automatiquement le Keysign lorsque l'appareil se verrouille."
+  },
+  "+S3qBX": {
+    "defaultMessage": "Échec de la vérification"
+  },
+  "+ZKTgk": {
+    "defaultMessage": "Doit contenir au moins 3 caractères!"
+  },
+  "+pD6+Y": {
+    "defaultMessage": "Note (facultatif)"
+  },
+  "/0TOL5": {
+    "defaultMessage": "Montant"
+  },
+  "/HSJor": {
+    "defaultMessage": "MrSky"
+  },
+  "/X8qTz": {
+    "defaultMessage": "TNBCROW est une communauté commerciale P2P."
+  },
+  "/Yb8GH": {
+    "defaultMessage": "Keysign n'est pas propriétaire de TNBCROW"
+  },
+  "/uNyiO": {
+    "defaultMessage": "Verrouillage automatique"
+  },
+  "0D+jgY": {
+    "defaultMessage": "Gérez les ressources TNB et connectez-vous aux applications TNB."
+  },
+  "1Ojx58": {
+    "defaultMessage": "Lors de l'importation, seuls les comptes qui ne sont pas déjà présents sur l'instance seront ajoutés."
+  },
+  "2RenFV": {
+    "defaultMessage": "Ajouter une banque"
+  },
+  "37OpDn": {
+    "defaultMessage": "Sélectionnez un nœud de banque"
+  },
+  "3mvL2Q": {
+    "defaultMessage": "et"
+  },
+  "3yk8fB": {
+    "defaultMessage": "Portefeuille"
+  },
+  "47FYwb": {
+    "defaultMessage": "Annuler"
+  },
+  "4vjdwA": {
+    "defaultMessage": "Synchronisation réussie"
+  },
+  "5TH8l7": {
+    "defaultMessage": "Accédez aux paramètres > Synchroniser/Importer/Exporter"
+  },
+  "5sg7KC": {
+    "defaultMessage": "Mot de passe"
+  },
+  "62nsdy": {
+    "defaultMessage": "Retenter"
+  },
+  "6ERahF": {
+    "defaultMessage": "De {name}"
+  },
+  "7cGKSL": {
+    "defaultMessage": "Pièces verrouillées"
+  },
+  "8ysmEn": {
+    "defaultMessage": "Ouvrez votre portefeuille de navigateur"
+  },
+  "90axO4": {
+    "defaultMessage": "Échanger"
+  },
+  "9QV9HO": {
+    "defaultMessage": "GÉRER TNB"
+  },
+  "9WRlF4": {
+    "defaultMessage": "Envoyer"
+  },
+  "9XUYQt": {
+    "defaultMessage": "Importer"
+  },
+  "A4nR/Y": {
+    "defaultMessage": "Keysign n'est pas responsable de ce service."
+  },
+  "AYrXQt": {
+    "defaultMessage": "Transfert réussi"
+  },
+  "AaKEvg": {
+    "defaultMessage": "Ne doit pas dépasser 64 caractères!"
+  },
+  "B97E6J": {
+    "defaultMessage": "Cliquez sur le bouton “Synchroniser le mobile”"
+  },
+  "Bbkxom": {
+    "defaultMessage": "VERROUILLAGE INACTIF"
+  },
+  "CdmEya": {
+    "defaultMessage": "Vérification du Handshake"
+  },
+  "CpHRw1": {
+    "defaultMessage": "Échec du transfert"
+  },
+  "D3idYv": {
+    "defaultMessage": "Réglages"
+  },
+  "D3rOMr": {
+    "defaultMessage": "Pas de données"
+  },
+  "D5NqQO": {
+    "defaultMessage": "Note"
+  },
+  "DMFF/H": {
+    "defaultMessage": "Échec de la synchronisation"
+  },
+  "DtYelJ": {
+    "defaultMessage": "Transfert"
+  },
+  "Duy+4J": {
+    "defaultMessage": "Frais de validateur: {amount, number}"
+  },
+  "Ev6SEF": {
+    "defaultMessage": "Nouveau mot de passe"
+  },
+  "G8KMIa": {
+    "defaultMessage": "Utilisez toujours un séquestre, ils sont actuellement gratuits."
+  },
+  "GAWz1j": {
+    "defaultMessage": "VERROUILLAGE DE L'APPAREIL"
+  },
+  "GZ/ORp": {
+    "defaultMessage": "Ne doit pas dépasser 100 caractères!"
+  },
+  "GretYf": {
+    "defaultMessage": "Mot de passe actuel"
+  },
+  "GseaGh": {
+    "defaultMessage": "Verrouillez le Keysign manuellement ou lorsque l'application est fermée."
+  },
+  "H4lIvd": {
+    "defaultMessage": "La banque par défaut est définie par keysign."
+  },
+  "IPTyRk": {
+    "defaultMessage": "EXPORTER"
+  },
+  "Icxxne": {
+    "defaultMessage": "Vous pouvez exporter toutes vos clés chiffrées dans un fichier. Cela vous permettra de les importer vers keysign sur un autre appareil ou simplement de les sauvegarder."
+  },
+  "IglYTF": {
+    "defaultMessage": "Doit contenir au moins 8 caractères!"
+  },
+  "IkSnjI": {
+    "defaultMessage": "Générer un portefeuille"
+  },
+  "J4N5HW": {
+    "defaultMessage": "CONTINUEZ"
+  },
+  "Jex29j": {
+    "defaultMessage": "Verrouillez automatiquement le Keysign après que la fenêtre de l'application est inactive pendant le nombre de minutes spécifié."
+  },
+  "KH/2zQ": {
+    "defaultMessage": "Fonds de transfert"
+  },
+  "KN7zKn": {
+    "defaultMessage": "Erreur"
+  },
+  "KqpQmG": {
+    "defaultMessage": "Sélectionnez un ami"
+  },
+  "LQhIrI": {
+    "defaultMessage": "Seuls les chiffres et les lettres sont autorisés"
+  },
+  "LiHQih": {
+    "defaultMessage": "Échangeons maintenant"
+  },
+  "LwzY+Y": {
+    "defaultMessage": "Effacer toutes les données"
+  },
+  "MEVZgX": {
+    "defaultMessage": "Scannez le code QR Pour lancer la SYNCHRONISATION"
+  },
+  "MODFAR": {
+    "defaultMessage": "Importer des clés"
+  },
+  "Mq1ePl": {
+    "defaultMessage": "Keysign {version}"
+  },
+  "NmZvub": {
+    "defaultMessage": "Ne doit pas être vide"
+  },
+  "O8gaYk": {
+    "defaultMessage": "Envoyer du scan"
+  },
+  "OTl3nO": {
+    "defaultMessage": "Synchroniser/Importer/Exporter"
+  },
+  "Olyz0E": {
+    "defaultMessage": "Un ami avec ce numéro de compte existe déjà!"
+  },
+  "Oua4RH": {
+    "defaultMessage": "Reçu de:"
+  },
+  "P5ynDZ": {
+    "defaultMessage": "Scan synchronisé"
+  },
+  "PCSt5T": {
+    "defaultMessage": "Préférences"
+  },
+  "PJE8pF": {
+    "defaultMessage": "Afficher les frais"
+  },
+  "Pswssl": {
+    "defaultMessage": "Confirmation"
+  },
+  "QbCyGW": {
+    "defaultMessage": "Simple, léger et sécurisé. Commencez à vous connecter ou à créer votre portefeuille TNB."
+  },
+  "QiKKFz": {
+    "defaultMessage": "Changer le mot de passe"
+  },
+  "QrSVSd": {
+    "defaultMessage": "Transfert du Handshake"
+  },
+  "QzD37S": {
+    "defaultMessage": "Doit contenir au moins 64 caractères!"
+  },
+  "R/WihK": {
+    "defaultMessage": "SOUMETTRE"
+  },
+  "ROlscS": {
+    "defaultMessage": "Ajoutez votre nœud de BANQUE ici:"
+  },
+  "S8ZlY6": {
+    "defaultMessage": "SAUVEGARDER"
+  },
+  "SVVSmw": {
+    "defaultMessage": "Erreur du scan"
+  },
+  "SYy/Mr": {
+    "defaultMessage": "Mot de passe fourni incorrect"
+  },
+  "Sw5Z2S": {
+    "defaultMessage": "AJOUTER UNE BANQUE"
+  },
+  "TO4Vzt": {
+    "defaultMessage": "TheNewBoston Blockchain"
+  },
+  "Tvsi2s": {
+    "defaultMessage": "ENVOYER"
+  },
+  "UeNAXN": {
+    "defaultMessage": "Choisir une langue"
+  },
+  "V5m11/": {
+    "defaultMessage": "Ne doit pas dépasser le montant de votre portefeuille {balance, number}"
+  },
+  "VLTmsF": {
+    "defaultMessage": "Pas encore d'amis"
+  },
+  "W47yNx": {
+    "defaultMessage": "Pièces totales"
+  },
+  "WLBY1S": {
+    "defaultMessage": "Gérer les amis"
+  },
+  "WXRfPz": {
+    "defaultMessage": "Étapes pour synchroniser vos portefeuilles"
+  },
+  "XCnG27": {
+    "defaultMessage": "L'application mobile Keysign a été créée pour fonctionner avec"
+  },
+  "XMYlZD": {
+    "defaultMessage": "Mon portefeuille"
+  },
+  "XYtt8J": {
+    "defaultMessage": "Nom du portefeuille"
+  },
+  "XcCIUg": {
+    "defaultMessage": "Keysign"
+  },
+  "Y3rADe": {
+    "defaultMessage": "Entrez votre mot de passe sans aucune personne autour."
+  },
+  "YTIVDO": {
+    "defaultMessage": "Nœud de banque"
+  },
+  "YpQLBX": {
+    "defaultMessage": "Les portefeuilles ont été exportés avec succès"
+  },
+  "Yuklh3": {
+    "defaultMessage": "GÉNÉRER PORTEFEUILLE"
+  },
+  "Z7oS9I": {
+    "defaultMessage": "Pas de portefeuille"
+  },
+  "ZHM9r2": {
+    "defaultMessage": "AJOUTER UN AMI"
+  },
+  "Ze/AG8": {
+    "defaultMessage": "GÉNÉRER"
+  },
+  "ZhHaEw": {
+    "defaultMessage": "Au numéro de compte"
+  },
+  "a5msuh": {
+    "defaultMessage": "Oui"
+  },
+  "aCVoQT": {
+    "defaultMessage": "Frais bancaires: {amount, number}"
+  },
+  "b7SVXM": {
+    "defaultMessage": "Gérer le portefeuille"
+  },
+  "c0vVbD": {
+    "defaultMessage": "S'IDENTIFIER"
+  },
+  "c2hHXM": {
+    "defaultMessage": "Les portefeuilles ont été importés avec succès"
+  },
+  "c5g9Rt": {
+    "defaultMessage": "SUPPRIMER AMI"
+  },
+  "ceW3ER": {
+    "defaultMessage": "CONFIRMER"
+  },
+  "clx9/J": {
+    "defaultMessage": "DÉFAUT"
+  },
+  "dChb0Y": {
+    "defaultMessage": "Scannez le code QR"
+  },
+  "dGroal": {
+    "defaultMessage": "HISTOIRE"
+  },
+  "djJp6c": {
+    "defaultMessage": "Histoire"
+  },
+  "e2W5iK": {
+    "defaultMessage": "Envoyer à:"
+  },
+  "ejEGdx": {
+    "defaultMessage": "Accueil"
+  },
+  "fG1IZC": {
+    "defaultMessage": "Vous serez envoyé vers une communauté Discord."
+  },
+  "fMaoRo": {
+    "defaultMessage": "Êtes-vous sûr de vouloir supprimer cet ami?"
+  },
+  "fS+jdZ": {
+    "defaultMessage": "Êtes-vous sûr de vouloir supprimer ce portefeuille?"
+  },
+  "gjBiyj": {
+    "defaultMessage": "Chargement..."
+  },
+  "gvr0wo": {
+    "defaultMessage": "SYNCHRONISER LE PORTEFEUILLE"
+  },
+  "h/ftND": {
+    "defaultMessage": "Choisissez un fichier"
+  },
+  "h2vipu": {
+    "defaultMessage": "Code"
+  },
+  "hHk8xH": {
+    "defaultMessage": "Échanger sur TNBCROW"
+  },
+  "hqv+qJ": {
+    "defaultMessage": "Pour ajouter une nouvelle banque, cliquez sur AJOUTER UNE BANQUE dans la liste déroulante."
+  },
+  "iIX2t1": {
+    "defaultMessage": "Impossible de sélectionner le fichier"
+  },
+  "iKDTfl": {
+    "defaultMessage": "Nom de l'ami"
+  },
+  "iKt39A": {
+    "defaultMessage": "Êtes-vous sûr de vouloir enlever cette banque?"
+  },
+  "iUzlyp": {
+    "defaultMessage": "SUPPRIMER LE PORTEFEUILLE"
+  },
+  "iotsqr": {
+    "defaultMessage": "Vérification réussie"
+  },
+  "jsy7pk": {
+    "defaultMessage": "Essayer à nouveau"
+  },
+  "kQAf2d": {
+    "defaultMessage": "Sélectionner"
+  },
+  "l0jKdB": {
+    "defaultMessage": "Ajouter un ami"
+  },
+  "lr13V0": {
+    "defaultMessage": "Aller vers Accueil"
+  },
+  "m99RHg": {
+    "defaultMessage": "KEYSIGN"
+  },
+  "nuWwea": {
+    "defaultMessage": "Échec de la connexion"
+  },
+  "oEli2v": {
+    "defaultMessage": "Il a été développé et conçu par"
+  },
+  "oUWADl": {
+    "defaultMessage": "Non"
+  },
+  "orLknm": {
+    "defaultMessage": "Scanner"
+  },
+  "p556q3": {
+    "defaultMessage": "Copié"
+  },
+  "pb93i7": {
+    "defaultMessage": "NB ; Ça ne peut pas être annulé."
+  },
+  "pvIJw6": {
+    "defaultMessage": "Les deux mots de passe doivent correspondre !"
+  },
+  "q4RWBX": {
+    "defaultMessage": "COMMENCER"
+  },
+  "qZbedW": {
+    "defaultMessage": "Frais"
+  },
+  "qp2cDY": {
+    "defaultMessage": "Gérer les portefeuilles"
+  },
+  "qzy/q1": {
+    "defaultMessage": "Mot de passe oublié ?"
+  },
+  "rV/x4O": {
+    "defaultMessage": "Si vous avez oublié votre mot de passe, vous pouvez effacer vos données mais devrez saisir à nouveau toutes vos clés."
+  },
+  "ruJlSX": {
+    "defaultMessage": "SUIVANT"
+  },
+  "t401lQ": {
+    "defaultMessage": "IMPORTER"
+  },
+  "umg69G": {
+    "defaultMessage": "Ajouter un portefeuille"
+  },
+  "v3gr+l": {
+    "defaultMessage": "UTILISER COMPTE/SE CONNECTER"
+  },
+  "vV2G6z": {
+    "defaultMessage": "Numéro de compte"
+  },
+  "vfG+nh": {
+    "defaultMessage": "Confirmez le mot de passe"
+  },
+  "vrMPql": {
+    "defaultMessage": "PORTEFEUILLE TNB"
+  },
+  "wdOQAC": {
+    "defaultMessage": "À propos de Keysign"
+  },
+  "xQ6aNc": {
+    "defaultMessage": "Créer un mot de passe"
+  },
+  "xedgjh": {
+    "defaultMessage": "Ne doit pas dépasser 12 caractères!"
+  },
+  "xrKHS6": {
+    "defaultMessage": "Succès"
+  },
+  "xuxczX": {
+    "defaultMessage": "L'appareil n'a pas pu scanner"
+  },
+  "yJgJcp": {
+    "defaultMessage": "Keysign est le meilleur moyen d'accéder à votre portefeuille TNB sur la chaîne."
+  },
+  "yc5XUr": {
+    "defaultMessage": "Utiliser Acc/Signkey"
+  },
+  "yd1dFh": {
+    "defaultMessage": "Clé de signature"
+  },
+  "z7Siok": {
+    "defaultMessage": "Abhay."
+  }
+}

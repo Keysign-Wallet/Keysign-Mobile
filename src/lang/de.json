@@ -20,7 +20,7 @@
   "+ZKTgk": [
     {
       "type": 0,
-      "value": "Must be at least 3 characters!"
+      "value": "Mindestens 3 Zeichen"
     }
   ],
   "+pD6+Y": [
@@ -62,19 +62,19 @@
   "0D+jgY": [
     {
       "type": 0,
-      "value": "Verwalte TNB Guthaben, und verbinde dich mit TNB Applikationen."
+      "value": "Verwalte TNB Guthaben und verbinde dich mit TNB Applikationen."
     }
   ],
   "1Ojx58": [
     {
       "type": 0,
-      "value": "When importing, only accounts that are not already present on the instance will be added."
+      "value": "Es werden nur Konten importiert die auf dem Gerät noch nicht existieren."
     }
   ],
   "2RenFV": [
     {
       "type": 0,
-      "value": "Add Bank"
+      "value": "Bank hinzufügen"
     }
   ],
   "37OpDn": [
@@ -359,7 +359,7 @@
   "LiHQih": [
     {
       "type": 0,
-      "value": "In Kürze"
+      "value": "Handel jetzt"
     }
   ],
   "LwzY+Y": [
@@ -386,8 +386,7 @@
       "value": "Keysign "
     },
     {
-      "style": null,
-      "type": 2,
+      "type": 1,
       "value": "version"
     }
   ],
@@ -407,12 +406,6 @@
     {
       "type": 0,
       "value": "Sync/Import/Export"
-    }
-  ],
-  "OZSO9W": [
-    {
-      "type": 0,
-      "value": "Mindestens 64 Zeichen!"
     }
   ],
   "Olyz0E": [
@@ -472,7 +465,7 @@
   "QzD37S": [
     {
       "type": 0,
-      "value": "Must be at least 64 characters!"
+      "value": "Mindestens 64 Zeichen!"
     }
   ],
   "R/WihK": [
@@ -484,7 +477,7 @@
   "ROlscS": [
     {
       "type": 0,
-      "value": "Füge deine Bankverbindung hier hinzu:"
+      "value": "Füge hier deine Bankverbindung hinzu:"
     }
   ],
   "S8ZlY6": [
@@ -520,7 +513,7 @@
   "Tvsi2s": [
     {
       "type": 0,
-      "value": "SEND"
+      "value": "SENDEN"
     }
   ],
   "UeNAXN": [
@@ -532,7 +525,7 @@
   "V5m11/": [
     {
       "type": 0,
-      "value": "Must not exceed your wallet amount "
+      "value": "Darf das Wallet Guthaben nicht übersteigen "
     },
     {
       "style": null,
@@ -698,7 +691,7 @@
   "dGroal": [
     {
       "type": 0,
-      "value": "HISTORY"
+      "value": "VERLAUF"
     }
   ],
   "djJp6c": [
@@ -716,7 +709,7 @@
   "ejEGdx": [
     {
       "type": 0,
-      "value": "Anfang"
+      "value": "Start"
     }
   ],
   "fG1IZC": [
@@ -770,7 +763,7 @@
   "hqv+qJ": [
     {
       "type": 0,
-      "value": "Klicke auf BANK HINZUFÜGEN im Dropdownmenü um eine Bank hinzuzufügen."
+      "value": "Klicke auf BANK HINZUFÜGEN im Dropdown Menü um eine Bank hinzuzufügen."
     }
   ],
   "iIX2t1": [
@@ -824,7 +817,7 @@
   "lr13V0": [
     {
       "type": 0,
-      "value": "Gehe zum Anfang"
+      "value": "Gehe zum Start"
     }
   ],
   "m99RHg": [
@@ -842,7 +835,7 @@
   "oEli2v": [
     {
       "type": 0,
-      "value": "Wurde von beiden entwickelt und designt"
+      "value": "Wurde entwickelt und designt von "
     }
   ],
   "oUWADl": [
@@ -902,7 +895,7 @@
   "rV/x4O": [
     {
       "type": 0,
-      "value": "Wenn du dein Passwort vergessen hast, kannst du deine Daten löschen. Danach müssen alle Keys jedoch neu eingegeben werden"
+      "value": "Wenn du dein Passwort vergessen hast, kannst du deine Daten löschen. Danach müssen alle Keys jedoch neu eingegeben werden."
     }
   ],
   "ruJlSX": [

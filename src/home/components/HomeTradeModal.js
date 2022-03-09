@@ -1,6 +1,6 @@
 import React from 'react';
 import Modal from 'react-native-modal';
-import {StyleSheet} from 'react-native';
+import {Alert, Linking, StyleSheet} from 'react-native';
 import {FormattedMessage} from 'react-intl';
 
 import ListBulletIcon from '../../assets/icons/list-bullet.svg';
@@ -8,6 +8,17 @@ import {Button, Card, Text, View} from '../../common';
 import * as Colors from '../../config/colors';
 
 const HomeTradeModal = ({visible, onCancel}) => {
+  const _handleOpenTradeNow = async () => {
+    const url = 'https://discord.com/invite/K965xhfZde';
+
+    try {
+      await Linking.openURL(url);
+      onCancel();
+    } catch (e) {
+      Alert.alert(`Error: ${e.message}`);
+    }
+  };
+
   return (
     <Modal
       isVisible={visible}
@@ -49,9 +60,9 @@ const HomeTradeModal = ({visible, onCancel}) => {
         </View>
         <Button
           type="light"
-          title={<FormattedMessage defaultMessage="Coming Soon" />}
+          title={<FormattedMessage defaultMessage="Trade Now" />}
           style={styles.comingSoonBtn}
-          onPress={onCancel}
+          onPress={_handleOpenTradeNow}
         />
       </Card>
     </Modal>

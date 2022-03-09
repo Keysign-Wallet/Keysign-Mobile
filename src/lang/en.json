@@ -359,7 +359,7 @@
   "LiHQih": [
     {
       "type": 0,
-      "value": "Coming Soon"
+      "value": "Trade Now"
     }
   ],
   "LwzY+Y": [
@@ -386,8 +386,7 @@
       "value": "Keysign "
     },
     {
-      "style": null,
-      "type": 2,
+      "type": 1,
       "value": "version"
     }
   ],
