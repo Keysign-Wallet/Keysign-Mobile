@@ -49,7 +49,7 @@ const WalletDetails = ({wallet}) => {
     return (
       <>
         <Text style={styles.userNameTxt}>{userName}</Text>
-        <Text style={styles.balance}>{intl.formatNumber(balance)} TNBC</Text>
+        <Text style={styles.balance}>{intl.formatNumber(balance)} LEAP</Text>
         <View style={styles.inputContainer}>
           <TextInput
             label={<FormattedMessage defaultMessage="Account Number" />}

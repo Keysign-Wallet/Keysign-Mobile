@@ -21,16 +21,16 @@
     "defaultMessage": "MrSky"
   },
   "/X8qTz": {
-    "defaultMessage": "TNBCROW는 P2P 거래 커뮤니티입니다.."
+    "defaultMessage": "LEAPCROW는 P2P 거래 커뮤니티입니다.."
   },
   "/Yb8GH": {
-    "defaultMessage": "TNBCROW는 Keysign의 소유가 아닙니다."
+    "defaultMessage": "LEAPCROW는 Keysign의 소유가 아닙니다."
   },
   "/uNyiO": {
     "defaultMessage": "자동 잠금"
   },
   "0D+jgY": {
-    "defaultMessage": "TNB 자산을 관리하고 TNB 애플리케이션으로 연결됩니다."
+    "defaultMessage": "LEAP 자산을 관리하고 LEAP 애플리케이션으로 연결됩니다."
   },
   "1Ojx58": {
     "defaultMessage": "When importing, only accounts that are not already present on the instance will be added."
@@ -75,7 +75,7 @@
     "defaultMessage": "거래"
   },
   "9QV9HO": {
-    "defaultMessage": "TNB관리"
+    "defaultMessage": "LEAP관리"
   },
   "9WRlF4": {
     "defaultMessage": "보내기"
@@ -216,7 +216,7 @@
     "defaultMessage": "확인"
   },
   "QbCyGW": {
-    "defaultMessage": "간단하고 가볍고 안전합니다. 연결을 시도하거나 TNB 지갑을 만드세요."
+    "defaultMessage": "간단하고 가볍고 안전합니다. 연결을 시도하거나 LEAP 지갑을 만드세요."
   },
   "QiKKFz": {
     "defaultMessage": "비밀번호 변경"
@@ -366,7 +366,7 @@
     "defaultMessage": "코드"
   },
   "hHk8xH": {
-    "defaultMessage": "TNBCROW에서 거래하기"
+    "defaultMessage": "LEAPCROW에서 거래하기"
   },
   "hqv+qJ": {
     "defaultMessage": "새 은행을 추가하려면 드롭 다운 목록에서 은행 추가를 클릭하세요."
@@ -456,7 +456,7 @@
     "defaultMessage": "비밀번호 확인"
   },
   "vrMPql": {
-    "defaultMessage": "TNB 지갑"
+    "defaultMessage": "LEAP 지갑"
   },
   "wdOQAC": {
     "defaultMessage": "Keysign에 관하여"
@@ -474,7 +474,7 @@
     "defaultMessage": "장치가 스캔에 실패하였습니다."
   },
   "yJgJcp": {
-    "defaultMessage": "Keysign은 체인에서 TNB 지갑에 액세스하는 가장 좋은 방식입니다."
+    "defaultMessage": "Keysign은 체인에서 LEAP 지갑에 액세스하는 가장 좋은 방식입니다."
   },
   "yc5XUr": {
     "defaultMessage": "Acc/Signkey 사용"

@@ -26,7 +26,7 @@ const AboutKeysignScreen = () => {
         <Text style={styles.para}>
           <FormattedMessage defaultMessage="Keysign mobile application was created to work with" />{' '}
           <Text style={styles.link}>
-            <FormattedMessage defaultMessage="TheNewBoston Blockchain" />
+            <FormattedMessage defaultMessage="LEAPCHAIN Blockchain" />
           </Text>
         </Text>
         <Text style={styles.para}>

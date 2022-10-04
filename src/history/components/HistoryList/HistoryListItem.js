@@ -28,7 +28,7 @@ const HistoryListItem = ({transaction, walletId}) => {
       <View flex={1}>
         <View style={styles.amountContainer}>
           <Text style={styles.amountTxt}>
-            TNBC {transactionType === 'deposit' ? '+' : '-'}
+            LEAP {transactionType === 'deposit' ? '+' : '-'}
             <FormattedNumber value={amount} />
           </Text>
           <Text style={styles.commonTxt}>

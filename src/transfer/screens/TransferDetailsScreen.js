@@ -71,11 +71,11 @@ const TransferDetailsScreen = ({
         />
         <TransferDetailsItem
           title={<FormattedMessage defaultMessage="Amount" />}
-          description={`${intl.formatNumber(amount)} TNBC`}
+          description={`${intl.formatNumber(amount)} LEAP`}
         />
         <TransferDetailsItem
           title={<FormattedMessage defaultMessage="Fees" />}
-          description={`${intl.formatNumber(totalFee)} TNBC`}
+          description={`${intl.formatNumber(totalFee)} LEAP`}
         />
         {memo ? (
           <TransferDetailsItem

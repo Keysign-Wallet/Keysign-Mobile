@@ -7,7 +7,7 @@ Putting Wallet keys directly into websites is not safe or secure.
 
 On some blockchains, you never have to enter your wallet keys into apps or websites at all, you can just use an app, which websites/apps can interface with to securely store your keys and broadcast transactions to the blockchain.
 
-Keysign aims to bring security and ease-of-use to thenewboston platform.
+Keysign aims to bring security and ease-of-use to LEAPCHAIN platform.
 
 ## Installation
 

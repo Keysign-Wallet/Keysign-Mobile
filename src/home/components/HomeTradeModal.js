@@ -26,12 +26,12 @@ const HomeTradeModal = ({visible, onCancel}) => {
       onBackdropPress={onCancel}>
       <Card style={styles.show}>
         <Text style={styles.title}>
-          <FormattedMessage defaultMessage="Trade on TNBCROW" />
+          <FormattedMessage defaultMessage="Trade on LEAPCROW" />
         </Text>
         <View style={styles.stepContainer}>
           <ListBulletIcon />
           <Text style={styles.step}>
-            <FormattedMessage defaultMessage="Keysign does not own TNBCROW" />
+            <FormattedMessage defaultMessage="Keysign does not own LEAPCROW" />
           </Text>
         </View>
         <View style={styles.stepContainer}>
@@ -43,7 +43,7 @@ const HomeTradeModal = ({visible, onCancel}) => {
         <View style={styles.stepContainer}>
           <ListBulletIcon />
           <Text style={styles.step}>
-            <FormattedMessage defaultMessage="TNBCROW is a P2P trading community." />
+            <FormattedMessage defaultMessage="LEAPCROW is a P2P trading community." />
           </Text>
         </View>
         <View style={styles.stepContainer}>

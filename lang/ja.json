@@ -21,16 +21,16 @@
     "defaultMessage": "ミスタースカイ"
   },
   "/X8qTz": {
-    "defaultMessage": "TNBCROWはP2Pトレーディング・コミュニティーです。"
+    "defaultMessage": "LEAPCROWはP2Pトレーディング・コミュニティーです。"
   },
   "/Yb8GH": {
-    "defaultMessage": "KeysignはTNBCROWを所有していません。"
+    "defaultMessage": "KeysignはLEAPCROWを所有していません。"
   },
   "/uNyiO": {
     "defaultMessage": "自動でロックする"
   },
   "0D+jgY": {
-    "defaultMessage": "TNBの資産を管理し、TNBのアプリケーションに接続します。"
+    "defaultMessage": "LEAPの資産を管理し、LEAPのアプリケーションに接続します。"
   },
   "1Ojx58": {
     "defaultMessage": "インポート時には、まだ実態として存在していないアカウントのみが追加されます。"
@@ -75,7 +75,7 @@
     "defaultMessage": "トレード"
   },
   "9QV9HO": {
-    "defaultMessage": "TNBを管理する"
+    "defaultMessage": "LEAPを管理する"
   },
   "9WRlF4": {
     "defaultMessage": "送信"
@@ -216,7 +216,7 @@
     "defaultMessage": "確認画面"
   },
   "QbCyGW": {
-    "defaultMessage": "シンプルで軽量、そして安全です。TNBウォレットへの接続または作成を開始しましょう。"
+    "defaultMessage": "シンプルで軽量、そして安全です。LEAPウォレットへの接続または作成を開始しましょう。"
   },
   "QiKKFz": {
     "defaultMessage": "パスワードの変更"
@@ -246,7 +246,7 @@
     "defaultMessage": "銀行の追加"
   },
   "TO4Vzt": {
-    "defaultMessage": "TheNewBostonブロックチェーン"
+    "defaultMessage": "LEAPCHAINブロックチェーン"
   },
   "Tvsi2s": {
     "defaultMessage": "送信"
@@ -366,7 +366,7 @@
     "defaultMessage": "コード"
   },
   "hHk8xH": {
-    "defaultMessage": "TNBCROWでトレード"
+    "defaultMessage": "LEAPCROWでトレード"
   },
   "hqv+qJ": {
     "defaultMessage": "新しい銀行を追加するには、ドロップダウンの「銀行の追加」をクリックしてください。"
@@ -456,7 +456,7 @@
     "defaultMessage": "パスワードの確認"
   },
   "vrMPql": {
-    "defaultMessage": "TNBウォレット"
+    "defaultMessage": "LEAPウォレット"
   },
   "wdOQAC": {
     "defaultMessage": "Keysignについて"
@@ -474,7 +474,7 @@
     "defaultMessage": "デバイスのスキャンに失敗しました"
   },
   "yJgJcp": {
-    "defaultMessage": "チェーン上のTNBウォレットにアクセスするには、Keysignがぴったりです"
+    "defaultMessage": "チェーン上のLEAPウォレットにアクセスするには、Keysignがぴったりです"
   },
   "yc5XUr": {
     "defaultMessage": "Acc/Signkey を使う"

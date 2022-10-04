@@ -21,16 +21,16 @@
     "defaultMessage": "MrSky"
   },
   "/X8qTz": {
-    "defaultMessage": "TNBCROW é uma comunidade de trocas no formato P2P. "
+    "defaultMessage": "LEAPCROW é uma comunidade de trocas no formato P2P. "
   },
   "/Yb8GH": {
-    "defaultMessage": "Keysign não possui a TNBCROW"
+    "defaultMessage": "Keysign não possui a LEAPCROW"
   },
   "/uNyiO": {
     "defaultMessage": "Bloqueio Automático"
   },
   "0D+jgY": {
-    "defaultMessage": "Gerencie os TNB assets, e conecte-se às aplicações TNB. "
+    "defaultMessage": "Gerencie os LEAP assets, e conecte-se às aplicações LEAP. "
   },
   "1Ojx58": {
     "defaultMessage": "Quando estiver importando, apenas contas que não estão já presentes na instância serão adicionadas."
@@ -75,7 +75,7 @@
     "defaultMessage": "Trocar"
   },
   "9QV9HO": {
-    "defaultMessage": "GERENCIAR TNB"
+    "defaultMessage": "GERENCIAR LEAP"
   },
   "9WRlF4": {
     "defaultMessage": "Enviar"
@@ -216,7 +216,7 @@
     "defaultMessage": "Confirmação"
   },
   "QbCyGW": {
-    "defaultMessage": "Simples, leve e seguro. Comece a conectar ou criar sua TNB Wallet. "
+    "defaultMessage": "Simples, leve e seguro. Comece a conectar ou criar sua LEAP Wallet. "
   },
   "QiKKFz": {
     "defaultMessage": "Mudar Senha"
@@ -246,7 +246,7 @@
     "defaultMessage": "ADICIONAR BANK"
   },
   "TO4Vzt": {
-    "defaultMessage": "TheNewBoston Blockchain"
+    "defaultMessage": "LEAPCHAIN Blockchain"
   },
   "Tvsi2s": {
     "defaultMessage": "ENVIAR"
@@ -366,7 +366,7 @@
     "defaultMessage": "Código"
   },
   "hHk8xH": {
-    "defaultMessage": "Trocar no TNBCROW"
+    "defaultMessage": "Trocar no LEAPCROW"
   },
   "hqv+qJ": {
     "defaultMessage": "Para adicionar um novo bank, clique em ADD BANK no menu suspenso. "
@@ -456,7 +456,7 @@
     "defaultMessage": "Confirmar Senha"
   },
   "vrMPql": {
-    "defaultMessage": "TNB WALLET"
+    "defaultMessage": "LEAP WALLET"
   },
   "wdOQAC": {
     "defaultMessage": "Sobre a Keysign"
@@ -474,7 +474,7 @@
     "defaultMessage": "O Dispositivo falhou ao escanear"
   },
   "yJgJcp": {
-    "defaultMessage": "Keysign é a melhor maneira de acessar sua TNB wallet na chain."
+    "defaultMessage": "Keysign é a melhor maneira de acessar sua LEAP wallet na chain."
   },
   "yc5XUr": {
     "defaultMessage": "Use Acc/Signkey"

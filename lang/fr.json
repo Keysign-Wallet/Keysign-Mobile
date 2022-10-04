@@ -21,16 +21,16 @@
     "defaultMessage": "MrSky"
   },
   "/X8qTz": {
-    "defaultMessage": "TNBCROW est une communauté commerciale P2P."
+    "defaultMessage": "LEAPCROW est une communauté commerciale P2P."
   },
   "/Yb8GH": {
-    "defaultMessage": "Keysign n'est pas propriétaire de TNBCROW"
+    "defaultMessage": "Keysign n'est pas propriétaire de LEAPCROW"
   },
   "/uNyiO": {
     "defaultMessage": "Verrouillage automatique"
   },
   "0D+jgY": {
-    "defaultMessage": "Gérez les ressources TNB et connectez-vous aux applications TNB."
+    "defaultMessage": "Gérez les ressources LEAP et connectez-vous aux applications LEAP."
   },
   "1Ojx58": {
     "defaultMessage": "Lors de l'importation, seuls les comptes qui ne sont pas déjà présents sur l'instance seront ajoutés."
@@ -75,7 +75,7 @@
     "defaultMessage": "Échanger"
   },
   "9QV9HO": {
-    "defaultMessage": "GÉRER TNB"
+    "defaultMessage": "GÉRER LEAP"
   },
   "9WRlF4": {
     "defaultMessage": "Envoyer"
@@ -216,7 +216,7 @@
     "defaultMessage": "Confirmation"
   },
   "QbCyGW": {
-    "defaultMessage": "Simple, léger et sécurisé. Commencez à vous connecter ou à créer votre portefeuille TNB."
+    "defaultMessage": "Simple, léger et sécurisé. Commencez à vous connecter ou à créer votre portefeuille LEAP."
   },
   "QiKKFz": {
     "defaultMessage": "Changer le mot de passe"
@@ -246,7 +246,7 @@
     "defaultMessage": "AJOUTER UNE BANQUE"
   },
   "TO4Vzt": {
-    "defaultMessage": "TheNewBoston Blockchain"
+    "defaultMessage": "LEAPCHAIN Blockchain"
   },
   "Tvsi2s": {
     "defaultMessage": "ENVOYER"
@@ -366,7 +366,7 @@
     "defaultMessage": "Code"
   },
   "hHk8xH": {
-    "defaultMessage": "Échanger sur TNBCROW"
+    "defaultMessage": "Échanger sur LEAPCROW"
   },
   "hqv+qJ": {
     "defaultMessage": "Pour ajouter une nouvelle banque, cliquez sur AJOUTER UNE BANQUE dans la liste déroulante."
@@ -456,7 +456,7 @@
     "defaultMessage": "Confirmez le mot de passe"
   },
   "vrMPql": {
-    "defaultMessage": "PORTEFEUILLE TNB"
+    "defaultMessage": "PORTEFEUILLE LEAP"
   },
   "wdOQAC": {
     "defaultMessage": "À propos de Keysign"
@@ -474,7 +474,7 @@
     "defaultMessage": "L'appareil n'a pas pu scanner"
   },
   "yJgJcp": {
-    "defaultMessage": "Keysign est le meilleur moyen d'accéder à votre portefeuille TNB sur la chaîne."
+    "defaultMessage": "Keysign est le meilleur moyen d'accéder à votre portefeuille LEAP sur la chaîne."
   },
   "yc5XUr": {
     "defaultMessage": "Utiliser Acc/Signkey"

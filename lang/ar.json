@@ -21,16 +21,16 @@
     "defaultMessage": "MrSky"
   },
   "/X8qTz": {
-    "defaultMessage": "TNBCROW هو مجتمع تداول يعمل بصيغة P2P نظير لنظير."
+    "defaultMessage": "LEAPCROW هو مجتمع تداول يعمل بصيغة P2P نظير لنظير."
   },
   "/Yb8GH": {
-    "defaultMessage": "Keysign لا يمتلك TNBCROW"
+    "defaultMessage": "Keysign لا يمتلك LEAPCROW"
   },
   "/uNyiO": {
     "defaultMessage": "قفل تلقائي"
   },
   "0D+jgY": {
-    "defaultMessage": "تحكم بممتلكاتك من ال TNB، وارتبط بتطبيقات ال TNB."
+    "defaultMessage": "تحكم بممتلكاتك من ال LEAP، وارتبط بتطبيقات ال LEAP."
   },
   "1Ojx58": {
     "defaultMessage": "عند الاستيراد ، ستتم إضافة الحسابات غير الموجودة بالفعل في المثيل فقط."
@@ -75,7 +75,7 @@
     "defaultMessage": "شراء/بيع"
   },
   "9QV9HO": {
-    "defaultMessage": "إدارة TNB"
+    "defaultMessage": "إدارة LEAP"
   },
   "9WRlF4": {
     "defaultMessage": "إرسال"
@@ -216,7 +216,7 @@
     "defaultMessage": "تأكيد"
   },
   "QbCyGW": {
-    "defaultMessage": "بسيطة وخفيفة وآمنة. اتصل وأنشئ محفظة TNB الخاصة بك."
+    "defaultMessage": "بسيطة وخفيفة وآمنة. اتصل وأنشئ محفظة LEAP الخاصة بك."
   },
   "QiKKFz": {
     "defaultMessage": "تغيير كلمة المرور"
@@ -246,7 +246,7 @@
     "defaultMessage": "إضافة بنك"
   },
   "TO4Vzt": {
-    "defaultMessage": "TheNewBoston Blockchain"
+    "defaultMessage": "LEAPCHAIN Blockchain"
   },
   "Tvsi2s": {
     "defaultMessage": "أرسل"
@@ -366,7 +366,7 @@
     "defaultMessage": "Code"
   },
   "hHk8xH": {
-    "defaultMessage": "تداول على TNBCROW"
+    "defaultMessage": "تداول على LEAPCROW"
   },
   "hqv+qJ": {
     "defaultMessage": "لإضافة بنك جديد، انقر على إضافة بنك في القائمة المنسدلة."
@@ -456,7 +456,7 @@
     "defaultMessage": "تأكيد كلمة المرور"
   },
   "vrMPql": {
-    "defaultMessage": "محفظة TNB"
+    "defaultMessage": "محفظة LEAP"
   },
   "wdOQAC": {
     "defaultMessage": "حول Keysign"
@@ -474,7 +474,7 @@
     "defaultMessage": "فشل الجهاز في أخذ المسحة"
   },
   "yJgJcp": {
-    "defaultMessage": "Keysign هو أفضل طريقة للوصول إلى محفظة TNB الخاصة بك على السلسلة."
+    "defaultMessage": "Keysign هو أفضل طريقة للوصول إلى محفظة LEAP الخاصة بك على السلسلة."
   },
   "yc5XUr": {
     "defaultMessage": "استخدم مفاتيح التوقيع"

@@ -94,11 +94,11 @@ const HandshakeTransferScreen = ({
           />
           <HandshakeInfoItem
             title={<FormattedMessage defaultMessage="Amount" />}
-            description={`${intl.formatNumber(amount)} TNBC`}
+            description={`${intl.formatNumber(amount)} LEAP`}
           />
           <HandshakeInfoItem
             title={<FormattedMessage defaultMessage="Fees" />}
-            description={`${intl.formatNumber(totalFee)} TNBC`}
+            description={`${intl.formatNumber(totalFee)} LEAP`}
           />
           {memo ? (
             <HandshakeInfoItem
