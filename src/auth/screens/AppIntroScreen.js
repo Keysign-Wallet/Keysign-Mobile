@@ -63,23 +63,23 @@ const AppIntroScreen = ({navigation}) => {
 
 const CAROUSEL_ITEMS = [
   {
-    title: <FormattedMessage defaultMessage="TNB WALLET" />,
+    title: <FormattedMessage defaultMessage="LEAP WALLET" />,
     description: (
-      <FormattedMessage defaultMessage="Keysign is the best way to access your TNB wallet on the chain." />
+      <FormattedMessage defaultMessage="Keysign is the best way to access your LEAP wallet on the chain." />
     ),
     source: <IconImage1 />,
   },
   {
-    title: <FormattedMessage defaultMessage="MANAGE TNB" />,
+    title: <FormattedMessage defaultMessage="MANAGE LEAP" />,
     description: (
-      <FormattedMessage defaultMessage="Manage TNB assets, and connect to TNB applications." />
+      <FormattedMessage defaultMessage="Manage LEAP assets, and connect to LEAP applications." />
     ),
     source: <IconImage2 />,
   },
   {
     title: <FormattedMessage defaultMessage="KEYSIGN" />,
     description: (
-      <FormattedMessage defaultMessage="Simple, lightweight, and secure. Get started to connect or create your TNB wallet." />
+      <FormattedMessage defaultMessage="Simple, lightweight, and secure. Get started to connect or create your LEAP wallet." />
     ),
     source: <IconImage3 />,
   },
