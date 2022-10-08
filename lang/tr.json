@@ -21,16 +21,16 @@
     "defaultMessage": "MrSky"
   },
   "/X8qTz": {
-    "defaultMessage": "TNBCROW, kişiden kişiye (P2P) ticaret topluluğudur."
+    "defaultMessage": "LEAPCROW, kişiden kişiye (P2P) ticaret topluluğudur."
   },
   "/Yb8GH": {
-    "defaultMessage": "Keysign, TNBCROW'un sahibi değildir."
+    "defaultMessage": "Keysign, LEAPCROW'un sahibi değildir."
   },
   "/uNyiO": {
     "defaultMessage": "Otomatik Kilitle"
   },
   "0D+jgY": {
-    "defaultMessage": "TNB varlıklarını yönet ve TNB uygulamalarına bağlan."
+    "defaultMessage": "LEAP varlıklarını yönet ve LEAP uygulamalarına bağlan."
   },
   "1Ojx58": {
     "defaultMessage": "İçe aktarırken, yalnızca mevcut olmayan hesaplar eklenecektir."
@@ -75,7 +75,7 @@
     "defaultMessage": "Al/Sat"
   },
   "9QV9HO": {
-    "defaultMessage": "TNB YÖNET"
+    "defaultMessage": "LEAP YÖNET"
   },
   "9WRlF4": {
     "defaultMessage": "Gönder"
@@ -216,7 +216,7 @@
     "defaultMessage": "Doğrulama"
   },
   "QbCyGW": {
-    "defaultMessage": "Basit, hafif ve güvenli. TNB cüzdanınızı oluşturun yada bağlayın."
+    "defaultMessage": "Basit, hafif ve güvenli. LEAP cüzdanınızı oluşturun yada bağlayın."
   },
   "QiKKFz": {
     "defaultMessage": "Şifre Değiştir"
@@ -270,7 +270,7 @@
     "defaultMessage": "Cüzdan eşleştirme adımları"
   },
   "XCnG27": {
-    "defaultMessage": "Keysign mobil uygulaması TNB ile uyumlu çalışacak şekilde geliştirildi"
+    "defaultMessage": "Keysign mobil uygulaması LEAP ile uyumlu çalışacak şekilde geliştirildi"
   },
   "XMYlZD": {
     "defaultMessage": "Cüzdanım"
@@ -366,7 +366,7 @@
     "defaultMessage": "Kod"
   },
   "hHk8xH": {
-    "defaultMessage": "TNBCROW ile Ticaret Yap"
+    "defaultMessage": "LEAPCROW ile Ticaret Yap"
   },
   "hqv+qJ": {
     "defaultMessage": "Yeni bir banka eklemek için açılır menüden BANKA EKLE'yi tıklayın."
@@ -456,7 +456,7 @@
     "defaultMessage": "Şifreyi Onayla"
   },
   "vrMPql": {
-    "defaultMessage": "TNB CÜZDAN"
+    "defaultMessage": "LEAP CÜZDAN"
   },
   "wdOQAC": {
     "defaultMessage": "Keysign Hakkında"
@@ -474,7 +474,7 @@
     "defaultMessage": "Cihaz taranamadı"
   },
   "yJgJcp": {
-    "defaultMessage": "Keysign, blok zincirdeki TNB cüzdanınıza erişmenin en iyi yoludur."
+    "defaultMessage": "Keysign, blok zincirdeki LEAP cüzdanınıza erişmenin en iyi yoludur."
   },
   "yc5XUr": {
     "defaultMessage": "İmza Anahtarı Kullan"

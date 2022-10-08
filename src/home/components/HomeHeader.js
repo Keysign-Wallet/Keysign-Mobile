@@ -64,7 +64,7 @@ const HomeHeader = ({wallet}) => {
   );
 };
 
-const KEYSIGN_CURRENCY = 'TNBC';
+const KEYSIGN_CURRENCY = 'LEAP';
 
 const styles = StyleSheet.create({
   container: {

@@ -21,16 +21,16 @@
     "defaultMessage": "MrSky"
   },
   "/X8qTz": {
-    "defaultMessage": "TNBCROW is a P2P trading community."
+    "defaultMessage": "LEAPCROW is a P2P trading community."
   },
   "/Yb8GH": {
-    "defaultMessage": "Keysign does not own TNBCROW"
+    "defaultMessage": "Keysign does not own LEAPCROW"
   },
   "/uNyiO": {
     "defaultMessage": "Auto Lock"
   },
   "0D+jgY": {
-    "defaultMessage": "Manage TNB assets, and connect to TNB applications."
+    "defaultMessage": "Manage LEAP assets, and connect to LEAP applications."
   },
   "1Ojx58": {
     "defaultMessage": "When importing, only accounts that are not already present on the instance will be added."
@@ -75,7 +75,7 @@
     "defaultMessage": "Trade"
   },
   "9QV9HO": {
-    "defaultMessage": "MANAGE TNB"
+    "defaultMessage": "MANAGE LEAP"
   },
   "9WRlF4": {
     "defaultMessage": "Send"
@@ -216,7 +216,7 @@
     "defaultMessage": "Confirmation"
   },
   "QbCyGW": {
-    "defaultMessage": "Simple, lightweight, and secure. Get started to connect or create your TNB wallet."
+    "defaultMessage": "Simple, lightweight, and secure. Get started to connect or create your LEAP wallet."
   },
   "QiKKFz": {
     "defaultMessage": "Change Password"
@@ -366,7 +366,7 @@
     "defaultMessage": "Code"
   },
   "hHk8xH": {
-    "defaultMessage": "Trade on TNBCROW"
+    "defaultMessage": "Trade on LEAPCROW"
   },
   "hqv+qJ": {
     "defaultMessage": "To add a new bank, click ADD BANK in dropdown."
@@ -456,7 +456,7 @@
     "defaultMessage": "Confirm Password"
   },
   "vrMPql": {
-    "defaultMessage": "TNB WALLET"
+    "defaultMessage": "LEAP WALLET"
   },
   "wdOQAC": {
     "defaultMessage": "About Keysign"
@@ -474,7 +474,7 @@
     "defaultMessage": "Device failed to scan"
   },
   "yJgJcp": {
-    "defaultMessage": "Keysign is the best way to access your TNB wallet on the chain."
+    "defaultMessage": "Keysign is the best way to access your LEAP wallet on the chain."
   },
   "yc5XUr": {
     "defaultMessage": "Use Acc/Signkey"

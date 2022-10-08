@@ -21,16 +21,16 @@
     "defaultMessage": "MrSky"
   },
   "/X8qTz": {
-    "defaultMessage": "TNBCROW adalah komunitas trading P2P."
+    "defaultMessage": "LEAPCROW adalah komunitas trading P2P."
   },
   "/Yb8GH": {
-    "defaultMessage": "Keysign tidak memiliki/membawahi TNBCROW"
+    "defaultMessage": "Keysign tidak memiliki/membawahi LEAPCROW"
   },
   "/uNyiO": {
     "defaultMessage": "Kunci Otomatis"
   },
   "0D+jgY": {
-    "defaultMessage": "Atur aset TNB, dan menghubungkan ke aplikasi TNB."
+    "defaultMessage": "Atur aset LEAP, dan menghubungkan ke aplikasi LEAP."
   },
   "1Ojx58": {
     "defaultMessage": "Saat mengimpor, hanya akun yang belum ada di instansi yang akan ditambahkan."
@@ -75,7 +75,7 @@
     "defaultMessage": "Trade"
   },
   "9QV9HO": {
-    "defaultMessage": "ATUR TNB"
+    "defaultMessage": "ATUR LEAP"
   },
   "9WRlF4": {
     "defaultMessage": "Kirim"
@@ -216,7 +216,7 @@
     "defaultMessage": "Konfirmasi"
   },
   "QbCyGW": {
-    "defaultMessage": "Simpel, ringan, dan terjamin. Mulai berkoneksi atau buat TNB Wallet Anda."
+    "defaultMessage": "Simpel, ringan, dan terjamin. Mulai berkoneksi atau buat LEAP Wallet Anda."
   },
   "QiKKFz": {
     "defaultMessage": "Ubah Sandi"
@@ -366,7 +366,7 @@
     "defaultMessage": "Code"
   },
   "hHk8xH": {
-    "defaultMessage": "Trade di TNBCROW"
+    "defaultMessage": "Trade di LEAPCROW"
   },
   "hqv+qJ": {
     "defaultMessage": "Untuk menambah bank baru, klik TAMBAH BANK di menu dropdown."
@@ -456,7 +456,7 @@
     "defaultMessage": "Konfirmasi Sandi"
   },
   "vrMPql": {
-    "defaultMessage": "TNB WALLET"
+    "defaultMessage": "LEAP WALLET"
   },
   "wdOQAC": {
     "defaultMessage": "Tentang Keysign"
@@ -474,7 +474,7 @@
     "defaultMessage": "Perangkat gagal untuk scan"
   },
   "yJgJcp": {
-    "defaultMessage": "Keysign adalah platform terbaik untuk mengakses TNB wallet anda di blockchain."
+    "defaultMessage": "Keysign adalah platform terbaik untuk mengakses LEAP wallet anda di blockchain."
   },
   "yc5XUr": {
     "defaultMessage": "Gunakan Acc/Signkey"

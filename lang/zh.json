@@ -21,16 +21,16 @@
     "defaultMessage": "MrSky"
   },
   "/X8qTz": {
-    "defaultMessage": "TNBCROW 是一个 P2P 交易社区。"
+    "defaultMessage": "LEAPCROW 是一个 P2P 交易社区。"
   },
   "/Yb8GH": {
-    "defaultMessage": "Keysign 不拥有 TNBCROW"
+    "defaultMessage": "Keysign 不拥有 LEAPCROW"
   },
   "/uNyiO": {
     "defaultMessage": "自动锁定"
   },
   "0D+jgY": {
-    "defaultMessage": "管理 TNB 资产，并连接到 TNB 应用程序。"
+    "defaultMessage": "管理 LEAP 资产，并连接到 LEAP 应用程序。"
   },
   "1Ojx58": {
     "defaultMessage": "When importing, only accounts that are not already present on the instance will be added."
@@ -75,7 +75,7 @@
     "defaultMessage": "交易"
   },
   "9QV9HO": {
-    "defaultMessage": "TNB管理"
+    "defaultMessage": "LEAP管理"
   },
   "9WRlF4": {
     "defaultMessage": "发送"
@@ -216,7 +216,7 @@
     "defaultMessage": "确认"
   },
   "QbCyGW": {
-    "defaultMessage": "简单、轻便又安全。 开始连接或创建您的 TNB 钱包吧。"
+    "defaultMessage": "简单、轻便又安全。 开始连接或创建您的 LEAP 钱包吧。"
   },
   "QiKKFz": {
     "defaultMessage": "更改密码"
@@ -366,7 +366,7 @@
     "defaultMessage": "代码"
   },
   "hHk8xH": {
-    "defaultMessage": "在 TNBCROW 上交易"
+    "defaultMessage": "在 LEAPCROW 上交易"
   },
   "hqv+qJ": {
     "defaultMessage": "如要添加新的银行，请单击下拉菜单中的添加银行。"
@@ -456,7 +456,7 @@
     "defaultMessage": "确认密码"
   },
   "vrMPql": {
-    "defaultMessage": "TNB钱包"
+    "defaultMessage": "LEAP钱包"
   },
   "wdOQAC": {
     "defaultMessage": "关于Keysign"
@@ -474,7 +474,7 @@
     "defaultMessage": "设备扫描失败"
   },
   "yJgJcp": {
-    "defaultMessage": "Keysign 是在链上访问您的 TNB 钱包的最佳方式。"
+    "defaultMessage": "Keysign 是在链上访问您的 LEAP 钱包的最佳方式。"
   },
   "yc5XUr": {
     "defaultMessage": "使用Acc/Signkey"

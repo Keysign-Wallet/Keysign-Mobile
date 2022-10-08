@@ -44,13 +44,13 @@
   "/X8qTz": [
     {
       "type": 0,
-      "value": "TNBCROW, kişiden kişiye (P2P) ticaret topluluğudur."
+      "value": "LEAPCROW, kişiden kişiye (P2P) ticaret topluluğudur."
     }
   ],
   "/Yb8GH": [
     {
       "type": 0,
-      "value": "Keysign, TNBCROW'un sahibi değildir."
+      "value": "Keysign, LEAPCROW'un sahibi değildir."
     }
   ],
   "/uNyiO": [
@@ -62,7 +62,7 @@
   "0D+jgY": [
     {
       "type": 0,
-      "value": "TNB varlıklarını yönet ve TNB uygulamalarına bağlan."
+      "value": "LEAP varlıklarını yönet ve LEAP uygulamalarına bağlan."
     }
   ],
   "1Ojx58": [
@@ -156,7 +156,7 @@
   "9QV9HO": [
     {
       "type": 0,
-      "value": "TNB YÖNET"
+      "value": "LEAP YÖNET"
     }
   ],
   "9WRlF4": [
@@ -447,7 +447,7 @@
   "QbCyGW": [
     {
       "type": 0,
-      "value": "Basit, hafif ve güvenli. TNB cüzdanınızı oluşturun yada bağlayın."
+      "value": "Basit, hafif ve güvenli. LEAP cüzdanınızı oluşturun yada bağlayın."
     }
   ],
   "QiKKFz": [
@@ -560,7 +560,7 @@
   "XCnG27": [
     {
       "type": 0,
-      "value": "Keysign mobil uygulaması TNB ile uyumlu çalışacak şekilde geliştirildi"
+      "value": "Keysign mobil uygulaması LEAP ile uyumlu çalışacak şekilde geliştirildi"
     }
   ],
   "XMYlZD": [
@@ -757,7 +757,7 @@
   "hHk8xH": [
     {
       "type": 0,
-      "value": "TNBCROW ile Ticaret Yap"
+      "value": "LEAPCROW ile Ticaret Yap"
     }
   ],
   "hqv+qJ": [
@@ -937,7 +937,7 @@
   "vrMPql": [
     {
       "type": 0,
-      "value": "TNB CÜZDAN"
+      "value": "LEAP CÜZDAN"
     }
   ],
   "wdOQAC": [
@@ -973,7 +973,7 @@
   "yJgJcp": [
     {
       "type": 0,
-      "value": "Keysign, blok zincirdeki TNB cüzdanınıza erişmenin en iyi yoludur."
+      "value": "Keysign, blok zincirdeki LEAP cüzdanınıza erişmenin en iyi yoludur."
     }
   ],
   "yc5XUr": [
